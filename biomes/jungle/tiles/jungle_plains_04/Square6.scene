@@ -4000,3 +4000,90 @@ EntityTemplate
 	}
 
 }
+
+EntityTemplate
+{
+	base_blueprint "props/grass/standard_big_01"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/grass/standard_big_01"
+		}
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-2.419"
+					y "-0.401"
+					z "-2.243"
+				}
+				max
+				{
+					x "1.700"
+					y "4.429"
+					z "2.252"
+				}
+			}
+		}
+		TransformComponent
+		{
+			orientation
+			{
+				w "-0.440"
+				y "-0.898"
+			}
+			position
+			{
+				x "60.378"
+				y "-0.000"
+				z "50.682"
+			}
+		}
+	}
+}
+EntityTemplate
+{
+	base_blueprint "props/grass/standard_big_01"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "props/grass/standard_big_01"
+		}
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-2.419"
+					y "-0.401"
+					z "-2.243"
+				}
+				max
+				{
+					x "1.700"
+					y "4.429"
+					z "2.252"
+				}
+			}
+		}
+		TransformComponent
+		{
+			orientation
+			{
+				w "-0.440"
+				y "-0.898"
+			}
+			position
+			{
+				x "47.213"
+				y "-0.000"
+				z "40.779"
+			}
+		}
+	}
+}

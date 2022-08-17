@@ -809,10 +809,10 @@ String "ground/rock/rocks_02"
 
 	default_liquid_resource "morphium_vein"
 	resources "carbon_vein,iron_vein,geothermal_vent,uranium_ore_vein,titanium_vein,palladium_vein,cobalt_vein,water_vein,mud_vein,sludge_vein,magma_vein,morphium_vein"
-	icon "gui/menu/biomes_prev/metallic_prev"
-	icon_with_outpost "gui/menu/biomes_prev/metallic_base_prev"
-	loading "gui/menu/loading/metallic"
-	loading_with_outpost "gui/menu/loading/metallic_outpost"
+	icon "gui/menu/biomes_prev/lilly"
+	icon_with_outpost "gui/menu/biomes_prev/lilly"
+	loading "gui/menu/loading/lilly"
+	loading_with_outpost "gui/menu/loading/lilly"
 	
 	root_template
 	{

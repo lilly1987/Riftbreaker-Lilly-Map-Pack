@@ -30,7 +30,7 @@ MissionDef
 	// 벤치마크에 대한 명시적 타일 목록이 필요하므로 선택한 시드에 대해 결정성을 유지합니다.
 	source_tiles
 	{
-
+biomes/jungle/tiles/jungle_plains_04/Square6.tile
 
 biomes/jungle/tiles/jungle_nest_01/jungle_nest_01_lilly0.tile
 //

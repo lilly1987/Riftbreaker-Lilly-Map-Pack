@@ -7,7 +7,7 @@ CampaignDef
 	research_tree				 "research_tree_survival"
 	building_cost_info			 "survival"
 
-	rich_presence				 "rich_presence_3"
+	rich_presence				 "rich_presence_4"
 	achievements_group			 "survival"
 	//achievements_group			 "campaign"
 	

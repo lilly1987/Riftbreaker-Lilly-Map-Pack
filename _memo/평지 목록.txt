@@ -1,0 +1,3 @@
+biomes/jungle/tiles/jungle_plains_04/
+biomes/jungle/tiles/jungle_starting_01/
+biomes/metallic/tiles/metallic_plains_04/
