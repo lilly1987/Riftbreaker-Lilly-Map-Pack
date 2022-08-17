@@ -1,0 +1,468 @@
+//editor "offset(-855.629,661.081)|zoom(0.854)"
+FlowGraphTemplate
+{
+	version "5"
+	editor "4950"
+	GraphNodes
+	{
+		LuaBehaviourNode
+		{
+			//editor "layout(event_start.xml)|pos(-60,285)"
+			script "lua/graph/mission_state/event_start.lua"
+			database
+			{
+				Integers
+				{
+					IntData
+					{
+						key "rule_headquarters_survive"
+						value "1"
+					}
+
+				}
+
+			}
+
+			self_id "default"
+		}
+
+		EndFlowGraphNode
+		{
+			//editor "layout(event_end.xml)|pos(2752,188)"
+			script "lua/graph/mission_state/event_end.lua"
+			self_id "event_end_0"
+		}
+
+		WaveGround
+		{
+			//editor "layout(wave_ground.xml)|pos(1097,-623)"
+			database
+			{
+				Integers
+				{
+					IntData
+					{
+						key "random_spawn"
+						value "0"
+					}
+
+					IntData
+					{
+						key "spawn_indicator"
+						value "0"
+					}
+
+					IntData
+					{
+						key "spawn_indicator_duration"
+						value "45"
+					}
+
+				}
+
+				Strings
+				{
+					StringData
+					{
+						key "spawn_direction"
+					}
+
+					StringData
+					{
+						key "target_name"
+					}
+
+				}
+
+			}
+
+			self_id "wave_ground_0"
+			group_name "universal"
+			delay "0"
+			percentage_units_to_end_wave "90"
+			Enemies
+			{
+				//editor "expanded(1)"
+				Enemy
+				{
+					//editor "layout(enemy_ground.xml)"
+					blueprint "units/ground/canoptrix_ultra"
+					delay_group "0"
+					delay "3.00"
+					count "4"
+					units_in_one_spawn "30"
+				}
+
+				Enemy
+				{
+					//editor "layout(enemy_ground.xml)"
+					blueprint "units/ground/canoptrix_ultra"
+					delay_group "8.00"
+					delay "3.00"
+					count "4"
+					units_in_one_spawn "30"
+				}
+
+			}
+
+		}
+
+		NodeSelectorNode
+		{
+			//editor "layout(logic_random_output.xml)|pos(398,160)"
+			script "lua/graph/logic/logic_random_output.lua"
+			database
+			{
+				Integers
+				{
+					IntData
+					{
+						key "outputs"
+						value "4"
+					}
+
+				}
+
+				Floats
+				{
+					//editor "expanded(1)"
+					FloatData
+					{
+						//editor "layout(condition_weight.xml)"
+						key "0"
+						value "1"
+					}
+
+					FloatData
+					{
+						//editor "layout(condition_weight.xml)"
+						key "1"
+						value "1"
+					}
+
+					FloatData
+					{
+						//editor "layout(condition_weight.xml)"
+						key "2"
+						value "1"
+					}
+
+					FloatData
+					{
+						//editor "layout(condition_weight.xml)"
+						key "3"
+						value "1"
+					}
+
+				}
+
+			}
+
+			self_id "logic_random_output_0"
+			conditions
+			{
+				//editor "expanded(1)"
+				ConditionData
+				{
+					//editor "layout(condition_int.xml)"
+					value "logic_random_output_0###0"
+					key "0"
+				}
+
+				ConditionData
+				{
+					//editor "layout(condition_int.xml)"
+					value "logic_random_output_0###1"
+					key "1"
+				}
+
+				ConditionData
+				{
+					//editor "layout(condition_int.xml)"
+					value "logic_random_output_0###2"
+					key "2"
+				}
+
+				ConditionData
+				{
+					//editor "layout(condition_int.xml)"
+					value "logic_random_output_0###3"
+					key "3"
+				}
+
+			}
+
+		}
+
+		FlowGraphNode
+		{
+			//editor "layout(condition_int.xml)|pos(413,389)"
+			self_id "logic_random_output_0###0"
+			value "logic_random_output_0###0"
+			key "0"
+		}
+
+		FlowGraphNode
+		{
+			//editor "layout(condition_int.xml)|pos(413,416)"
+			self_id "logic_random_output_0###1"
+			value "logic_random_output_0###1"
+			key "1"
+		}
+
+		FlowGraphNode
+		{
+			//editor "layout(condition_int.xml)|pos(413,443)"
+			self_id "logic_random_output_0###2"
+			value "logic_random_output_0###2"
+			key "2"
+		}
+
+		FlowGraphNode
+		{
+			//editor "layout(condition_int.xml)|pos(413,470)"
+			self_id "logic_random_output_0###3"
+			value "logic_random_output_0###3"
+			key "3"
+		}
+
+		WaveGround
+		{
+			//editor "layout(wave_ground.xml)|pos(1480,-188)"
+			database
+			{
+				Integers
+				{
+					IntData
+					{
+						key "random_spawn"
+						value "0"
+					}
+
+					IntData
+					{
+						key "spawn_indicator"
+						value "0"
+					}
+
+					IntData
+					{
+						key "spawn_indicator_duration"
+						value "45"
+					}
+
+				}
+
+				Strings
+				{
+					StringData
+					{
+						key "spawn_direction"
+					}
+
+					StringData
+					{
+						key "target_name"
+					}
+
+				}
+
+			}
+
+			self_id "wave_ground_1"
+			group_name "universal"
+			delay "0"
+			percentage_units_to_end_wave "90"
+			Enemies
+			{
+				//editor "expanded(1)"
+				Enemy
+				{
+					//editor "layout(enemy_ground.xml)"
+					blueprint "units/ground/granan_ultra"
+					delay_group "0"
+					delay "3.00"
+					count "4"
+					units_in_one_spawn "30"
+				}
+
+				Enemy
+				{
+					//editor "layout(enemy_ground.xml)"
+					blueprint "units/ground/granan_ultra"
+					delay_group "8.00"
+					delay "3.00"
+					count "4"
+					units_in_one_spawn "30"
+				}
+
+			}
+
+		}
+
+		WaveGround
+		{
+			//editor "layout(wave_ground.xml)|pos(1084,182)"
+			database
+			{
+				Integers
+				{
+					IntData
+					{
+						key "random_spawn"
+						value "0"
+					}
+
+					IntData
+					{
+						key "spawn_indicator"
+						value "0"
+					}
+
+					IntData
+					{
+						key "spawn_indicator_duration"
+						value "45"
+					}
+
+				}
+
+				Strings
+				{
+					StringData
+					{
+						key "spawn_direction"
+					}
+
+					StringData
+					{
+						key "target_name"
+					}
+
+				}
+
+			}
+
+			self_id "wave_ground_2"
+			group_name "universal"
+			delay "0"
+			percentage_units_to_end_wave "90"
+			Enemies
+			{
+				//editor "expanded(1)"
+				Enemy
+				{
+					//editor "layout(enemy_ground.xml)"
+					blueprint "units/ground/mushbit_ultra"
+					delay_group "0"
+					delay "3.00"
+					count "4"
+					units_in_one_spawn "30"
+				}
+
+				Enemy
+				{
+					//editor "layout(enemy_ground.xml)"
+					blueprint "units/ground/mushbit_ultra"
+					delay_group "8.00"
+					delay "3.00"
+					count "4"
+					units_in_one_spawn "30"
+				}
+
+			}
+
+		}
+
+		WaveGround
+		{
+			//editor "layout(wave_ground.xml)|pos(1488,607)"
+			database
+			{
+				Integers
+				{
+					IntData
+					{
+						key "random_spawn"
+						value "0"
+					}
+
+					IntData
+					{
+						key "spawn_indicator"
+						value "0"
+					}
+
+					IntData
+					{
+						key "spawn_indicator_duration"
+						value "45"
+					}
+
+				}
+
+				Strings
+				{
+					StringData
+					{
+						key "spawn_direction"
+					}
+
+					StringData
+					{
+						key "target_name"
+					}
+
+				}
+
+			}
+
+			self_id "wave_ground_3"
+			group_name "universal"
+			delay "0"
+			percentage_units_to_end_wave "90"
+			Enemies
+			{
+				//editor "expanded(1)"
+				Enemy
+				{
+					//editor "layout(enemy_ground.xml)"
+					blueprint "units/ground/morirot_ultra"
+					delay_group "0"
+					delay "3.00"
+					count "4"
+					units_in_one_spawn "30"
+				}
+
+				Enemy
+				{
+					//editor "layout(enemy_ground.xml)"
+					blueprint "units/ground/morirot_ultra"
+					delay_group "8.00"
+					delay "3.00"
+					count "4"
+					units_in_one_spawn "30"
+				}
+
+			}
+
+		}
+
+	}
+
+	GraphConnections
+	{
+		wave_ground_3 "event_end_0"
+		wave_ground_2 "event_end_0"
+		wave_ground_1 "event_end_0"
+		logic_random_output_0###3 "wave_ground_3"
+		logic_random_output_0###2 "wave_ground_2"
+		logic_random_output_0###1 "wave_ground_1"
+		logic_random_output_0###0 "wave_ground_0"
+		wave_ground_0 "event_end_0"
+		logic_random_output_0 "logic_random_output_0###0|logic_random_output_0###1|logic_random_output_0###2|logic_random_output_0###3"
+		default "logic_random_output_0"
+	}
+
+}
+

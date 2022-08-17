@@ -172,277 +172,277 @@ MissionDef
 
 	mission_object_spawners
 	{
-	    MarkerBlueprintSpawner
-	    {
-	        spawn_pool               "loot_containers"
+        MarkerBlueprintSpawner
+        {
+            spawn_pool               "loot_containers"
 
-	        // find all entities on map with this blueprint as possible spawn point
-	        spawn_at_marker          "logic/spawn_objective"
+            // find all entities on map with this blueprint as possible spawn point
+            spawn_at_marker          "logic/spawn_objective"
 
-	        // min distance from objects in other pools
-	        spawn_min_distance_from_pools
-	        {
-	            player_spawn_point  250.0
-	            loot_containers     300.0
-	        }
+            // min distance from objects in other pools
+            spawn_min_distance_from_pools
+            {
+                player_spawn_point  250.0
+                loot_containers     300.0
+            }
 
-	        // range of spawned blueprints by this pool <min,max>, max can be 0 for unbounded upper limit
-	        spawn_instances_minmax    5,15
+            // range of spawned blueprints by this pool <min,max>, max can be 0 for unbounded upper limit
+            spawn_instances_minmax    5,15
 
-	        spawn_blueprints
-	        {
-	            spawners/jungle_spawner_standard
+            spawn_blueprints
+            {
+                spawners/jungle_spawner_standard
 				{
-	                // make a roll to check if blueprint can be spawned
-	                spawn_chance           0.5
-	            }
+                    // make a roll to check if blueprint can be spawned
+                    spawn_chance           0.5
+                }
 				spawners/acid_spawner_standard
 					{
-	                // make a roll to check if blueprint can be spawned
-	                spawn_chance           0.5
-	            }
+                    // make a roll to check if blueprint can be spawned
+                    spawn_chance           0.5
+                }
 				spawners/desert_spawner_standard
 					{
-	                // make a roll to check if blueprint can be spawned
-	                spawn_chance           0.5
-	            }
+                    // make a roll to check if blueprint can be spawned
+                    spawn_chance           0.5
+                }
 				spawners/magma_spawner_standard
 					{
-	                // make a roll to check if blueprint can be spawned
-	                spawn_chance           0.5
-	            }
+                    // make a roll to check if blueprint can be spawned
+                    spawn_chance           0.5
+                }
 				spawners/metallic_spawner_standard
-	            {
-	                // make a roll to check if blueprint can be spawned
-	                spawn_chance           0.5
-	            }
+                {
+                    // make a roll to check if blueprint can be spawned
+                    spawn_chance           0.5
+                }
 
-	            spawners/jungle_spawner_advanced
+                spawners/jungle_spawner_advanced
 				   {
-	                spawn_instances_minmax 3,5
-	                spawn_chance           0.2
-	            }
+                    spawn_instances_minmax 3,5
+                    spawn_chance           0.2
+                }
 				spawners/acid_spawner_advanced
 				   {
-	                spawn_instances_minmax 3,5
-	                spawn_chance           0.2
-	            }
+                    spawn_instances_minmax 3,5
+                    spawn_chance           0.2
+                }
 				spawners/desert_spawner_advanced
 				   {
-	                spawn_instances_minmax 3,5
-	                spawn_chance           0.2
-	            }
+                    spawn_instances_minmax 3,5
+                    spawn_chance           0.2
+                }
 				spawners/magma_spawner_advanced
 				   {
-	                spawn_instances_minmax 3,5
-	                spawn_chance           0.2
-	            }
+                    spawn_instances_minmax 3,5
+                    spawn_chance           0.2
+                }
 				spawners/metallic_spawner_advanced
-	            {
-	                spawn_instances_minmax 3,5
-	                spawn_chance           0.2
-	            }
+                {
+                    spawn_instances_minmax 3,5
+                    spawn_chance           0.2
+                }
 
 				spawners/jungle_spawner_superior
 				  {
-	                spawn_instances_minmax 2,3
-	                spawn_chance           0.2
-	            }
+                    spawn_instances_minmax 2,3
+                    spawn_chance           0.2
+                }
 				spawners/acid_spawner_superior
 				  {
-	                spawn_instances_minmax 2,3
-	                spawn_chance           0.2
-	            }
+                    spawn_instances_minmax 2,3
+                    spawn_chance           0.2
+                }
 				spawners/desert_spawner_superior
 				  {
-	                spawn_instances_minmax 2,3
-	                spawn_chance           0.2
-	            }
+                    spawn_instances_minmax 2,3
+                    spawn_chance           0.2
+                }
 				spawners/magma_spawner_superior
 				  {
-	                spawn_instances_minmax 2,3
-	                spawn_chance           0.2
-	            }
-	            spawners/metallic_spawner_superior
-	            {
-	                spawn_instances_minmax 2,3
-	                spawn_chance           0.2
-	            }
+                    spawn_instances_minmax 2,3
+                    spawn_chance           0.2
+                }
+                spawners/metallic_spawner_superior
+                {
+                    spawn_instances_minmax 2,3
+                    spawn_chance           0.2
+                }
 
-	            spawners/jungle_spawner_extreme
+                spawners/jungle_spawner_extreme
 				{
-	                spawn_instances_minmax 1,2
-	                spawn_chance           0.1
-	            }
+                    spawn_instances_minmax 1,2
+                    spawn_chance           0.1
+                }
 				spawners/acid_spawner_extreme
 				{
-	                spawn_instances_minmax 1,2
-	                spawn_chance           0.1
-	            }
+                    spawn_instances_minmax 1,2
+                    spawn_chance           0.1
+                }
 				spawners/desert_spawner_extreme
 				{
-	                spawn_instances_minmax 1,2
-	                spawn_chance           0.1
-	            }
+                    spawn_instances_minmax 1,2
+                    spawn_chance           0.1
+                }
 				spawners/magma_spawner_extreme
 				{
-	                spawn_instances_minmax 1,2
-	                spawn_chance           0.1
-	            }
+                    spawn_instances_minmax 1,2
+                    spawn_chance           0.1
+                }
 				spawners/metallic_spawner_extreme
-	            {
-	                spawn_instances_minmax 1,2
-	                spawn_chance           0.1
-	            }
-	        }
-	    }
+                {
+                    spawn_instances_minmax 1,2
+                    spawn_chance           0.1
+                }
+            }
+        }
 
-	    GridSpawner
-	    {
-	        spawn_pool                  "underground_treasures"
+        GridSpawner
+        {
+            spawn_pool                  "underground_treasures"
 
-	        //terrain_types               "mud,floor"
+            //terrain_types               "mud,floor"
 
-	        spawn_min_distance_from_pools
-	        {
-	            player_spawn_point      150.0
-	            loot_containers         50.0
-	            underground_treasures   50.0
-	        }
+            spawn_min_distance_from_pools
+            {
+                player_spawn_point      150.0
+                loot_containers         50.0
+                underground_treasures   50.0
+            }
 
-	        spawn_blueprints
-	        {
-	            spawners/loot_spawner
-	            {
-	                spawn_instances_minmax      0,2
-	                spawn_discoverable_level    1
+            spawn_blueprints
+            {
+                spawners/loot_spawner
+                {
+                    spawn_instances_minmax      0,2
+                    spawn_discoverable_level    1
 
-	                database
-	                {	
-	                    blueprint 	    string:"items/loot/resources/shard_carbonium_item"
-	                    min   	 	    int:"200"
-	                    max   	 	    int:"500"
-	                }
-	            }
+                    database
+                    {	
+                        blueprint 	    string:"items/loot/resources/shard_carbonium_item"
+                        min   	 	    int:"200"
+                        max   	 	    int:"500"
+                    }
+                }
 
-	            spawners/loot_spawner
-	            {
-	                spawn_instances_minmax      0,2
-	                spawn_discoverable_level    1
+                spawners/loot_spawner
+                {
+                    spawn_instances_minmax      0,2
+                    spawn_discoverable_level    1
 
-	                database
-	                {	
-	                    blueprint 	string:"items/loot/resources/shard_steel_item"
-	                    min   	 	int:"500"
-	                    max   	 	int:"1000"
-	                }
-	            }
+                    database
+                    {	
+                        blueprint 	string:"items/loot/resources/shard_steel_item"
+                        min   	 	int:"500"
+                        max   	 	int:"1000"
+                    }
+                }
 
-	            spawners/loot_spawner
-	            {
-	                spawn_instances_minmax      3,5
-	                spawn_discoverable_level    1
+                spawners/loot_spawner
+                {
+                    spawn_instances_minmax      3,5
+                    spawn_discoverable_level    1
 
-	                database
-	                {	
-	                    blueprint 	string:"items/loot/resources/shard_hazenite_item"
-	                    min   	 	int:"100"
-	                    max   	 	int:"250"
-	                }
-	            }
+                    database
+                    {	
+                        blueprint 	string:"items/loot/resources/shard_hazenite_item"
+                        min   	 	int:"100"
+                        max   	 	int:"250"
+                    }
+                }
 
-	            spawners/loot_spawner
-	            {
-	                spawn_instances_minmax      3,5
-	                spawn_discoverable_level    1
+                spawners/loot_spawner
+                {
+                    spawn_instances_minmax      3,5
+                    spawn_discoverable_level    1
 
-	                database
-	                {	
-	                    blueprint 	string:"items/loot/resources/shard_tanzanite_item"
-	                    min   	 	int:"100"
-	                    max   	 	int:"250"
-	                }
-	            }
+                    database
+                    {	
+                        blueprint 	string:"items/loot/resources/shard_tanzanite_item"
+                        min   	 	int:"100"
+                        max   	 	int:"250"
+                    }
+                }
 				
 				spawners/loot_spawner
-	            {
-	                spawn_instances_minmax      3,5
-	                spawn_discoverable_level    1
+                {
+                    spawn_instances_minmax      3,5
+                    spawn_discoverable_level    1
 
-	                database
-	                {	
-	                    blueprint 	string:"items/loot/resources/shard_rhodonite_item"
-	                    min   	 	int:"100"
-	                    max   	 	int:"250"
-	                }
-	            }
+                    database
+                    {	
+                        blueprint 	string:"items/loot/resources/shard_rhodonite_item"
+                        min   	 	int:"100"
+                        max   	 	int:"250"
+                    }
+                }
 				
 				spawners/loot_spawner
-	            {
-	                spawn_instances_minmax      3,5
-	                spawn_discoverable_level    1
+                {
+                    spawn_instances_minmax      3,5
+                    spawn_discoverable_level    1
 
-	                database
-	                {	
-	                    blueprint 	string:"items/loot/resources/shard_ferdonite_item"
-	                    min   	 	int:"100"
-	                    max   	 	int:"250"
-	                }
-	            }
+                    database
+                    {	
+                        blueprint 	string:"items/loot/resources/shard_ferdonite_item"
+                        min   	 	int:"100"
+                        max   	 	int:"250"
+                    }
+                }
 
-	            spawners/loot_spawner
-	            {
-	                spawn_instances_minmax      3,5
-	                spawn_discoverable_level    1
+                spawners/loot_spawner
+                {
+                    spawn_instances_minmax      3,5
+                    spawn_discoverable_level    1
 
-	                database
-	                {	
-	                    blueprint 	string:"items/loot/resources/shard_uranium_item"
-	                    min   	 	int:"200"
-	                    max   	 	int:"500"
-	                }
-	            }
+                    database
+                    {	
+                        blueprint 	string:"items/loot/resources/shard_uranium_item"
+                        min   	 	int:"200"
+                        max   	 	int:"500"
+                    }
+                }
 
-	            spawners/loot_spawner
-	            {
-	                spawn_instances_minmax      3,5
-	                spawn_discoverable_level    1
+                spawners/loot_spawner
+                {
+                    spawn_instances_minmax      3,5
+                    spawn_discoverable_level    1
 
-	                database
-	                {	
-	                    blueprint 	string:"items/loot/resources/shard_cobalt_item"
-	                    min   	 	int:"200"
-	                    max   	 	int:"500"
-	                }
-	            }
+                    database
+                    {	
+                        blueprint 	string:"items/loot/resources/shard_cobalt_item"
+                        min   	 	int:"200"
+                        max   	 	int:"500"
+                    }
+                }
 				
 				spawners/loot_spawner
-	            {
-	                spawn_instances_minmax      3,5
-	                spawn_discoverable_level    1
+                {
+                    spawn_instances_minmax      3,5
+                    spawn_discoverable_level    1
 
-	                database
-	                {	
-	                    blueprint 	string:"items/loot/resources/shard_titanium_item"
-	                    min   	 	int:"200"
-	                    max   	 	int:"500"
-	                }
-	            }
+                    database
+                    {	
+                        blueprint 	string:"items/loot/resources/shard_titanium_item"
+                        min   	 	int:"200"
+                        max   	 	int:"500"
+                    }
+                }
 				
 				spawners/loot_spawner
-	            {
-	                spawn_instances_minmax      3,5
-	                spawn_discoverable_level    1
+                {
+                    spawn_instances_minmax      3,5
+                    spawn_discoverable_level    1
 
-	                database
-	                {	
-	                    blueprint 	string:"items/loot/resources/shard_palladium_item"
-	                    min   	 	int:"200"
-	                    max   	 	int:"500"
-	                }
-	            }
-	        }
-	    }
+                    database
+                    {	
+                        blueprint 	string:"items/loot/resources/shard_palladium_item"
+                        min   	 	int:"200"
+                        max   	 	int:"500"
+                    }
+                }
+            }
+        }
 	}
 
 

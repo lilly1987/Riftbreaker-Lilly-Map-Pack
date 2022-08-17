@@ -8,8 +8,12 @@
 - revision history
 - https://github.com/lilly1987/Riftbreaker-Lilly-Map-Pack
 - 
-- 특정 타일을 직접 선택하고 싶으면
-- lilly_test0.mission 파일 참조
+- 특정 타일을 직접 선택하고 싶으면 lilly_test0.mission 파일 참조
+- If you want to manually select a specific tile See lilly_test0.mission file
 - 
-- If you want to manually select a specific tile
-- See lilly_test0.mission file
+- 구조상 난이도 변경도 포함
+- Including structural difficulty changes
+- lua\missions\survival\v2
+- 
+- tool의 폰트 버그로 초목은 생성 불가
+- Plants cannot be created due to a font bug in the tool

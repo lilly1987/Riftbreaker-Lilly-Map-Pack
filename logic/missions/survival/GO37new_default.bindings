@@ -1,0 +1,104 @@
+FlowGraphBindings
+{
+	Database
+	{
+		Strings
+		{
+			StringData
+			{
+				key "mission_infinite"
+				value "0"
+			}
+
+		}
+
+		Floats
+		{
+			FloatData
+			{
+				key "mission_duration"
+				value "3600"
+			}
+
+			FloatData
+			{
+				key "final_wave_time"
+				value "3300"
+			}
+
+			FloatData
+			{
+				key "warmup_duration"
+				value "300"
+			}
+
+			FloatData
+			{
+				key "end_timer"
+				value "300"
+			}
+
+		}
+
+	}
+
+	Bindings
+	{
+		objective_generic_timer_0
+		{
+			//database@Floats@FloatData[0]@value "mission_duration"
+			database
+			{
+				Floats
+				{
+					FloatData[0]
+					{
+						value "mission_duration"
+					}
+
+				}
+
+			}
+
+		}
+
+		logic_wait_27
+		{
+			//database@Floats@FloatData@value "final_wave_time"
+			database
+			{
+				Floats
+				{
+					FloatData
+					{
+						value "final_wave_time"
+					}
+
+				}
+
+			}
+
+		}
+
+		logic_if_0
+		{
+			//database@Strings@StringData[0]@value "mission_infinite"
+			database
+			{
+				Strings
+				{
+					StringData[0]
+					{
+						value "mission_infinite"
+					}
+
+				}
+
+			}
+
+		}
+
+	}
+
+}
+

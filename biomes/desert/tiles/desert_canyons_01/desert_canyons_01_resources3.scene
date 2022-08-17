@@ -23492,8 +23492,8 @@ EntityTemplate
 		{
 			position
 			{
-				x "0.000"
-				z "0.000"
+				x "32.000"
+				z "32.000"
 			}
 
 		}

@@ -1,0 +1,10 @@
+import * from "materials/scripts/pbr.material"
+
+
+
+material ground/misc/GO37new_color_black : pbr/default
+{
+	set_texture_alias albedo			materials/textures/GO37new_color_black.dds
+	set_texture_alias normal			materials/textures/GO37new_normalmap_flat_bc5.dds
+	set_texture_alias packed			materials/textures/GO37new_pbr_100_100_packed.dds
+}
