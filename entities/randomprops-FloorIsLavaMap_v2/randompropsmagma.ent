@@ -1,0 +1,10427 @@
+EntityBlueprint
+{
+    name "randomprops/randompropsmagma"
+
+	RandomBlueprintDesc
+	{
+		//Blueprint
+		//{
+		//	blueprint "units/ground/gnerot_burning"
+		//}
+		
+		//Blueprint
+		//{
+		//	blueprint "units/ground/gnerot_burning_fight"
+		//}
+
+// Carbonium resource
+		BlueprintDesc
+		{
+			blueprint "resources/volume_resource_carbon"
+		}
+
+		BlueprintDesc
+		{
+			blueprint "resources/volume_resource_carbon"
+		}
+
+// Ironium resource
+		BlueprintDesc
+		{
+			blueprint "resources/volume_resource_iron"
+		}
+		BlueprintDesc
+		{
+			blueprint "resources/volume_resource_iron"
+		}
+
+// Geothermal resources 
+		BlueprintDesc
+		{
+			blueprint "resources/volume_resource_geothermal"
+		}
+
+// Props
+		
+		Blueprint
+		{
+			blueprint "props/crystals/pure_big_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/crystals/pure_big_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/crystals/pure_big_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/crystals/pure_medium_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/crystals/pure_medium_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/crystals/pure_medium_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/crystals/pure_small_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/crystals/pure_small_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/crystals/pure_small_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_big_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_big_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_big_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_big_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_big_05"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_big_06"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_big_07"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_big_08"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_big_09"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_big_10"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_big_11"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_medium_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_medium_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_medium_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_medium_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_medium_05"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_medium_06"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_medium_07"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_medium_08"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_medium_09"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_medium_10"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_medium_11"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_medium_12"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_medium_13"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_small_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_small_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_small_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_small_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_small_05"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_flat_big_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_flat_big_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_01"
+		}
+		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_05"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_06"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_07"
+		}
+		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_small_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_small_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_small_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_medium_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_medium_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_medium_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_01"
+		}
+		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_05"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_06"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_07"
+		}
+		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_small_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_small_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_small_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_medium_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_medium_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_medium_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_01"
+		}
+		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_05"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_06"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_07"
+		}
+		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_small_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_small_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_small_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_medium_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_medium_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_medium_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_01"
+		}
+		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_05"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_06"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_07"
+		}
+		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_small_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_small_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_small_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_medium_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_medium_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_medium_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_01"
+		}
+		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_05"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_06"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_big_07"
+		}
+		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_small_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_small_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_small_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_medium_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_medium_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_medium_03"
+		}
+
+
+		//Lava debris
+		
+				Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		
+		//Jagged debris
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+
+		
+
+
+	}
+}

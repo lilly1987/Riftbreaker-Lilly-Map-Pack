@@ -1,0 +1,77 @@
+EntityBlueprint
+{
+    name "randomprops/randomdebrismagma"
+
+	RandomBlueprintDesc
+	{
+
+		//Lava debris
+		
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/lava/lava_debris_03"
+		}		
+		
+		//Jagged debris
+				Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_01"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_02"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_03"
+		}
+
+		Blueprint
+		{
+			blueprint "props/rocks/jagged/jagged_debris_04"
+		}
+
+	}
+}

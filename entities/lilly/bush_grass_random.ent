@@ -1,0 +1,753 @@
+
+EntityBlueprint
+{
+	name  "lilly/bush_grass_random"
+
+	SceneEditorDesc
+    {
+        mesh        "meshes/volume.mesh"
+        material    "resources/volume_resource_random_liquid"
+
+        initial_scale
+        {
+            x "10.0"
+            y "4.0"
+            z "10.0"
+        }
+    }
+
+	RandomBlueprintDesc
+	{
+
+Blueprint
+{
+blueprint "props/bush/leafy_big_02"
+}
+Blueprint
+{
+blueprint "props/bush/leafy_big_03"
+}
+Blueprint
+{
+blueprint "props/bush/leafy_medium_02"
+}
+Blueprint
+{
+blueprint "props/bush/leafy_big_04"
+}
+Blueprint
+{
+blueprint "props/bush/leafy_medium_03"
+}
+Blueprint
+{
+blueprint "props/bush/leafy_medium_04"
+}
+Blueprint
+{
+blueprint "props/bush/leafy_big_01"
+}
+Blueprint
+{
+blueprint "props/bush/leafy_medium_01"
+}
+Blueprint
+{
+blueprint "props/bush/leafy_small_01"
+}
+Blueprint
+{
+blueprint "props/bush/leafy_small_02"
+}
+Blueprint
+{
+blueprint "props/bush/leafy_small_03"
+}
+Blueprint
+{
+blueprint "props/bush/leafy_small_04"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_flowers_big"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_flowers_medium"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_flowers_small"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_leafy_big_01"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_leafy_big_02"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_leafy_big_05"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_leafy_big_03"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_leafy_big_04"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_leafy_medium_01"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_leafy_medium_02"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_leafy_medium_03"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_leafy_medium_04"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_leafy_medium_05"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_leafy_small_01"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_leafy_small_02"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_leafy_small_03"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_leafy_small_04"
+}
+Blueprint
+{
+blueprint  "props/bush/metallic_leafy_small_05"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_medium_01"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_medium_01_skin1"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_medium_01_skin2"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_medium_02"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_medium_02_skin1"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_medium_02_skin2"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_medium_03"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_medium_03_skin1"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_medium_03_skin2"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_small_01"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_small_01_skin1"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_small_01_skin2"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_small_02"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_small_02_skin1"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_small_02_skin2"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_small_03"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_small_03_skin1"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_small_03_skin2"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_very_small_01_skin1"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_very_small_01"
+}
+Blueprint
+{
+blueprint   	"props/bush/ray_flower_very_small_01_skin2"
+}
+Blueprint
+{
+blueprint  "props/bush/ray_flower_very_small_02"
+}
+Blueprint
+{
+blueprint  "props/bush/ray_flower_very_small_02_skin1"
+}
+Blueprint
+{
+blueprint  "props/bush/ray_flower_very_small_02_skin2"
+}
+Blueprint
+{
+blueprint  "props/bush/ray_flower_very_small_03"
+}
+Blueprint
+{
+blueprint  "props/bush/ray_flower_very_small_03_skin1"
+}
+Blueprint
+{
+blueprint  "props/bush/ray_flower_very_small_03_skin2"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_big_01"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_big_01_skin1"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_big_01_skin10"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_big_01_skin11_f"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_big_01_skin2"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_big_01_skin3"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_big_01_skin4"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_big_01_skin5"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_big_01_skin6"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_big_01_skin7"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_big_01_skin8"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_big_01_skin9"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_medium_01_skin1"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_medium_01"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_medium_01_skin10"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_medium_01_skin11_f"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_medium_01_skin2"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_medium_01_skin3"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_medium_01_skin4"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_medium_01_skin5"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_medium_01_skin6"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_medium_01_skin7"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_medium_01_skin8"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_medium_01_skin9"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_small_01"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_small_01_skin10"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_small_01_skin1"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_small_01_skin2"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_small_01_skin11_f"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_small_01_skin3"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_small_01_skin4"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_small_01_skin5"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_small_01_skin6"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_small_01_skin7"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_small_01_skin8"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_small_01_skin9"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_very_big_01"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_very_big_01_skin1"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_very_big_01_skin10"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_very_big_01_skin11_f"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_very_big_01_skin2"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_very_big_01_skin3"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_very_big_01_skin4"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_very_big_01_skin6"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_very_big_01_skin5"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_very_big_01_skin7"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_very_big_01_skin8"
+}
+Blueprint
+{
+blueprint  "props/bush/standard_very_big_01_skin9"
+}
+Blueprint
+{
+blueprint  "props/grass/black_big_01"
+}
+Blueprint
+{
+blueprint  "props/grass/black_big_02"
+}
+Blueprint
+{
+blueprint  "props/grass/black_big_03"
+}
+Blueprint
+{
+blueprint  "props/grass/black_big_04"
+}
+Blueprint
+{
+blueprint  "props/grass/black_medium_01"
+}
+Blueprint
+{
+blueprint  "props/grass/black_medium_02"
+}
+Blueprint
+{
+blueprint  "props/grass/black_medium_03"
+}
+Blueprint
+{
+blueprint  "props/grass/black_medium_04"
+}
+Blueprint
+{
+blueprint  "props/grass/black_medium_05"
+}
+Blueprint
+{
+blueprint  "props/grass/black_small_01"
+}
+Blueprint
+{
+blueprint  "props/grass/black_small_02"
+}
+Blueprint
+{
+blueprint  "props/grass/cover_leaves_big_01"
+}
+Blueprint
+{
+blueprint  "props/grass/cover_leaves_big_02"
+}
+Blueprint
+{
+blueprint  "props/grass/cover_leaves_big_03"
+}
+Blueprint
+{
+blueprint  "props/grass/cover_leaves_medium_01"
+}
+Blueprint
+{
+blueprint  "props/grass/cover_leaves_medium_02"
+}
+Blueprint
+{
+blueprint  "props/grass/cover_leaves_small_02"
+}
+Blueprint
+{
+blueprint  "props/grass/cover_leaves_medium_03"
+}
+Blueprint
+{
+blueprint  "props/grass/cover_leaves_small_01"
+}
+Blueprint
+{
+blueprint  "props/grass/cover_leaves_small_03"
+}
+Blueprint
+{
+blueprint  "props/grass/dry_big_01"
+}
+Blueprint
+{
+blueprint  "props/grass/dry_big_02"
+}
+Blueprint
+{
+blueprint  "props/grass/dry_big_03"
+}
+Blueprint
+{
+blueprint  "props/grass/dry_big_04"
+}
+Blueprint
+{
+blueprint  "props/grass/dry_medium_01"
+}
+Blueprint
+{
+blueprint  "props/grass/dry_medium_02"
+}
+Blueprint
+{
+blueprint  "props/grass/dry_medium_03"
+}
+Blueprint
+{
+blueprint  "props/grass/dry_medium_04"
+}
+Blueprint
+{
+blueprint  "props/grass/dry_medium_05"
+}
+Blueprint
+{
+blueprint  "props/grass/dry_small_01"
+}
+Blueprint
+{
+blueprint  "props/grass/dry_small_02"
+}
+Blueprint
+{
+blueprint  "props/grass/prairie_big_01"
+}
+Blueprint
+{
+blueprint  "props/grass/prairie_big_02"
+}
+Blueprint
+{
+blueprint  "props/grass/prairie_big_03"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_big_01"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_big_02"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_big_03"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_medium_01"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_medium_02"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_medium_03"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_small_01"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_small_02"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_small_03"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_big_01_skin1"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_big_02_skin1"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_big_03_skin1"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_medium_01_skin1"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_medium_02_skin1"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_medium_03_skin1"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_small_01_skin1"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_small_02_skin1"
+}
+Blueprint
+{
+blueprint "props/grass/metallic_spiky_small_03_skin1"
+}
+Blueprint
+{
+blueprint  "props/grass/prairie_big_04"
+}
+Blueprint
+{
+blueprint  "props/grass/prairie_medium_01"
+}
+Blueprint
+{
+blueprint  "props/grass/prairie_medium_02"
+}
+Blueprint
+{
+blueprint  "props/grass/prairie_medium_03"
+}
+Blueprint
+{
+blueprint  "props/grass/prairie_medium_04"
+}
+Blueprint
+{
+blueprint  "props/grass/prairie_medium_05"
+}
+Blueprint
+{
+blueprint  "props/grass/prairie_medium_06"
+}
+Blueprint
+{
+blueprint  "props/grass/prairie_small_01"
+}
+Blueprint
+{
+blueprint  "props/grass/prairie_small_02"
+}
+Blueprint
+{
+blueprint  "props/grass/standard_big_01"
+}
+Blueprint
+{
+blueprint  "props/grass/standard_big_01_skin1"
+}
+Blueprint
+{
+blueprint  "props/grass/standard_big_01_skin2"
+}
+Blueprint
+{
+blueprint  "props/grass/standard_big_01_skin3_f"
+}
+Blueprint
+{
+blueprint  "props/grass/standard_medium_01"
+}
+Blueprint
+{
+blueprint  "props/grass/standard_medium_01_skin1"
+}
+Blueprint
+{
+blueprint  "props/grass/standard_medium_01_skin2"
+}
+Blueprint
+{
+blueprint  "props/grass/standard_medium_01_skin3_f"
+}
+Blueprint
+{
+blueprint  "props/grass/standard_root_01"
+}
+Blueprint
+{
+blueprint  "props/grass/standard_small_01"
+}
+Blueprint
+{
+blueprint  "props/grass/standard_small_01_skin1"
+}
+Blueprint
+{
+blueprint  "props/grass/standard_small_01_skin2"
+}
+Blueprint
+{
+blueprint  "props/grass/standard_very_big_01"
+}
+Blueprint
+{
+blueprint  "props/grass/standard_small_01_skin3_f"
+}
+Blueprint
+{
+blueprint  "props/grass/standard_very_big_01_skin1"
+}
+Blueprint
+{
+blueprint  "props/grass/standard_very_big_01_skin2"
+}
+
+	}
+}
+

@@ -1,0 +1,95 @@
+EntityBlueprint
+{
+    name "props/modified/granite_rock_medium_02"
+    
+	MeshDesc
+	{
+		mesh "meshes/props/rocks/sandstone/sandstone_medium_02.mesh"
+		material "props/rocks/granite_wet/granite_wet_medium_02"
+	}
+
+	
+	NodeCullerDesc
+	{
+		nav_mesh_cull_type 	"1"
+		cost_type 			"nav_blocker"
+		flow_field_size		"0.7"
+	}
+
+	//PhysicsDesc
+ 	//{
+	//	objects
+	//	{
+	//		PhysicsObjectDesc
+	//		{
+	//			type 				"static"
+	//			group_id 			"nav_blocker"
+	//
+	//			Shapes
+	//			{
+	//				PhysicsBoxShape
+	//				{
+	//					x	3
+    	//					y	2
+    	//					z	3
+	//				}
+	//			}
+	//		}
+	//	}
+	//}
+
+
+	PhysicsDesc
+ 	{
+		objects
+		{
+			PhysicsObjectDesc
+			{
+				type 				"static"
+				group_id 			"building"
+
+				Shapes
+				{
+					PhysicsBoxShape
+					{
+						x	6
+    						y	10
+    						z	6
+					}
+				}
+			}
+		}
+	}
+	
+	GridCullerDesc
+	{
+		Shapes
+		{
+			PhysicsBoxShape
+   			{
+  				x	6
+    				y	10
+    				z	6
+   			}			
+		}
+	}
+
+	MinimapItemDesc
+	{
+		type	"quad"
+		color 
+		{
+			x "1"
+			y "1"
+			z "1"
+			w "1"
+		}
+		size
+		{
+			x "3"
+			y "3"
+		}
+		visibility			"discovered"
+	}
+		
+}

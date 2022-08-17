@@ -1,0 +1,651 @@
+MissionDef
+{
+
+	
+	biomes "GO37new"
+	script "lua/missions/survival/survival_GO37new.lua"
+	localization_id "GO37new"
+	map_size "12"
+	failed_action
+	script_database
+	{
+		Strings
+		Floats
+		Vectors
+		Integers
+	}
+	creature_volumes_density "0.750"
+	creature_volumes_min_distance "128.000"
+
+	source_tiles
+	{
+		biomes/GO37new/tiles/GO37new_Planet/GO37new_Planet.tile
+		biomes/GO37new/tiles/GO37new_1x1/GO37new_1x1.tile
+		biomes/GO37new/tiles/GO37new_1x1_liquid/GO37new_1x1_liquid.tile
+	}
+
+	tile_spawn_rules
+	{
+		biomes/GO37new/tiles/GO37new_Planet/GO37new_Planet.tile
+		{
+			tile_coord
+			{
+				x"0,0"
+				y"0,1"
+			}
+			max_instances "1"
+			min_instances "1"
+		}
+
+		biomes/GO37new/tiles/GO37new_1x1/GO37new_1x1.tile
+		{
+			// max_instances "1"
+			min_instances "1"
+		}
+
+		biomes/GO37new/tiles/GO37new_1x1_liquid/GO37new_1x1_liquid.tile
+
+		{
+			// max_instances "1"
+			min_instances "1"
+		}
+
+
+
+	}
+
+	// ambient_creature_species
+	// {
+	// 	air
+	// 	{
+	// 		species
+	// 		{
+	// 			CreatureVolume
+	// 			{
+	// 				creature_species "vesaurus"
+	// 			}
+
+	// 		}
+
+	// 	}
+
+	// 	ground
+	// 	{
+	// 		species
+	// 		{
+	// 			CreatureVolume
+	// 			{
+	// 				creature_species "quelver"
+	// 			}
+
+	// 		}
+
+	// 	}
+
+	// }
+
+	creature_volumes_species
+	{
+		liquid_units
+		{
+			CreatureVolume
+			{
+				creature_species "hedroner_jungle"
+				volume_spawn_ratio "0.500"
+			}
+
+		}
+
+		neutral_units
+		{
+			CreatureVolume
+			{
+				creature_species "jurvine"
+			}
+
+		}
+
+		regular_units
+		{
+			CreatureVolume
+			{
+				creature_species "canoptrix"
+				volume_spawn_ratio "2.000"
+			}
+
+			CreatureVolume
+			{
+				creature_species "arachnoid_sentinel"
+				volume_spawn_ratio "1.250"
+			}
+
+			CreatureVolume
+			{
+				creature_species "kafferroceros"
+			}
+
+			CreatureVolume
+			{
+				creature_species "phirian_jungle"
+				volume_spawn_ratio "0.250"
+			}
+
+			CreatureVolume
+			{
+				creature_species "baxmoth_jungle"
+				volume_spawn_ratio "0.200"
+			}
+
+			CreatureVolume
+			{
+				creature_species "kermon"
+				volume_spawn_ratio "0.500"
+			}
+
+			CreatureVolume
+			{
+				creature_species "bomogan_jungle"
+				volume_spawn_ratio "0.500"
+			}
+
+		}
+
+		resource_units
+		{
+			CreatureVolume
+			{
+				creature_species "gnerot_jungle"
+				volume_spawn_ratio "0.400"
+			}
+
+			CreatureVolume
+			{
+				creature_species "krocoon_jungle"
+				volume_spawn_ratio "0.200"
+			}
+
+		}
+
+	}
+
+
+
+	mission_object_spawners
+	{
+	    MarkerBlueprintSpawner
+	    {
+	        spawn_pool               "loot_containers"
+
+	        // find all entities on map with this blueprint as possible spawn point
+	        spawn_at_marker          "logic/spawn_objective"
+
+	        // min distance from objects in other pools
+	        spawn_min_distance_from_pools
+	        {
+	            player_spawn_point  250.0
+	            loot_containers     300.0
+	        }
+
+	        // range of spawned blueprints by this pool <min,max>, max can be 0 for unbounded upper limit
+	        spawn_instances_minmax    5,15
+
+	        spawn_blueprints
+	        {
+	            spawners/jungle_spawner_standard
+				{
+	                // make a roll to check if blueprint can be spawned
+	                spawn_chance           0.5
+	            }
+				spawners/acid_spawner_standard
+					{
+	                // make a roll to check if blueprint can be spawned
+	                spawn_chance           0.5
+	            }
+				spawners/desert_spawner_standard
+					{
+	                // make a roll to check if blueprint can be spawned
+	                spawn_chance           0.5
+	            }
+				spawners/magma_spawner_standard
+					{
+	                // make a roll to check if blueprint can be spawned
+	                spawn_chance           0.5
+	            }
+				spawners/metallic_spawner_standard
+	            {
+	                // make a roll to check if blueprint can be spawned
+	                spawn_chance           0.5
+	            }
+
+	            spawners/jungle_spawner_advanced
+				   {
+	                spawn_instances_minmax 3,5
+	                spawn_chance           0.2
+	            }
+				spawners/acid_spawner_advanced
+				   {
+	                spawn_instances_minmax 3,5
+	                spawn_chance           0.2
+	            }
+				spawners/desert_spawner_advanced
+				   {
+	                spawn_instances_minmax 3,5
+	                spawn_chance           0.2
+	            }
+				spawners/magma_spawner_advanced
+				   {
+	                spawn_instances_minmax 3,5
+	                spawn_chance           0.2
+	            }
+				spawners/metallic_spawner_advanced
+	            {
+	                spawn_instances_minmax 3,5
+	                spawn_chance           0.2
+	            }
+
+				spawners/jungle_spawner_superior
+				  {
+	                spawn_instances_minmax 2,3
+	                spawn_chance           0.2
+	            }
+				spawners/acid_spawner_superior
+				  {
+	                spawn_instances_minmax 2,3
+	                spawn_chance           0.2
+	            }
+				spawners/desert_spawner_superior
+				  {
+	                spawn_instances_minmax 2,3
+	                spawn_chance           0.2
+	            }
+				spawners/magma_spawner_superior
+				  {
+	                spawn_instances_minmax 2,3
+	                spawn_chance           0.2
+	            }
+	            spawners/metallic_spawner_superior
+	            {
+	                spawn_instances_minmax 2,3
+	                spawn_chance           0.2
+	            }
+
+	            spawners/jungle_spawner_extreme
+				{
+	                spawn_instances_minmax 1,2
+	                spawn_chance           0.1
+	            }
+				spawners/acid_spawner_extreme
+				{
+	                spawn_instances_minmax 1,2
+	                spawn_chance           0.1
+	            }
+				spawners/desert_spawner_extreme
+				{
+	                spawn_instances_minmax 1,2
+	                spawn_chance           0.1
+	            }
+				spawners/magma_spawner_extreme
+				{
+	                spawn_instances_minmax 1,2
+	                spawn_chance           0.1
+	            }
+				spawners/metallic_spawner_extreme
+	            {
+	                spawn_instances_minmax 1,2
+	                spawn_chance           0.1
+	            }
+	        }
+	    }
+
+	    GridSpawner
+	    {
+	        spawn_pool                  "underground_treasures"
+
+	        //terrain_types               "mud,floor"
+
+	        spawn_min_distance_from_pools
+	        {
+	            player_spawn_point      150.0
+	            loot_containers         50.0
+	            underground_treasures   50.0
+	        }
+
+	        spawn_blueprints
+	        {
+	            spawners/loot_spawner
+	            {
+	                spawn_instances_minmax      0,2
+	                spawn_discoverable_level    1
+
+	                database
+	                {	
+	                    blueprint 	    string:"items/loot/resources/shard_carbonium_item"
+	                    min   	 	    int:"200"
+	                    max   	 	    int:"500"
+	                }
+	            }
+
+	            spawners/loot_spawner
+	            {
+	                spawn_instances_minmax      0,2
+	                spawn_discoverable_level    1
+
+	                database
+	                {	
+	                    blueprint 	string:"items/loot/resources/shard_steel_item"
+	                    min   	 	int:"500"
+	                    max   	 	int:"1000"
+	                }
+	            }
+
+	            spawners/loot_spawner
+	            {
+	                spawn_instances_minmax      3,5
+	                spawn_discoverable_level    1
+
+	                database
+	                {	
+	                    blueprint 	string:"items/loot/resources/shard_hazenite_item"
+	                    min   	 	int:"100"
+	                    max   	 	int:"250"
+	                }
+	            }
+
+	            spawners/loot_spawner
+	            {
+	                spawn_instances_minmax      3,5
+	                spawn_discoverable_level    1
+
+	                database
+	                {	
+	                    blueprint 	string:"items/loot/resources/shard_tanzanite_item"
+	                    min   	 	int:"100"
+	                    max   	 	int:"250"
+	                }
+	            }
+				
+				spawners/loot_spawner
+	            {
+	                spawn_instances_minmax      3,5
+	                spawn_discoverable_level    1
+
+	                database
+	                {	
+	                    blueprint 	string:"items/loot/resources/shard_rhodonite_item"
+	                    min   	 	int:"100"
+	                    max   	 	int:"250"
+	                }
+	            }
+				
+				spawners/loot_spawner
+	            {
+	                spawn_instances_minmax      3,5
+	                spawn_discoverable_level    1
+
+	                database
+	                {	
+	                    blueprint 	string:"items/loot/resources/shard_ferdonite_item"
+	                    min   	 	int:"100"
+	                    max   	 	int:"250"
+	                }
+	            }
+
+	            spawners/loot_spawner
+	            {
+	                spawn_instances_minmax      3,5
+	                spawn_discoverable_level    1
+
+	                database
+	                {	
+	                    blueprint 	string:"items/loot/resources/shard_uranium_item"
+	                    min   	 	int:"200"
+	                    max   	 	int:"500"
+	                }
+	            }
+
+	            spawners/loot_spawner
+	            {
+	                spawn_instances_minmax      3,5
+	                spawn_discoverable_level    1
+
+	                database
+	                {	
+	                    blueprint 	string:"items/loot/resources/shard_cobalt_item"
+	                    min   	 	int:"200"
+	                    max   	 	int:"500"
+	                }
+	            }
+				
+				spawners/loot_spawner
+	            {
+	                spawn_instances_minmax      3,5
+	                spawn_discoverable_level    1
+
+	                database
+	                {	
+	                    blueprint 	string:"items/loot/resources/shard_titanium_item"
+	                    min   	 	int:"200"
+	                    max   	 	int:"500"
+	                }
+	            }
+				
+				spawners/loot_spawner
+	            {
+	                spawn_instances_minmax      3,5
+	                spawn_discoverable_level    1
+
+	                database
+	                {	
+	                    blueprint 	string:"items/loot/resources/shard_palladium_item"
+	                    min   	 	int:"200"
+	                    max   	 	int:"500"
+	                }
+	            }
+	        }
+	    }
+	}
+
+
+	random_resources
+	{
+		ResourceVolume
+		{
+			max_resources "15000.000"
+			max_spawned_volumes "30"
+			min_resources "5000.000"
+			min_spawned_volumes "20"
+			resource "carbon_vein"
+		}
+
+		ResourceVolume
+		{
+			max_resources "18000.000"
+			max_spawned_volumes "8"
+			min_resources "7000.000"
+			min_spawned_volumes "4"
+			required_discovery_lvl "1"
+			resource "carbon_vein"
+		}
+
+		ResourceVolume
+		{
+			max_resources "10000.000"
+			max_spawned_volumes "30"
+			min_resources "3500.000"
+			min_spawned_volumes "10"
+			resource "iron_vein"
+		}
+
+		ResourceVolume
+		{
+			max_resources "12000.000"
+			max_spawned_volumes "8"
+			min_resources "4500.000"
+			min_spawned_volumes "4"
+			required_discovery_lvl "1"
+			resource "iron_vein"
+		}
+
+		ResourceVolume
+		{
+			max_resources "4000.000"
+			max_spawned_volumes "8"
+			min_resources "1500.000"
+			min_spawned_volumes "4"
+			resource "uranium_ore_vein"
+		}
+
+		ResourceVolume
+		{
+			max_resources "4000.000"
+			max_spawned_volumes "8"
+			min_resources "2000.000"
+			min_spawned_volumes "4"
+			required_discovery_lvl "1"
+			resource "uranium_ore_vein"
+		}
+
+		ResourceVolume
+		{
+			max_resources "4000.000"
+			max_spawned_volumes "8"
+			min_resources "1500.000"
+			min_spawned_volumes "4"
+			resource "titanium_vein"
+		}
+
+		ResourceVolume
+		{
+			max_resources "4000.000"
+			max_spawned_volumes "8"
+			min_resources "2000.000"
+			min_spawned_volumes "4"
+			required_discovery_lvl "1"
+			resource "titanium_vein"
+		}
+
+		ResourceVolume
+		{
+			max_resources "4000.000"
+			max_spawned_volumes "8"
+			min_resources "1500.000"
+			min_spawned_volumes "4"
+			resource "palladium_vein"
+		}
+
+		ResourceVolume
+		{
+			max_resources "4000.000"
+			max_spawned_volumes "8"
+			min_resources "2000.000"
+			min_spawned_volumes "4"
+			required_discovery_lvl "1"
+			resource "palladium_vein"
+		}
+
+		ResourceVolume
+		{
+			max_resources "4000.000"
+			max_spawned_volumes "8"
+			min_resources "1500.000"
+			min_spawned_volumes "4"
+			resource "cobalt_vein"
+		}
+
+		ResourceVolume
+		{
+			max_resources "4000.000"
+			max_spawned_volumes "8"
+			min_resources "2000.000"
+			min_spawned_volumes "4"
+			required_discovery_lvl "1"
+			resource "cobalt_vein"
+		}
+
+
+
+		ResourceVolume
+		{
+			is_infinite "1"
+			max_resources "500.000"
+			max_spawned_volumes "9001"
+			min_resources "500.000"
+			min_spawned_volumes "2"
+			resource "sludge_vein"
+		}
+
+		ResourceVolume
+		{
+			is_infinite "1"
+			max_resources "500.000"
+			max_spawned_volumes "9001"
+			min_resources "500.000"
+			min_spawned_volumes "2"
+			resource "mud_vein"
+		}
+
+			ResourceVolume
+		{
+			is_infinite "1"
+			max_resources "500.000"
+			max_spawned_volumes "9001"
+			min_resources "500.000"
+			min_spawned_volumes "2"
+			resource "water_vein"
+		}
+
+			ResourceVolume
+		{
+			is_infinite "1"
+			max_resources "500.000"
+			max_spawned_volumes "9001"
+			min_resources "500.000"
+			min_spawned_volumes "2"
+			resource "morphium_vein"
+		}
+
+			ResourceVolume
+		{
+			is_infinite "1"
+			max_resources "500.000"
+			max_spawned_volumes "9001"
+			min_resources "500.000"
+			min_spawned_volumes "2"
+			resource "magma_vein"
+		}
+
+	}
+
+	
+
+
+	
+	max_starting_distance "96.000"
+	min_starting_distance "16.000"
+
+	starting_resources
+	{
+		ResourceVolume
+		{
+			max_resources "22000.000"
+			max_spawned_volumes "2"
+			min_resources "16000.000"
+			min_spawned_volumes "2"
+			resource "carbon_vein"
+		}
+
+		ResourceVolume
+		{
+			max_resources "18000.000"
+			max_spawned_volumes "2"
+			min_resources "12000.000"
+			min_spawned_volumes "2"
+			resource "iron_vein"
+		}
+
+	}
+
+	
+
+}
+

@@ -1,0 +1,10 @@
+CampaignDef
+{
+	campaign_type 				 "custom"
+	startup_mission_def 		 "custom/GO37new"
+	startup_mission_name  		 "Headquarters"
+	
+	research_tree				 "research_tree_survival"	
+	building_cost_info 			 "survival"
+}
+

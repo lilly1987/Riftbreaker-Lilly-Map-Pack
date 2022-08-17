@@ -1,2 +1,15 @@
 # Riftbreaker-Lilly-Map-Pack
- 
+- 
+- 이것 에서 맵을 분리한 모드
+- A mod that separates the map from this
+- https://www.nexusmods.com/theriftbreaker/mods/206
+- 
+- 수정 이력
+- revision history
+- https://github.com/lilly1987/Riftbreaker-Lilly-Map-Pack
+- 
+- 특정 타일을 직접 선택하고 싶으면
+- lilly_test0.mission 파일 참조
+- 
+- If you want to manually select a specific tile
+- See lilly_test0.mission file

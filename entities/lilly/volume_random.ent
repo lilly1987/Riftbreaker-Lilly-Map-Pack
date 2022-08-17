@@ -1,0 +1,63 @@
+
+EntityBlueprint
+{
+	name  "lilly/volume_random"
+
+	SceneEditorDesc
+    {
+        mesh        "meshes/volume.mesh"
+        material    "resources/volume_resource_random_liquid"
+
+        initial_scale
+        {
+            x "10.0"
+            y "4.0"
+            z "10.0"
+        }
+    }
+
+	RandomBlueprintDesc
+	{
+		Blueprint
+		{
+			blueprint "resources/volume_random_resources_liquid"
+		}			
+		Blueprint
+		{
+			blueprint "resources/volume_random_resources"
+		}			
+		Blueprint
+		{
+			blueprint "resources/volume_random_placement"
+		}
+		Blueprint
+		{
+			blueprint "logic/spawn_enemy"
+		}
+		Blueprint
+		{
+			blueprint "logic/spawn_special_object"
+		}
+		Blueprint
+		{
+			blueprint "logic/spawn_objective"
+		}
+		Blueprint
+		{
+			blueprint "units/spawner/volume_regular_units_spawner"
+		}
+		Blueprint
+		{
+			blueprint "units/spawner/volume_neutral_units_spawner"
+		}
+		Blueprint
+		{
+			blueprint "units/spawner/volume_resources_units_spawner"
+		}
+		Blueprint
+		{
+			blueprint "units/spawner/volume_liquid_units_spawner"
+		}
+	}
+}
+

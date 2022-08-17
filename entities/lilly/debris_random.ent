@@ -1,0 +1,223 @@
+
+EntityBlueprint
+{
+	name  "lilly/debris_random"
+
+	SceneEditorDesc
+    {
+        mesh        "meshes/volume.mesh"
+        material    "resources/volume_resource_random_liquid"
+
+        initial_scale
+        {
+            x "10.0"
+            y "4.0"
+            z "10.0"
+        }
+    }
+
+	RandomBlueprintDesc
+	{
+Blueprint
+{
+blueprint "props/rocks/cliff/cliff_debris_01"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff/cliff_debris_02"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff/cliff_debris_03"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff_black/cliff_black_debris_01"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff_black/cliff_black_debris_03"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff_black/cliff_black_debris_02"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_01"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_02"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff_mossy/cliff_mossy_debris_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/cudgle/cudgle_debris_01"
+}
+Blueprint
+{
+blueprint  "props/rocks/cudgle/cudgle_debris_02"
+}
+Blueprint
+{
+blueprint  "props/rocks/cudgle/cudgle_debris_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/cudgle/cudgle_debris_04"
+}
+Blueprint
+{
+blueprint  "props/rocks/granite_mossy/granite_mossy_debris_small_01"
+}
+Blueprint
+{
+blueprint  "props/rocks/granite_mossy/granite_mossy_debris_small_02"
+}
+Blueprint
+{
+blueprint  "props/rocks/granite_mossy/granite_mossy_debris_small_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/granite_wet/granite_wet_debris_small_01"
+}
+Blueprint
+{
+blueprint  "props/rocks/granite_wet/granite_wet_debris_small_02"
+}
+Blueprint
+{
+blueprint  "props/rocks/granite_wet/granite_wet_debris_small_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/jagged/jagged_debris_01"
+}
+Blueprint
+{
+blueprint  "props/rocks/jagged/jagged_debris_02"
+}
+Blueprint
+{
+blueprint  "props/rocks/jagged/jagged_debris_04"
+}
+Blueprint
+{
+blueprint  "props/rocks/jagged/jagged_debris_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/jagged_energy/jagged_energy_debris_01"
+}
+Blueprint
+{
+blueprint  "props/rocks/jagged_energy/jagged_energy_debris_02"
+}
+Blueprint
+{
+blueprint  "props/rocks/jagged_energy/jagged_energy_debris_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/jagged_energy/jagged_energy_debris_04"
+}
+Blueprint
+{
+blueprint  "props/rocks/lava/lava_debris_01"
+}
+Blueprint
+{
+blueprint  "props/rocks/lava/lava_debris_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/lava/lava_debris_02"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_cube/metallic_cube_debris_01"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_cube/metallic_cube_debris_02"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_cube/metallic_cube_debris_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_mineral/metallic_mineral_debris_01"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_mineral/metallic_mineral_debris_02"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_mineral/metallic_mineral_debris_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_sharp/metallic_sharp_debris_01"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_sharp/metallic_sharp_debris_02"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_sharp/metallic_sharp_debris_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_sharp/metallic_sharp_debris_04"
+}
+Blueprint
+{
+blueprint  "props/rocks/ovoid_acid/ovoid_acid_debris_01"
+}
+Blueprint
+{
+blueprint  "props/rocks/ovoid_acid/ovoid_acid_debris_02"
+}
+Blueprint
+{
+blueprint  "props/rocks/ovoid_acid/ovoid_acid_debris_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/sandstone/sandstone_debris_small_01"
+}
+Blueprint
+{
+blueprint  "props/rocks/sandstone/sandstone_debris_small_02"
+}
+Blueprint
+{
+blueprint  "props/rocks/sandstone/sandstone_debris_small_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/volcanic/volcanic_rock_debris_01"
+}
+Blueprint
+{
+blueprint  "props/rocks/volcanic/volcanic_rock_debris_02"
+}
+Blueprint
+{
+blueprint  "props/rocks/volcanic/volcanic_rock_debris_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/volcanic/volcanic_rock_debris_04"
+}
+}
+}
+
