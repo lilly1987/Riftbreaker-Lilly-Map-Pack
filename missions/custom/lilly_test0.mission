@@ -23,7 +23,7 @@ MissionDef
 	biomes		  	"lilly"
 	
 	creature_volumes_min_distance   "128.0"
-	creature_volumes_density		"0.25"
+	creature_volumes_density		"0.01"
 	//threat  "1"
 
 	// We need explicit tiles list for benchmarks so they stay deterministic for selected seed
@@ -32,10 +32,7 @@ MissionDef
 	{
 
 
-//biomes/desert/tiles/desert_canyons_01/desert_canyons_01.tile
-biomes/desert/tiles/desert_canyons_01/desert_canyons_01_lilly.tile
-biomes/desert/tiles/desert_canyons_01/desert_canyons_01_resources3.tile
-//biomes/jungle/tiles/jungle_plains_04/jungle_plains_04_lilly.tile
+biomes/jungle/tiles/jungle_nest_01/jungle_nest_01_lilly0.tile
 //
 biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 
@@ -43,11 +40,11 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 
 	tile_spawn_rules
 	{			
-		biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
+		biomes/jungle/tiles/jungle_nest_01/jungle_nest_01_lilly0.tile
 		{
 			min_instances	1
-			max_instances	1
-			//random_weight	2.0
+			//max_instances	1
+			random_weight	9.0
 		}
 	}
 
@@ -585,11 +582,11 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 			spawn_min_distance_from_pools
 			{
 				player_spawn_point  50.0
-				loot_containers	 40.0
+				loot_containers	 30.0
 			}
 
 			// range of spawned blueprints by this pool <min,max>, max can be 0 for unbounded upper limit
-			spawn_instances_minmax	15,200
+			spawn_instances_minmax	40,600
 
 			spawn_blueprints
 			{
@@ -735,50 +732,50 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 
 			// range of spawned blueprints by this pool <min,max>, max can be 0 for unbounded upper limit
 			spawn_instances_minmax	0,0
-			spawn_density	0.25
+			spawn_density	0.5
 
 			spawn_blueprints
 			{
 				props/special/cryo_plant/cryo_plant_big_01
 				{
 					// make a roll to check if blueprint can be spawned
-					spawn_chance		   0.1
+					spawn_chance		   0.2
 				}
 				props/special/cryo_plant/cryo_plant_big_02
 				{
 					// make a roll to check if blueprint can be spawned
-					spawn_chance		   0.1
+					spawn_chance		   0.2
 				}
 				props/special/cryo_plant/cryo_plant_big_03
 				{
 					// make a roll to check if blueprint can be spawned
-					spawn_chance		   0.1
+					spawn_chance		   0.2
 				}
 
 				props/special/cryo_plant/cryo_plant_medium_01
 				{					
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				}
 				props/special/cryo_plant/cryo_plant_medium_02
 				{					
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				}
 				props/special/cryo_plant/cryo_plant_medium_03
 				{					
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				}
 				
 				props/special/cryo_plant/cryo_plant_small_01
 				{					
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				}
 				props/special/cryo_plant/cryo_plant_small_01
 				{					
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				} 
 				props/special/cryo_plant/cryo_plant_small_01
 				{					
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				} 				
 				
 			}
@@ -802,22 +799,22 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 
 			// range of spawned blueprints by this pool <min,max>, max can be 0 for unbounded upper limit
 			spawn_instances_minmax	0,0
-			spawn_density	0.175
+			spawn_density	0.25
 
 			spawn_blueprints
 			{
 				props/special/magnetic_rocks/magnetic_big_01
 				{
 					// make a roll to check if blueprint can be spawned
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				}
 				props/special/magnetic_rocks/magnetic_big_02
 				{					
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				}
 				props/special/magnetic_rocks/magnetic_big_03
 				{					
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				}
 
 				props/special/magnetic_rocks/magnetic_medium_01
@@ -835,15 +832,15 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 				
 				props/special/magnetic_rocks/magnetic_small_01
 				{					
-					spawn_chance		   0.1
+					spawn_chance		   0.15
 				}
 				props/special/magnetic_rocks/magnetic_small_02
 				{					
-					spawn_chance		   0.1
+					spawn_chance		   0.15
 				}  
 				props/special/magnetic_rocks/magnetic_small_03
 				{					
-					spawn_chance		   0.1
+					spawn_chance		   0.15
 				}  
 			}
 		}
@@ -1026,8 +1023,8 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 		{
 			resource		"carbon_vein"
 
-			min_resources   "7500"
-			max_resources   "20000"
+            min_resources   "30000"
+            max_resources   "80000"
 
 			min_spawned_volumes "40"
 			max_spawned_volumes "60"
@@ -1037,21 +1034,21 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 		{
 			resource		"carbon_vein"
 			
-			required_discovery_lvl	"1"
+			//required_discovery_lvl	"1"
 			
-			min_resources   "10000"
-			max_resources   "25000"
+			min_resources   "28000"
+			max_resources   "72000"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
+			min_spawned_volumes "8"
+			max_spawned_volumes "16"
 		}		
 
 		ResourceVolume
 		{
 			resource		"iron_vein"
 
-			min_resources   "8000"
-			max_resources   "15000"
+            min_resources   "32000"
+            max_resources   "60000"
 
 			min_spawned_volumes "20"
 			max_spawned_volumes "60"
@@ -1061,13 +1058,13 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 		{
 			resource		"iron_vein"
 			
-			required_discovery_lvl	"1"
+			//required_discovery_lvl	"1"
 			
-			min_resources   "10000"
-			max_resources   "20000"
+            min_resources   "40000"
+            max_resources   "80000"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
+			min_spawned_volumes "8"
+			max_spawned_volumes "16"
 		}		
 		
 		ResourceVolume
@@ -1087,13 +1084,13 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 		{
 			resource		"geothermal_vent"
 			
-			required_discovery_lvl	"1"
+			//required_discovery_lvl	"1"
 			
 			min_resources   "6000"
 			max_resources   "10000"
 
-			min_spawned_volumes "3"
-			max_spawned_volumes "6"
+			min_spawned_volumes "12"
+			max_spawned_volumes "24"
 			
 			is_infinite		"1"			
 		}		
@@ -1102,8 +1099,8 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 		{
 			resource		"uranium_ore_vein"
 			
-			min_resources   "1500"
-			max_resources   "4000"
+			min_resources   "6000"
+			max_resources   "16000"
 
 			min_spawned_volumes "8"
 			max_spawned_volumes "16"
@@ -1113,21 +1110,21 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 		{
 			resource		"uranium_ore_vein"
 			
-			required_discovery_lvl	"1"
+			//required_discovery_lvl	"1"
 			
-			min_resources   "2000"
-			max_resources   "4000"
+			min_resources   "8000"
+			max_resources   "16000"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
+			min_spawned_volumes "8"
+			max_spawned_volumes "16"
 		}	
 		
 		ResourceVolume
 		{
 			resource		"titanium_vein"
 			
-			min_resources   "1500"
-			max_resources   "4000"
+			min_resources   "6000"
+			max_resources   "16000"
 
 			min_spawned_volumes "8"
 			max_spawned_volumes "16"
@@ -1137,21 +1134,21 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 		{
 			resource		"titanium_vein"
 			
-			required_discovery_lvl	"1"
+			//required_discovery_lvl	"1"
 			
-			min_resources   "2000"
-			max_resources   "4000"
+			min_resources   "8000"
+			max_resources   "16000"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
+			min_spawned_volumes "8"
+			max_spawned_volumes "16"
 		}	
 		
 		ResourceVolume
 		{
 			resource		"palladium_vein"
 			
-			min_resources   "1500"
-			max_resources   "4000"
+			min_resources   "6000"
+			max_resources   "16000"
 
 			min_spawned_volumes "8"
 			max_spawned_volumes "16"
@@ -1161,51 +1158,54 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 		{
 			resource		"palladium_vein"
 			
-			required_discovery_lvl	"1"
+			//required_discovery_lvl	"1"
 			
-			min_resources   "2000"
-			max_resources   "4000"
-
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
-		}	
-		
-		ResourceVolume
-		{
-			resource		"cobalt_vein"
-			
-			min_resources   "2500"
-			max_resources   "6000"
+			min_resources   "8000"
+			max_resources   "16000"
 
 			min_spawned_volumes "8"
 			max_spawned_volumes "16"
 		}	
+		
+		ResourceVolume
+		{
+			resource		"cobalt_vein"
+			
+            min_resources   "10000"
+            max_resources   "24000"
+
+            min_spawned_volumes "8"
+            max_spawned_volumes "24"
+        }	
 
 		ResourceVolume
 		{
 			resource		"cobalt_vein"
 			
-			required_discovery_lvl	"1"
+			//required_discovery_lvl	"1"
 			
-			min_resources   "4000"
-			max_resources   "8000"
+            min_resources   "16000"
+            max_resources   "32000"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
+            min_spawned_volumes "16"
+            max_spawned_volumes "24"
 		}	
 		
+
+
 		ResourceVolume
 		{
-			resource		"water_vein"
+			resource		"morphium_vein"
 
 			min_resources   "500"
 			max_resources   "500"
 
 			is_infinite	  "1"
 
-			min_spawned_volumes "4"			
-			max_spawned_volumes "8"			
+			min_spawned_volumes "8"			
+			max_spawned_volumes "16"			
 		}
+		
 		
 		ResourceVolume
 		{
@@ -1216,9 +1216,24 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 
 			is_infinite	  "1"
 
-			min_spawned_volumes "4"			
-			max_spawned_volumes "8"			
-		}
+			min_spawned_volumes "8"			
+			max_spawned_volumes "16"			
+		}		
+		
+		
+		ResourceVolume
+		{
+			resource		"magma_vein"
+
+			min_resources   "500"
+			max_resources   "500"
+
+			is_infinite	  "1"
+
+			min_spawned_volumes "8"			
+			max_spawned_volumes "16"			
+		}		
+		
 		
 		ResourceVolume
 		{
@@ -1229,22 +1244,24 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 
 			is_infinite	  "1"
 
-			min_spawned_volumes "4"			
-			max_spawned_volumes "8"			
-		}
+			min_spawned_volumes "8"			
+			max_spawned_volumes "16"			
+		}		
 		
 		ResourceVolume
 		{
-			resource		"morphium_vein"
+			resource		"water_vein"
 
 			min_resources   "500"
 			max_resources   "500"
 
 			is_infinite	  "1"
 
-			min_spawned_volumes "4"			
-			max_spawned_volumes "8"			
-		}
+			min_spawned_volumes "8"			
+			max_spawned_volumes "16"			
+		}		
+		
+		
 	}
 
 	min_starting_distance "0.0"
@@ -1256,26 +1273,26 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 		{
 			resource		"carbon_vein"
 
-			min_resources   "12000"
-			max_resources   "18000"
+			min_resources   "96000"
+			max_resources   "144000"
 		
 		is_infinite	 "1"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "2"
+			min_spawned_volumes "3"
+			max_spawned_volumes "4"
 		}
 
 		ResourceVolume
 		{
 			resource		"iron_vein"
 
-			min_resources   "12000"
-			max_resources   "18000"
+			min_resources   "96000"
+			max_resources   "200000"
 			
 		is_infinite	 "1"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "2"
+			min_spawned_volumes "3"
+			max_spawned_volumes "4"
 		}
 		
 		ResourceVolume
@@ -1287,8 +1304,8 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 			
 			is_infinite	 "1"
 			
-			min_spawned_volumes "1"
-			max_spawned_volumes "1"
+			min_spawned_volumes "2"
+			max_spawned_volumes "3"
 		}	
 		
 		//////////////
@@ -1297,8 +1314,8 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 		{
 			resource		"uranium_ore_vein"
 			
-			min_resources   "1500"
-			max_resources   "4000"
+			min_resources   "24000"
+			max_resources   "48000"
 
 		is_infinite	 "1"
 
@@ -1310,8 +1327,8 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 		{
 			resource		"titanium_vein"
 			
-			min_resources   "1500"
-			max_resources   "4000"
+			min_resources   "24000"
+			max_resources   "48000"
 		
 		is_infinite	 "1"
 
@@ -1322,9 +1339,9 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 	ResourceVolume
 		{
 			resource		"palladium_vein"
-			
-			min_resources   "1500"
-			max_resources   "4000"
+		
+			min_resources   "24000"
+			max_resources   "48000"
 		
 		is_infinite	 "1"
 
@@ -1336,8 +1353,8 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 		{
 			resource		"cobalt_vein"
 			
-			min_resources   "1500"
-			max_resources   "4000"
+			min_resources   "24000"
+			max_resources   "48000"
 		
 		is_infinite	 "1"
 
