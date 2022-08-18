@@ -1,6 +1,6 @@
 MissionDef
 {
-	script		  "lua/missions/survival/survival_lilly.lua"
+	script		  "lua/missions/survival/survival_lilly_test.lua"
 	localization_id	"campaigns/survival/lilly_all_tile_many_resources.campaign"
 	description		"lilly_all"
 	//script_database
