@@ -1582,8 +1582,8 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 		
 		//is_infinite	 "1"
 
-			min_spawned_volumes "3"
-			max_spawned_volumes "4"
+			min_spawned_volumes "12"
+			max_spawned_volumes "16"
 		}
 
 		ResourceVolume
@@ -1595,8 +1595,8 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 			
 		//is_infinite	 "1"
 
-			min_spawned_volumes "3"
-			max_spawned_volumes "4"
+			min_spawned_volumes "12"
+			max_spawned_volumes "16"
 		}
 		
 		ResourceVolume
@@ -1608,8 +1608,8 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 			
 			is_infinite	 "1"
 			
-			min_spawned_volumes "2"
-			max_spawned_volumes "3"
+			min_spawned_volumes "8"
+			max_spawned_volumes "12"
 		}	
 		
 		//////////////
@@ -1623,8 +1623,8 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 
 		//is_infinite	 "1"
 
-			min_spawned_volumes "1"
-			max_spawned_volumes "1"
+			min_spawned_volumes "4"
+			max_spawned_volumes "4"
 		}
 
 	ResourceVolume
@@ -1636,8 +1636,8 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 		
 		//is_infinite	 "1"
 
-			min_spawned_volumes "1"
-			max_spawned_volumes "1"
+			min_spawned_volumes "4"
+			max_spawned_volumes "4"
 		}
 
 	ResourceVolume
@@ -1649,8 +1649,8 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 		
 		//is_infinite	 "1"
 
-			min_spawned_volumes "1"
-			max_spawned_volumes "1"
+			min_spawned_volumes "4"
+			max_spawned_volumes "4"
 		}
 	
 	ResourceVolume
@@ -1662,8 +1662,8 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 		
 		//is_infinite	 "1"
 
-			min_spawned_volumes "1"
-			max_spawned_volumes "1"
+			min_spawned_volumes "4"
+			max_spawned_volumes "4"
 		}	
 		
 		ResourceVolume

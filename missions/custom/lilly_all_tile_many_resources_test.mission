@@ -10,7 +10,7 @@ MissionDef
 	//	objective_max_distance float:"64.0"
 	//}
 	
-	map_size		"12,3"
+	map_size		"8,3"
 
 	biomes		  	"lilly"
 	
@@ -171,7 +171,7 @@ biomes/lilly/tiles/lilly/Square2.tile
 biomes/lilly/tiles/lilly/Square3.tile
 biomes/lilly/tiles/lilly/Square4.tile
 biomes/lilly/tiles/lilly/Square5.tile
-biomes/lilly/tiles/lilly/Square6.tile
+biomes/jungle/tiles/jungle_plains_04/Square6.tile
 biomes/lilly/tiles/lilly/Square7.tile
 biomes/lilly/tiles/lilly/Square8.tile
 biomes/lilly/tiles/lilly/Square9.tile
@@ -1666,31 +1666,31 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 			max_spawned_volumes "4"
 		}	
 		
-		//ResourceVolume
-		//{
-		//	resource		"water_vein"
-        //
-		//	min_resources   "500"
-		//	max_resources   "500"
-        //
-		//	is_infinite	  "1"
-        //
-		//	min_spawned_volumes "1"			
-		//	max_spawned_volumes "2"			
-		//}
-		//
-		//ResourceVolume
-		//{
-		//	resource		"morphium_vein"
-        //
-		//	min_resources   "500"
-		//	max_resources   "500"
-        //
-		//	is_infinite	  "1"
-        //
-		//	min_spawned_volumes "1"			
-		//	max_spawned_volumes "2"			
-		//}
+		ResourceVolume
+		{
+			resource		"water_vein"
+
+			min_resources   "500"
+			max_resources   "500"
+
+			is_infinite	  "1"
+
+			min_spawned_volumes "1"			
+			max_spawned_volumes "2"			
+		}
+		
+		ResourceVolume
+		{
+			resource		"morphium_vein"
+
+			min_resources   "500"
+			max_resources   "500"
+
+			is_infinite	  "1"
+
+			min_spawned_volumes "1"			
+			max_spawned_volumes "2"			
+		}
 		
 	//////////////
 		
