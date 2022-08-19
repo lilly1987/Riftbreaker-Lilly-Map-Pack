@@ -30,8 +30,8 @@ MissionDef
 	// 벤치마크에 대한 명시적 타일 목록이 필요하므로 선택한 시드에 대해 결정성을 유지합니다.
 	source_tiles
 	{
-biomes/desert/tiles/desert_plains_01/desert_plains_01_lilly0.tile
-biomes/desert/tiles/desert_plains_02/desert_plains_02_lilly0.tile
+//biomes/jungle/tiles/jungle_custom_plains_01/jungle_custom_plains_01_lilly0.tile
+biomes/jungle/tiles/jungle_custom_plains_01/jungle_custom_plains_01_lilly1.tile
 //
 biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 
