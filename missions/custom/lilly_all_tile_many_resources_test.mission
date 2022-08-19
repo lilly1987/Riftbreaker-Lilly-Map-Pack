@@ -10,7 +10,7 @@ MissionDef
 	//	objective_max_distance float:"64.0"
 	//}
 	
-	map_size		"5"
+	map_size		"12,3"
 
 	biomes		  	"lilly"
 	
@@ -22,6 +22,10 @@ MissionDef
 	// 벤치마크에 대한 명시적 타일 목록이 필요하므로 선택한 시드에 대해 결정성을 유지합니다.
 source_tiles
 {
+biomes/desert/tiles/desert_plains_02/desert_plains_02_lilly0.tile
+biomes/desert/tiles/desert_plains_01/desert_plains_01_lilly0.tile
+biomes/magma/tiles/magma_plains_03/magma_plains_03_lilly0.tile
+biomes/jungle/tiles/jungle_nest_01/jungle_nest_01_lilly0.tile
 biomes/acid/tiles/acid_custom_new_resource_01/acid_custom_new_resource_01_resources3.tile
 biomes/acid/tiles/acid_custom_rare_resource_01/acid_custom_rare_resource_01_resources3.tile
 biomes/acid/tiles/acid_lakes_01/acid_lakes_01_resources3.tile

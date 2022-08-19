@@ -9,7 +9,7 @@ MissionDef
 	{	 
 		objective_tile		 string:"biomes/acid/tiles/acid_plains_02/acid_plains_02.tile"
 		objective_min_distance float:"0.0"
-		objective_max_distance float:"0.0"
+		objective_max_distance float:"1.0"
 	//	spawn_near_position string:"50,0,-800"	
 	}	
 
@@ -30,9 +30,8 @@ MissionDef
 	// 벤치마크에 대한 명시적 타일 목록이 필요하므로 선택한 시드에 대해 결정성을 유지합니다.
 	source_tiles
 	{
-biomes/jungle/tiles/jungle_plains_04/Square6.tile
-
-biomes/jungle/tiles/jungle_nest_01/jungle_nest_01_lilly0.tile
+biomes/desert/tiles/desert_plains_01/desert_plains_01_lilly0.tile
+biomes/desert/tiles/desert_plains_02/desert_plains_02_lilly0.tile
 //
 biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 
@@ -40,7 +39,7 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 
 	tile_spawn_rules
 	{			
-		biomes/jungle/tiles/jungle_nest_01/jungle_nest_01_lilly0.tile
+		biomes/magma/tiles/magma_plains_03/magma_plains_03_lilly0.tile
 		{
 			min_instances	1
 			//max_instances	1
