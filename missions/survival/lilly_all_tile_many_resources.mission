@@ -10,7 +10,7 @@ MissionDef
 	//	objective_max_distance float:"64.0"
 	//}
 	
-	map_size		"5"
+	map_size		"8,3"
 
 	biomes		  	"lilly"
 	
@@ -22,6 +22,9 @@ MissionDef
 	// 벤치마크에 대한 명시적 타일 목록이 필요하므로 선택한 시드에 대해 결정성을 유지합니다.
 source_tiles
 {
+biomes/lilly/tiles/lilly/lilly03.tile
+biomes/lilly/tiles/lilly/lilly02.tile
+biomes/lilly/tiles/lilly/lilly01.tile
 biomes/jungle/tiles/jungle_custom_plains_01/jungle_custom_plains_01_lilly1.tile
 biomes/jungle/tiles/jungle_custom_plains_01/jungle_custom_plains_01_lilly0.tile
 biomes/desert/tiles/desert_plains_02/desert_plains_02_lilly0.tile
@@ -1578,7 +1581,7 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 			resource		"carbon_vein"
 
 			min_resources   "96000"
-			max_resources   "144000"
+			max_resources   "140000"
 		
 		//is_infinite	 "1"
 
@@ -1590,8 +1593,8 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 		{
 			resource		"iron_vein"
 
-			min_resources   "96000"
-			max_resources   "200000"
+			min_resources   "48000"
+			max_resources   "100000"
 			
 		//is_infinite	 "1"
 
