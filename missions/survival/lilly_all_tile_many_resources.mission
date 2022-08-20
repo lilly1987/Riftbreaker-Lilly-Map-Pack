@@ -22,6 +22,9 @@ MissionDef
 	// 벤치마크에 대한 명시적 타일 목록이 필요하므로 선택한 시드에 대해 결정성을 유지합니다.
 source_tiles
 {
+biomes/lilly/tiles/lilly/lilly04.tile
+biomes/lilly/tiles/lilly/lilly05.tile
+biomes/lilly/tiles/lilly/lilly06.tile
 biomes/lilly/tiles/lilly/lilly03.tile
 biomes/lilly/tiles/lilly/lilly02.tile
 biomes/lilly/tiles/lilly/lilly01.tile
