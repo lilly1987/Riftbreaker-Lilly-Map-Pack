@@ -31,9 +31,7 @@ MissionDef
 	source_tiles
 	{
 
-//biomes/lilly/tiles/lilly/lilly04.tile
-biomes/lilly/tiles/lilly/lilly05.tile
-biomes/lilly/tiles/lilly/lilly06.tile
+biomes/lilly/tiles/lilly/lilly10.tile
 //
 biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 
@@ -41,19 +39,13 @@ biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
 
 	tile_spawn_rules
 	{			
-		biomes/lilly/tiles/lilly/lilly05.tile
+biomes/lilly/tiles/lilly/lilly10.tile
         		{
 			min_instances	1
 			//max_instances	1
 			random_weight	9.0
 		}
-biomes/lilly/tiles/lilly/lilly06.tile
-		{
-			min_instances	1
-			//max_instances	1
-			random_weight	9.0
-		}
-	}
+    }
 
 
 	ambient_creature_species
