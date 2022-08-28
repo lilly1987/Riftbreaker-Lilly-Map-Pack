@@ -1,0 +1,10762 @@
+EntityBlueprint
+{
+	name "prefabs/lilly/variant/lillybig"
+	components
+	base_blueprint
+	removed_components
+	children
+	{
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/pearls_big_01_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/pearls_big_01_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "-60"
+						z "-60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/pearls_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/pearls_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "-52"
+						z "-60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees_dry/log_mossy_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees_dry/log_mossy_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.258819"
+						y "0.9659258"
+					}
+					position
+					{
+						x "-44"
+						z "-60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/entvined_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/entvined_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "-36"
+						z "-60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/standard_very_big_01_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/standard_very_big_01_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "-28"
+						z "-60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_03_skin9"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_03_skin9"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "-20"
+						z "-60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_big_01_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_big_01_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "-12"
+						z "-60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_areca_big_02_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_areca_big_02_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.258819"
+						y "0.9659258"
+					}
+					position
+					{
+						x "-4"
+						z "-60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_02_skin4"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_02_skin4"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9238795"
+						y "0.3826834"
+					}
+					position
+					{
+						x "4"
+						z "-60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/burdock_big_01_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/burdock_big_01_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "12"
+						z "-60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/entvined_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/entvined_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.7933533"
+						y "0.6087614"
+					}
+					position
+					{
+						x "20"
+						z "-60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/standard_very_big_01_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/standard_very_big_01_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "28"
+						z "-60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_very_big_01_skin6"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_very_big_01_skin6"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.258819"
+						y "0.9659258"
+					}
+					position
+					{
+						x "36"
+						z "-60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/yellowtooth_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/yellowtooth_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "44"
+						z "-60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/flos_big_02_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/flos_big_02_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "52"
+						z "-60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/standard_very_big_01_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/standard_very_big_01_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9238795"
+						y "0.3826834"
+					}
+					position
+					{
+						x "60"
+						z "-60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "-60"
+						z "-52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/flos_big_01_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/flos_big_01_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9238795"
+						y "0.3826834"
+					}
+					position
+					{
+						x "-52"
+						z "-52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_04_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_04_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "-44"
+						z "-52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees_dry/log_mossy_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees_dry/log_mossy_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "1"
+						y "0"
+					}
+					position
+					{
+						x "-36"
+						z "-52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_02_skin4"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_02_skin4"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "-28"
+						z "-52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_big_01_skin7"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_big_01_skin7"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "1"
+						y "0"
+					}
+					position
+					{
+						x "-20"
+						z "-52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_big_01_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_big_01_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "-12"
+						z "-52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_02_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_02_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "-4"
+						z "-52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/metallic_leafy_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/metallic_leafy_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-1"
+						y "0"
+					}
+					position
+					{
+						x "4"
+						z "-52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/metallic_fungus_big_04"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/metallic_fungus_big_04"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "12"
+						z "-52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/flos_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/flos_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "20"
+						z "-52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_02_skin12"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_02_skin12"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "28"
+						z "-52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/burdock_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/burdock_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "36"
+						z "-52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_03_skin12"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_03_skin12"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.7071068"
+						y "0.7071068"
+					}
+					position
+					{
+						x "44"
+						z "-52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_02_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_02_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "52"
+						z "-52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "1"
+						y "0"
+					}
+					position
+					{
+						x "60"
+						z "-52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/burdock_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/burdock_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "-60"
+						z "-44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/leafy_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/leafy_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "-52"
+						z "-44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_big_02_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_big_02_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "-44"
+						z "-44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/standard_very_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/standard_very_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.7071068"
+						y "0.7071068"
+					}
+					position
+					{
+						x "-36"
+						z "-44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/black_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/black_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "-28"
+						z "-44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/fuzzball_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/fuzzball_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "-20"
+						z "-44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_very_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_very_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "-12"
+						z "-44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_06_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_06_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "-4"
+						z "-44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_very_big_01_skin9"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_very_big_01_skin9"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "4"
+						z "-44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_04_skin3"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_04_skin3"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "12"
+						z "-44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_03_skin4"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_03_skin4"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "20"
+						z "-44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/standard_very_big_01_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/standard_very_big_01_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "28"
+						z "-44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/joshua_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/joshua_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.7933533"
+						y "0.6087614"
+					}
+					position
+					{
+						x "36"
+						z "-44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "44"
+						z "-44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_05_skin4"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_05_skin4"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0"
+						y "1"
+					}
+					position
+					{
+						x "52"
+						z "-44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_01_skin3"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_01_skin3"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "60"
+						z "-44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_areca_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_areca_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "-60"
+						z "-36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_05"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_05"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "-52"
+						z "-36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_areca_big_04"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_areca_big_04"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "-44"
+						z "-36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "-36"
+						z "-36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/spikybulb_big_01_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/spikybulb_big_01_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "-28"
+						z "-36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/metallic_fungus_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/metallic_fungus_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.7071068"
+						y "0.7071068"
+					}
+					position
+					{
+						x "-20"
+						z "-36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/pear_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/pear_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "1"
+						y "0"
+					}
+					position
+					{
+						x "-12"
+						z "-36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/metal_big_01_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/metal_big_01_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-1"
+						y "0"
+					}
+					position
+					{
+						x "-4"
+						z "-36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/entvined_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/entvined_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "4"
+						z "-36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/flos_big_01_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/flos_big_01_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "12"
+						z "-36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/flos_big_02_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/flos_big_02_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "20"
+						z "-36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_very_big_01_skin11_f"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_very_big_01_skin11_f"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "28"
+						z "-36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_areca_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_areca_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "36"
+						z "-36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/catkins_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/catkins_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "1"
+						y "0"
+					}
+					position
+					{
+						x "44"
+						z "-36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/entvined_big_03_skin3"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/entvined_big_03_skin3"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "52"
+						z "-36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_04_skin3"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_04_skin3"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "60"
+						z "-36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_01_skin10"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_01_skin10"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "1"
+						y "0"
+					}
+					position
+					{
+						x "-60"
+						z "-28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/leaky_big_02_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/leaky_big_02_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "-52"
+						z "-28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_01_skin8"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_01_skin8"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "-44"
+						z "-28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/pear_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/pear_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "-36"
+						z "-28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/flos_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/flos_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.7933533"
+						y "0.6087614"
+					}
+					position
+					{
+						x "-28"
+						z "-28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/cover_leaves_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/cover_leaves_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.258819"
+						y "0.9659258"
+					}
+					position
+					{
+						x "-20"
+						z "-28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "-12"
+						z "-28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/spikybulb_big_01_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/spikybulb_big_01_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.258819"
+						y "0.9659258"
+					}
+					position
+					{
+						x "-4"
+						z "-28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_03_skin5"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_03_skin5"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "4"
+						z "-28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_very_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_very_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-1"
+						y "0"
+					}
+					position
+					{
+						x "12"
+						z "-28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/fuzzball_big_02_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/fuzzball_big_02_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "20"
+						z "-28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/thorn_big_03_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/thorn_big_03_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "28"
+						z "-28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/lumio_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/lumio_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "36"
+						z "-28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_01_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_01_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "44"
+						z "-28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_areca_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_areca_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9238795"
+						y "0.3826834"
+					}
+					position
+					{
+						x "52"
+						z "-28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_03_skin6"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_03_skin6"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9238795"
+						y "0.3826834"
+					}
+					position
+					{
+						x "60"
+						z "-28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/metallic_spiky_big_02_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/metallic_spiky_big_02_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.7933533"
+						y "0.6087614"
+					}
+					position
+					{
+						x "-60"
+						z "-20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_06_skin3"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_06_skin3"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.258819"
+						y "0.9659258"
+					}
+					position
+					{
+						x "-52"
+						z "-20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/catkins_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/catkins_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "-44"
+						z "-20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_areca_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_areca_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "-36"
+						z "-20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/catkins_big_01_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/catkins_big_01_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "-28"
+						z "-20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_big_01_skin4"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_big_01_skin4"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0"
+						y "1"
+					}
+					position
+					{
+						x "-20"
+						z "-20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/joshua_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/joshua_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.258819"
+						y "0.9659258"
+					}
+					position
+					{
+						x "-12"
+						z "-20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_06"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_06"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9238795"
+						y "0.3826834"
+					}
+					position
+					{
+						x "-4"
+						z "-20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/metal_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/metal_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.7933533"
+						y "0.6087614"
+					}
+					position
+					{
+						x "4"
+						z "-20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/metallic_stump_big_01_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/metallic_stump_big_01_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "12"
+						z "-20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/catkins_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/catkins_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.7933533"
+						y "0.6087614"
+					}
+					position
+					{
+						x "20"
+						z "-20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/vulgaris_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/vulgaris_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.7933533"
+						y "0.6087614"
+					}
+					position
+					{
+						x "28"
+						z "-20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_02_skin3"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_02_skin3"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "36"
+						z "-20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/entvined_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/entvined_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "44"
+						z "-20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/standard_big_01_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/standard_big_01_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.7071068"
+						y "0.7071068"
+					}
+					position
+					{
+						x "52"
+						z "-20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/yellowtooth_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/yellowtooth_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9238795"
+						y "0.3826834"
+					}
+					position
+					{
+						x "60"
+						z "-20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/spikybulb_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/spikybulb_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.7071068"
+						y "0.7071068"
+					}
+					position
+					{
+						x "-60"
+						z "-12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_06_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_06_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "-52"
+						z "-12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/lumio_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/lumio_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "-44"
+						z "-12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_very_big_01_skin8"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_very_big_01_skin8"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "-36"
+						z "-12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_big_02_skin3"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_big_02_skin3"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "-28"
+						z "-12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_very_big_01_skin11_f"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_very_big_01_skin11_f"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9238795"
+						y "0.3826834"
+					}
+					position
+					{
+						x "-20"
+						z "-12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "-12"
+						z "-12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_very_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_very_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9238795"
+						y "0.3826834"
+					}
+					position
+					{
+						x "-4"
+						z "-12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/leaky_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/leaky_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "1"
+						y "0"
+					}
+					position
+					{
+						x "4"
+						z "-12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_areca_big_03_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_areca_big_03_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-1"
+						y "0"
+					}
+					position
+					{
+						x "12"
+						z "-12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/spikybulb_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/spikybulb_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.7933533"
+						y "0.6087614"
+					}
+					position
+					{
+						x "20"
+						z "-12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_big_02_skin3"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_big_02_skin3"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "28"
+						z "-12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "36"
+						z "-12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/metal_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/metal_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "44"
+						z "-12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_02_skin12"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_02_skin12"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "52"
+						z "-12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/spikybulb_big_01_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/spikybulb_big_01_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.258819"
+						y "0.9659258"
+					}
+					position
+					{
+						x "60"
+						z "-12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_02_skin7"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_02_skin7"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "-60"
+						z "-4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_very_big_01_skin5"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_very_big_01_skin5"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "1"
+						y "0"
+					}
+					position
+					{
+						x "-52"
+						z "-4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/metallic_stump_big_01_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/metallic_stump_big_01_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "-44"
+						z "-4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "-36"
+						z "-4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/metallic_fungus_big_02_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/metallic_fungus_big_02_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "-28"
+						z "-4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/catkins_big_02_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/catkins_big_02_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "-20"
+						z "-4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_04_skin3"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_04_skin3"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "1"
+						y "0"
+					}
+					position
+					{
+						x "-12"
+						z "-4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_02_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_02_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "-4"
+						z "-4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/metallic_leafy_big_05"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/metallic_leafy_big_05"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-1"
+						y "0"
+					}
+					position
+					{
+						x "4"
+						z "-4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/metallic_leafy_big_04"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/metallic_leafy_big_04"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "12"
+						z "-4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/fuzzball_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/fuzzball_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-1"
+						y "0"
+					}
+					position
+					{
+						x "20"
+						z "-4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_01_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_01_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "28"
+						z "-4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/spikybulb_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/spikybulb_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "36"
+						z "-4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/yellowtooth_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/yellowtooth_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "44"
+						z "-4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/vulgaris_big_03_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/vulgaris_big_03_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "52"
+						z "-4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_big_01_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_big_01_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "1"
+						y "0"
+					}
+					position
+					{
+						x "60"
+						z "-4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_05"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_05"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.258819"
+						y "0.9659258"
+					}
+					position
+					{
+						x "-60"
+						z "4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/catkins_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/catkins_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.7933533"
+						y "0.6087614"
+					}
+					position
+					{
+						x "-52"
+						z "4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_01_skin8"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_01_skin8"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.7071068"
+						y "0.7071068"
+					}
+					position
+					{
+						x "-44"
+						z "4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_02_skin8"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_02_skin8"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "-36"
+						z "4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/joshua_big_02_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/joshua_big_02_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-1"
+						y "0"
+					}
+					position
+					{
+						x "-28"
+						z "4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/blossomed_big_03_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/blossomed_big_03_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "-20"
+						z "4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "-12"
+						z "4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/metal_big_02_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/metal_big_02_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.258819"
+						y "0.9659258"
+					}
+					position
+					{
+						x "-4"
+						z "4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.7933533"
+						y "0.6087614"
+					}
+					position
+					{
+						x "4"
+						z "4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/metallic_spiky_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/metallic_spiky_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9238795"
+						y "0.3826834"
+					}
+					position
+					{
+						x "12"
+						z "4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/fuzzball_big_02_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/fuzzball_big_02_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "20"
+						z "4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/catkins_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/catkins_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "28"
+						z "4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "36"
+						z "4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/drexolian_big_02_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/drexolian_big_02_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.7071068"
+						y "0.7071068"
+					}
+					position
+					{
+						x "44"
+						z "4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_03_skin8"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_03_skin8"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "52"
+						z "4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/metallic_fungus_big_02_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/metallic_fungus_big_02_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "60"
+						z "4"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/metallic_spiky_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/metallic_spiky_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "-60"
+						z "12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/lumio_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/lumio_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "-52"
+						z "12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/catkins_big_03_skin3"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/catkins_big_03_skin3"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "-44"
+						z "12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/spikybulb_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/spikybulb_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "-36"
+						z "12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/yellowtooth_big_01_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/yellowtooth_big_01_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "-28"
+						z "12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_big_01_skin3"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_big_01_skin3"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "-20"
+						z "12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_02_skin5"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_02_skin5"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.258819"
+						y "0.9659258"
+					}
+					position
+					{
+						x "-12"
+						z "12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/flos_big_02_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/flos_big_02_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "-4"
+						z "12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/catkins_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/catkins_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.7071068"
+						y "0.7071068"
+					}
+					position
+					{
+						x "4"
+						z "12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/cover_leaves_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/cover_leaves_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "12"
+						z "12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "20"
+						z "12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/spikybulb_big_02_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/spikybulb_big_02_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "28"
+						z "12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_06_skin3"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_06_skin3"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "36"
+						z "12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees_dry/log_mossy_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees_dry/log_mossy_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9238795"
+						y "0.3826834"
+					}
+					position
+					{
+						x "44"
+						z "12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/blossomed_big_02_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/blossomed_big_02_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-1"
+						y "0"
+					}
+					position
+					{
+						x "52"
+						z "12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/spikybulb_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/spikybulb_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.7071068"
+						y "0.7071068"
+					}
+					position
+					{
+						x "60"
+						z "12"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees_dry/simple_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees_dry/simple_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "-60"
+						z "20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/pearls_big_03_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/pearls_big_03_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.7071068"
+						y "0.7071068"
+					}
+					position
+					{
+						x "-52"
+						z "20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees_dry/twisted_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees_dry/twisted_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9238795"
+						y "0.3826834"
+					}
+					position
+					{
+						x "-44"
+						z "20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_01_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_01_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.258819"
+						y "0.9659258"
+					}
+					position
+					{
+						x "-36"
+						z "20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_05_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_05_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.7933533"
+						y "0.6087614"
+					}
+					position
+					{
+						x "-28"
+						z "20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/drexolian_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/drexolian_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.7933533"
+						y "0.6087614"
+					}
+					position
+					{
+						x "-20"
+						z "20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/drexolian_big_02_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/drexolian_big_02_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "-12"
+						z "20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/catkins_big_03_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/catkins_big_03_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.7071068"
+						y "0.7071068"
+					}
+					position
+					{
+						x "-4"
+						z "20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_big_02_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_big_02_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "4"
+						z "20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_01_skin6"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_01_skin6"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "12"
+						z "20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/flos_big_02_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/flos_big_02_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.7933533"
+						y "0.6087614"
+					}
+					position
+					{
+						x "20"
+						z "20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/yellowtooth_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/yellowtooth_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.7933533"
+						y "0.6087614"
+					}
+					position
+					{
+						x "28"
+						z "20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/entvined_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/entvined_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.258819"
+						y "0.9659258"
+					}
+					position
+					{
+						x "36"
+						z "20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/drexolian_big_02_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/drexolian_big_02_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "44"
+						z "20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/metallic_leafy_big_05"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/metallic_leafy_big_05"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "52"
+						z "20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_big_01_skin3"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_big_01_skin3"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "60"
+						z "20"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/flos_big_01_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/flos_big_01_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "-60"
+						z "28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/pearls_big_03_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/pearls_big_03_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "-52"
+						z "28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_areca_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_areca_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "-44"
+						z "28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_05_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_05_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9238795"
+						y "0.3826834"
+					}
+					position
+					{
+						x "-36"
+						z "28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_02_skin5"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_02_skin5"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "-28"
+						z "28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/flos_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/flos_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0"
+						y "1"
+					}
+					position
+					{
+						x "-20"
+						z "28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/metal_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/metal_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.7071068"
+						y "0.7071068"
+					}
+					position
+					{
+						x "-12"
+						z "28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_big_01_skin6"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_big_01_skin6"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "-4"
+						z "28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_05_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_05_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "4"
+						z "28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/metallic_spiky_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/metallic_spiky_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "12"
+						z "28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/pearls_big_01_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/pearls_big_01_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.7071068"
+						y "0.7071068"
+					}
+					position
+					{
+						x "20"
+						z "28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/vulgaris_big_01_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/vulgaris_big_01_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "28"
+						z "28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_03_skin4"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_03_skin4"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "36"
+						z "28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "44"
+						z "28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/metallic_stump_big_03_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/metallic_stump_big_03_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0"
+						y "1"
+					}
+					position
+					{
+						x "52"
+						z "28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/yellowtooth_big_02_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/yellowtooth_big_02_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "60"
+						z "28"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/standard_big_01_skin3_f"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/standard_big_01_skin3_f"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "-60"
+						z "36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/pear_big_03_skin3"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/pear_big_03_skin3"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "-52"
+						z "36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/winding_big_01_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/winding_big_01_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "-44"
+						z "36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/entvined_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/entvined_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "-36"
+						z "36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/leafy_big_04"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/leafy_big_04"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "-28"
+						z "36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/prairie_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/prairie_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "-20"
+						z "36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/pear_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/pear_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9238795"
+						y "0.3826834"
+					}
+					position
+					{
+						x "-12"
+						z "36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/burdock_big_02_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/burdock_big_02_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "-4"
+						z "36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/dry_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/dry_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "4"
+						z "36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/pear_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/pear_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "12"
+						z "36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/lumio_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/lumio_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.7071068"
+						y "0.7071068"
+					}
+					position
+					{
+						x "20"
+						z "36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_02_skin3"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_02_skin3"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "28"
+						z "36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_04_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_04_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.7071068"
+						y "0.7071068"
+					}
+					position
+					{
+						x "36"
+						z "36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_03_skin4"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_03_skin4"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.258819"
+						y "0.9659258"
+					}
+					position
+					{
+						x "44"
+						z "36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/leaky_big_03_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/leaky_big_03_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "52"
+						z "36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_areca_big_04_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_areca_big_04_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-1"
+						y "0"
+					}
+					position
+					{
+						x "60"
+						z "36"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/leafy_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/leafy_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "-60"
+						z "44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/spikybulb_big_01_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/spikybulb_big_01_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "-52"
+						z "44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/vulgaris_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/vulgaris_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "-44"
+						z "44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/metallic_stump_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/metallic_stump_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "-36"
+						z "44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_areca_big_02_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_areca_big_02_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "-28"
+						z "44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees_dry/log_mossy_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees_dry/log_mossy_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "-20"
+						z "44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/metallic_leafy_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/metallic_leafy_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "-12"
+						z "44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees_dry/simple_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees_dry/simple_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "-4"
+						z "44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_06"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_06"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0"
+						y "1"
+					}
+					position
+					{
+						x "4"
+						z "44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/leaky_big_03_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/leaky_big_03_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9238795"
+						y "0.3826834"
+					}
+					position
+					{
+						x "12"
+						z "44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/fuzzball_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/fuzzball_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "20"
+						z "44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/entvined_big_03_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/entvined_big_03_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "28"
+						z "44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees_dry/twisted_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees_dry/twisted_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "36"
+						z "44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_big_01_skin8"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_big_01_skin8"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "44"
+						z "44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/black_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/black_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "52"
+						z "44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees_dry/simple_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees_dry/simple_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0"
+						y "1"
+					}
+					position
+					{
+						x "60"
+						z "44"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees_dry/simple_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees_dry/simple_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "-60"
+						z "52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/metallic_stump_big_02_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/metallic_stump_big_02_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "-52"
+						z "52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "-44"
+						z "52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/metallic_fungus_big_04_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/metallic_fungus_big_04_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.7071068"
+						y "0.7071068"
+					}
+					position
+					{
+						x "-36"
+						z "52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_04"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_04"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "-28"
+						z "52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_areca_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_areca_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.258819"
+						y "0.9659258"
+					}
+					position
+					{
+						x "-20"
+						z "52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/fuzzball_big_03_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/fuzzball_big_03_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9238795"
+						y "0.3826834"
+					}
+					position
+					{
+						x "-12"
+						z "52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/drexolian_big_01_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/drexolian_big_01_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0"
+						y "1"
+					}
+					position
+					{
+						x "-4"
+						z "52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_04_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_04_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "4"
+						z "52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/cover_leaves_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/cover_leaves_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-1"
+						y "0"
+					}
+					position
+					{
+						x "12"
+						z "52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_05_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_05_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "20"
+						z "52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/blossomed_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/blossomed_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "1"
+						y "0"
+					}
+					position
+					{
+						x "28"
+						z "52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/winding_big_01_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/winding_big_01_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.7071068"
+						y "0.7071068"
+					}
+					position
+					{
+						x "36"
+						z "52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/standard_big_01_skin9"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/standard_big_01_skin9"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "44"
+						z "52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/palm_areca_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/palm_areca_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "52"
+						z "52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/flos_big_01_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/flos_big_01_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.258819"
+						y "0.9659258"
+					}
+					position
+					{
+						x "60"
+						z "52"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/crystals/pure_big_01_skin3"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/crystals/pure_big_01_skin3"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "1"
+						y "0"
+					}
+					position
+					{
+						x "-60"
+						z "60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/drexolian_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/drexolian_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "1"
+						y "0"
+					}
+					position
+					{
+						x "-52"
+						z "60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_very_big_01_skin11_f"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_very_big_01_skin11_f"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9238795"
+						y "0.3826834"
+					}
+					position
+					{
+						x "-44"
+						z "60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/spikybulb_big_01_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/spikybulb_big_01_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "-36"
+						z "60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_very_big_01_skin6"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_very_big_01_skin6"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0"
+						y "1"
+					}
+					position
+					{
+						x "-28"
+						z "60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/metallic_leafy_big_04"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/metallic_leafy_big_04"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.8660254"
+						y "0.5"
+					}
+					position
+					{
+						x "-20"
+						z "60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/metallic_fungus_big_02_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/metallic_fungus_big_02_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "-12"
+						z "60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/vulgaris_big_03_skin2"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/vulgaris_big_03_skin2"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-1"
+						y "0"
+					}
+					position
+					{
+						x "-4"
+						z "60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/cactus/fuzzball_big_01"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/cactus/fuzzball_big_01"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.9659258"
+						y "0.258819"
+					}
+					position
+					{
+						x "4"
+						z "60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/metallic_leafy_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/metallic_leafy_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.258819"
+						y "0.9659258"
+					}
+					position
+					{
+						x "12"
+						z "60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/bush/standard_very_big_01_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/bush/standard_very_big_01_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.6087614"
+						y "0.7933533"
+					}
+					position
+					{
+						x "20"
+						z "60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/grass/dry_big_04"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/grass/dry_big_04"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.3826834"
+						y "0.9238795"
+					}
+					position
+					{
+						x "28"
+						z "60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/drexolian_big_03_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/drexolian_big_03_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-1"
+						y "0"
+					}
+					position
+					{
+						x "36"
+						z "60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/drexolian_big_03"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/drexolian_big_03"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.1305262"
+						y "0.9914449"
+					}
+					position
+					{
+						x "44"
+						z "60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/trees/burdock_big_02"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/trees/burdock_big_02"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "-0.5"
+						y "0.8660254"
+					}
+					position
+					{
+						x "52"
+						z "60"
+					}
+				}
+			}
+		}
+		EntityTemplate
+		{
+			base_blueprint "props/mushrooms/bulb_acid_big_04_skin1"
+			components
+			{
+				BlueprintDesc
+				{
+					blueprint "props/mushrooms/bulb_acid_big_04_skin1"
+				}
+				LocalAabbDesc
+				{
+					local_aabb
+					{
+						min
+						{
+							x "-10"
+							y "-10"
+							z "-10"
+						}
+						max
+						{
+							x "10"
+							y "10"
+							z "10"
+						}
+					}
+				}
+				TransformComponent
+				{
+					orientation
+					{
+						w "0.9914449"
+						y "0.1305262"
+					}
+					position
+					{
+						x "60"
+						z "60"
+					}
+				}
+			}
+		}
+	}
+}
