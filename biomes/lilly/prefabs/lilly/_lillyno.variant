@@ -1,0 +1,15 @@
+EntityBlueprint
+{
+	name "prefabs/lilly/variant/lilly"
+	components
+	base_blueprint
+	removed_components
+	children
+	{
+
+
+
+	}
+
+}
+
