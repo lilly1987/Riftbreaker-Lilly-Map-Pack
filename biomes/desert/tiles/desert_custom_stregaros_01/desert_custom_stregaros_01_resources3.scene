@@ -1,4 +1,5 @@
-entity_count "755"
+entity_count "774"
+//editor "index(1)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_01"
@@ -52,6 +53,7 @@ EntityTemplate
 
 }
 
+//editor "index(2)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_02"
@@ -99,6 +101,7 @@ EntityTemplate
 
 }
 
+//editor "index(3)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -154,6 +157,7 @@ EntityTemplate
 
 }
 
+//editor "index(4)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -201,6 +205,7 @@ EntityTemplate
 
 }
 
+//editor "index(5)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -263,6 +268,7 @@ EntityTemplate
 
 }
 
+//editor "index(6)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_06"
@@ -310,6 +316,7 @@ EntityTemplate
 
 }
 
+//editor "index(7)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -365,6 +372,7 @@ EntityTemplate
 
 }
 
+//editor "index(8)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_02"
@@ -425,6 +433,7 @@ EntityTemplate
 
 }
 
+//editor "index(9)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_01"
@@ -480,6 +489,7 @@ EntityTemplate
 
 }
 
+//editor "index(10)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -540,6 +550,7 @@ EntityTemplate
 
 }
 
+//editor "index(11)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -602,6 +613,7 @@ EntityTemplate
 
 }
 
+//editor "index(12)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -655,6 +667,7 @@ EntityTemplate
 
 }
 
+//editor "index(13)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -702,6 +715,7 @@ EntityTemplate
 
 }
 
+//editor "index(14)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_03"
@@ -757,6 +771,7 @@ EntityTemplate
 
 }
 
+//editor "index(15)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_01"
@@ -810,6 +825,7 @@ EntityTemplate
 
 }
 
+//editor "index(16)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_04"
@@ -863,6 +879,7 @@ EntityTemplate
 
 }
 
+//editor "index(17)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -916,6 +933,7 @@ EntityTemplate
 
 }
 
+//editor "index(18)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_01"
@@ -978,6 +996,7 @@ EntityTemplate
 
 }
 
+//editor "index(19)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -1033,6 +1052,7 @@ EntityTemplate
 
 }
 
+//editor "index(20)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_02"
@@ -1093,6 +1113,7 @@ EntityTemplate
 
 }
 
+//editor "index(21)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -1155,6 +1176,7 @@ EntityTemplate
 
 }
 
+//editor "index(22)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -1217,6 +1239,7 @@ EntityTemplate
 
 }
 
+//editor "index(23)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -1264,6 +1287,7 @@ EntityTemplate
 
 }
 
+//editor "index(24)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_03"
@@ -1311,6 +1335,7 @@ EntityTemplate
 
 }
 
+//editor "index(25)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_04"
@@ -1364,6 +1389,7 @@ EntityTemplate
 
 }
 
+//editor "index(26)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -1417,6 +1443,7 @@ EntityTemplate
 
 }
 
+//editor "index(27)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -1477,6 +1504,7 @@ EntityTemplate
 
 }
 
+//editor "index(28)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -1530,6 +1558,7 @@ EntityTemplate
 
 }
 
+//editor "index(29)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -1591,6 +1620,7 @@ EntityTemplate
 
 }
 
+//editor "index(30)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_03"
@@ -1638,6 +1668,7 @@ EntityTemplate
 
 }
 
+//editor "index(31)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_01"
@@ -1691,6 +1722,7 @@ EntityTemplate
 
 }
 
+//editor "index(32)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_03"
@@ -1738,6 +1770,7 @@ EntityTemplate
 
 }
 
+//editor "index(33)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -1793,6 +1826,7 @@ EntityTemplate
 
 }
 
+//editor "index(34)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -1846,6 +1880,7 @@ EntityTemplate
 
 }
 
+//editor "index(35)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_01"
@@ -1908,6 +1943,7 @@ EntityTemplate
 
 }
 
+//editor "index(36)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_02"
@@ -1955,6 +1991,7 @@ EntityTemplate
 
 }
 
+//editor "index(37)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -2010,6 +2047,7 @@ EntityTemplate
 
 }
 
+//editor "index(38)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -2057,6 +2095,7 @@ EntityTemplate
 
 }
 
+//editor "index(39)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_06"
@@ -2112,6 +2151,7 @@ EntityTemplate
 
 }
 
+//editor "index(40)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -2159,6 +2199,7 @@ EntityTemplate
 
 }
 
+//editor "index(41)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -2212,6 +2253,7 @@ EntityTemplate
 
 }
 
+//editor "index(42)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -2274,6 +2316,7 @@ EntityTemplate
 
 }
 
+//editor "index(43)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_02"
@@ -2336,6 +2379,7 @@ EntityTemplate
 
 }
 
+//editor "index(44)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -2389,6 +2433,7 @@ EntityTemplate
 
 }
 
+//editor "index(45)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -2443,6 +2488,7 @@ EntityTemplate
 
 }
 
+//editor "index(46)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_04"
@@ -2505,6 +2551,7 @@ EntityTemplate
 
 }
 
+//editor "index(47)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_02"
@@ -2565,6 +2612,7 @@ EntityTemplate
 
 }
 
+//editor "index(48)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -2618,6 +2666,7 @@ EntityTemplate
 
 }
 
+//editor "index(49)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -2671,6 +2720,7 @@ EntityTemplate
 
 }
 
+//editor "index(50)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_04"
@@ -2726,6 +2776,7 @@ EntityTemplate
 
 }
 
+//editor "index(51)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -2773,6 +2824,7 @@ EntityTemplate
 
 }
 
+//editor "index(52)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_03"
@@ -2820,6 +2872,7 @@ EntityTemplate
 
 }
 
+//editor "index(53)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -2867,6 +2920,7 @@ EntityTemplate
 
 }
 
+//editor "index(54)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -2914,6 +2968,7 @@ EntityTemplate
 
 }
 
+//editor "index(55)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -2969,6 +3024,7 @@ EntityTemplate
 
 }
 
+//editor "index(56)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -3024,6 +3080,7 @@ EntityTemplate
 
 }
 
+//editor "index(57)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -3071,6 +3128,7 @@ EntityTemplate
 
 }
 
+//editor "index(58)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_03"
@@ -3124,6 +3182,7 @@ EntityTemplate
 
 }
 
+//editor "index(59)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_03"
@@ -3171,6 +3230,7 @@ EntityTemplate
 
 }
 
+//editor "index(60)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -3233,6 +3293,7 @@ EntityTemplate
 
 }
 
+//editor "index(61)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -3288,6 +3349,7 @@ EntityTemplate
 
 }
 
+//editor "index(62)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_04"
@@ -3350,6 +3412,7 @@ EntityTemplate
 
 }
 
+//editor "index(63)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -3403,6 +3466,7 @@ EntityTemplate
 
 }
 
+//editor "index(64)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_03"
@@ -3458,6 +3522,7 @@ EntityTemplate
 
 }
 
+//editor "index(65)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_04"
@@ -3513,6 +3578,7 @@ EntityTemplate
 
 }
 
+//editor "index(66)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -3566,6 +3632,7 @@ EntityTemplate
 
 }
 
+//editor "index(67)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -3613,6 +3680,7 @@ EntityTemplate
 
 }
 
+//editor "index(68)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -3668,6 +3736,7 @@ EntityTemplate
 
 }
 
+//editor "index(69)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_03"
@@ -3722,6 +3791,7 @@ EntityTemplate
 
 }
 
+//editor "index(70)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_03"
@@ -3777,6 +3847,7 @@ EntityTemplate
 
 }
 
+//editor "index(71)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_03"
@@ -3830,6 +3901,7 @@ EntityTemplate
 
 }
 
+//editor "index(72)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -3891,6 +3963,7 @@ EntityTemplate
 
 }
 
+//editor "index(73)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_02"
@@ -3953,6 +4026,7 @@ EntityTemplate
 
 }
 
+//editor "index(74)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -4006,6 +4080,7 @@ EntityTemplate
 
 }
 
+//editor "index(75)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -4061,6 +4136,7 @@ EntityTemplate
 
 }
 
+//editor "index(76)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_04"
@@ -4116,6 +4192,7 @@ EntityTemplate
 
 }
 
+//editor "index(77)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -4169,6 +4246,7 @@ EntityTemplate
 
 }
 
+//editor "index(78)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_03"
@@ -4222,6 +4300,7 @@ EntityTemplate
 
 }
 
+//editor "index(79)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_04"
@@ -4269,6 +4348,7 @@ EntityTemplate
 
 }
 
+//editor "index(80)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -4324,6 +4404,7 @@ EntityTemplate
 
 }
 
+//editor "index(81)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -4377,6 +4458,7 @@ EntityTemplate
 
 }
 
+//editor "index(82)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -4432,6 +4514,7 @@ EntityTemplate
 
 }
 
+//editor "index(83)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -4494,6 +4577,7 @@ EntityTemplate
 
 }
 
+//editor "index(84)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -4549,6 +4633,7 @@ EntityTemplate
 
 }
 
+//editor "index(85)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -4602,6 +4687,7 @@ EntityTemplate
 
 }
 
+//editor "index(86)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_01"
@@ -4657,6 +4743,7 @@ EntityTemplate
 
 }
 
+//editor "index(87)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_04"
@@ -4710,6 +4797,7 @@ EntityTemplate
 
 }
 
+//editor "index(88)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_01"
@@ -4763,6 +4851,7 @@ EntityTemplate
 
 }
 
+//editor "index(89)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -4818,6 +4907,7 @@ EntityTemplate
 
 }
 
+//editor "index(90)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_02"
@@ -4878,6 +4968,7 @@ EntityTemplate
 
 }
 
+//editor "index(91)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -4933,6 +5024,7 @@ EntityTemplate
 
 }
 
+//editor "index(92)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -4988,6 +5080,7 @@ EntityTemplate
 
 }
 
+//editor "index(93)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -5041,6 +5134,7 @@ EntityTemplate
 
 }
 
+//editor "index(94)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -5101,6 +5195,7 @@ EntityTemplate
 
 }
 
+//editor "index(95)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -5163,6 +5258,7 @@ EntityTemplate
 
 }
 
+//editor "index(96)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -5218,6 +5314,7 @@ EntityTemplate
 
 }
 
+//editor "index(97)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -5280,6 +5377,7 @@ EntityTemplate
 
 }
 
+//editor "index(98)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -5342,6 +5440,7 @@ EntityTemplate
 
 }
 
+//editor "index(99)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -5395,6 +5494,7 @@ EntityTemplate
 
 }
 
+//editor "index(100)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -5448,6 +5548,7 @@ EntityTemplate
 
 }
 
+//editor "index(101)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -5501,6 +5602,7 @@ EntityTemplate
 
 }
 
+//editor "index(102)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -5554,6 +5656,7 @@ EntityTemplate
 
 }
 
+//editor "index(103)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -5607,6 +5710,7 @@ EntityTemplate
 
 }
 
+//editor "index(104)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -5660,6 +5764,7 @@ EntityTemplate
 
 }
 
+//editor "index(105)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_01"
@@ -5715,6 +5820,7 @@ EntityTemplate
 
 }
 
+//editor "index(106)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -5768,6 +5874,7 @@ EntityTemplate
 
 }
 
+//editor "index(107)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -5821,6 +5928,7 @@ EntityTemplate
 
 }
 
+//editor "index(108)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -5874,6 +5982,7 @@ EntityTemplate
 
 }
 
+//editor "index(109)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -5927,6 +6036,7 @@ EntityTemplate
 
 }
 
+//editor "index(110)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -5980,6 +6090,7 @@ EntityTemplate
 
 }
 
+//editor "index(111)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -6033,6 +6144,7 @@ EntityTemplate
 
 }
 
+//editor "index(112)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -6086,6 +6198,7 @@ EntityTemplate
 
 }
 
+//editor "index(113)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -6139,6 +6252,7 @@ EntityTemplate
 
 }
 
+//editor "index(114)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -6192,6 +6306,7 @@ EntityTemplate
 
 }
 
+//editor "index(115)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -6245,6 +6360,7 @@ EntityTemplate
 
 }
 
+//editor "index(116)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -6298,6 +6414,7 @@ EntityTemplate
 
 }
 
+//editor "index(117)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -6351,6 +6468,7 @@ EntityTemplate
 
 }
 
+//editor "index(118)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -6404,6 +6522,7 @@ EntityTemplate
 
 }
 
+//editor "index(119)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -6457,6 +6576,7 @@ EntityTemplate
 
 }
 
+//editor "index(120)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -6510,6 +6630,7 @@ EntityTemplate
 
 }
 
+//editor "index(121)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -6563,6 +6684,7 @@ EntityTemplate
 
 }
 
+//editor "index(122)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -6618,6 +6740,7 @@ EntityTemplate
 
 }
 
+//editor "index(123)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -6671,6 +6794,7 @@ EntityTemplate
 
 }
 
+//editor "index(124)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -6724,6 +6848,7 @@ EntityTemplate
 
 }
 
+//editor "index(125)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -6777,6 +6902,7 @@ EntityTemplate
 
 }
 
+//editor "index(126)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -6830,6 +6956,7 @@ EntityTemplate
 
 }
 
+//editor "index(127)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -6883,6 +7010,7 @@ EntityTemplate
 
 }
 
+//editor "index(128)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -6936,6 +7064,7 @@ EntityTemplate
 
 }
 
+//editor "index(129)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -6989,6 +7118,7 @@ EntityTemplate
 
 }
 
+//editor "index(130)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -7041,6 +7171,7 @@ EntityTemplate
 
 }
 
+//editor "index(131)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -7096,6 +7227,7 @@ EntityTemplate
 
 }
 
+//editor "index(132)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -7149,6 +7281,7 @@ EntityTemplate
 
 }
 
+//editor "index(133)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -7202,6 +7335,7 @@ EntityTemplate
 
 }
 
+//editor "index(134)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -7255,6 +7389,7 @@ EntityTemplate
 
 }
 
+//editor "index(135)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -7308,6 +7443,7 @@ EntityTemplate
 
 }
 
+//editor "index(136)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -7361,6 +7497,7 @@ EntityTemplate
 
 }
 
+//editor "index(137)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -7416,6 +7553,7 @@ EntityTemplate
 
 }
 
+//editor "index(138)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -7469,6 +7607,7 @@ EntityTemplate
 
 }
 
+//editor "index(139)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -7522,6 +7661,7 @@ EntityTemplate
 
 }
 
+//editor "index(140)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -7575,6 +7715,7 @@ EntityTemplate
 
 }
 
+//editor "index(141)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -7628,6 +7769,7 @@ EntityTemplate
 
 }
 
+//editor "index(142)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -7681,6 +7823,7 @@ EntityTemplate
 
 }
 
+//editor "index(143)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -7734,6 +7877,7 @@ EntityTemplate
 
 }
 
+//editor "index(144)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -7787,6 +7931,7 @@ EntityTemplate
 
 }
 
+//editor "index(145)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -7842,6 +7987,7 @@ EntityTemplate
 
 }
 
+//editor "index(146)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -7897,6 +8043,7 @@ EntityTemplate
 
 }
 
+//editor "index(147)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -7952,6 +8099,7 @@ EntityTemplate
 
 }
 
+//editor "index(148)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_03"
@@ -8007,6 +8155,7 @@ EntityTemplate
 
 }
 
+//editor "index(149)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -8069,6 +8218,7 @@ EntityTemplate
 
 }
 
+//editor "index(150)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -8131,6 +8281,7 @@ EntityTemplate
 
 }
 
+//editor "index(151)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -8193,6 +8344,7 @@ EntityTemplate
 
 }
 
+//editor "index(152)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -8255,6 +8407,7 @@ EntityTemplate
 
 }
 
+//editor "index(153)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -8315,6 +8468,7 @@ EntityTemplate
 
 }
 
+//editor "index(154)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_03"
@@ -8368,6 +8522,7 @@ EntityTemplate
 
 }
 
+//editor "index(155)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -8421,6 +8576,7 @@ EntityTemplate
 
 }
 
+//editor "index(156)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -8474,6 +8630,7 @@ EntityTemplate
 
 }
 
+//editor "index(157)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -8527,6 +8684,7 @@ EntityTemplate
 
 }
 
+//editor "index(158)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -8580,6 +8738,7 @@ EntityTemplate
 
 }
 
+//editor "index(159)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -8633,6 +8792,7 @@ EntityTemplate
 
 }
 
+//editor "index(160)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -8686,6 +8846,7 @@ EntityTemplate
 
 }
 
+//editor "index(161)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -8739,6 +8900,7 @@ EntityTemplate
 
 }
 
+//editor "index(162)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -8792,6 +8954,7 @@ EntityTemplate
 
 }
 
+//editor "index(163)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -8845,6 +9008,7 @@ EntityTemplate
 
 }
 
+//editor "index(164)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -8898,6 +9062,7 @@ EntityTemplate
 
 }
 
+//editor "index(165)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -8951,6 +9116,7 @@ EntityTemplate
 
 }
 
+//editor "index(166)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -9004,6 +9170,7 @@ EntityTemplate
 
 }
 
+//editor "index(167)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -9057,6 +9224,7 @@ EntityTemplate
 
 }
 
+//editor "index(168)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -9110,6 +9278,7 @@ EntityTemplate
 
 }
 
+//editor "index(169)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -9163,6 +9332,7 @@ EntityTemplate
 
 }
 
+//editor "index(170)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -9216,6 +9386,7 @@ EntityTemplate
 
 }
 
+//editor "index(171)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -9269,6 +9440,7 @@ EntityTemplate
 
 }
 
+//editor "index(172)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -9321,6 +9493,7 @@ EntityTemplate
 
 }
 
+//editor "index(173)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -9374,6 +9547,7 @@ EntityTemplate
 
 }
 
+//editor "index(174)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -9427,6 +9601,7 @@ EntityTemplate
 
 }
 
+//editor "index(175)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -9480,6 +9655,7 @@ EntityTemplate
 
 }
 
+//editor "index(176)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -9533,6 +9709,7 @@ EntityTemplate
 
 }
 
+//editor "index(177)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -9586,6 +9763,7 @@ EntityTemplate
 
 }
 
+//editor "index(178)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -9639,6 +9817,7 @@ EntityTemplate
 
 }
 
+//editor "index(179)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -9692,6 +9871,7 @@ EntityTemplate
 
 }
 
+//editor "index(180)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -9747,6 +9927,7 @@ EntityTemplate
 
 }
 
+//editor "index(181)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_01"
@@ -9801,6 +9982,7 @@ EntityTemplate
 
 }
 
+//editor "index(182)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_01"
@@ -9854,6 +10036,7 @@ EntityTemplate
 
 }
 
+//editor "index(183)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -9914,6 +10097,7 @@ EntityTemplate
 
 }
 
+//editor "index(184)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -9969,6 +10153,7 @@ EntityTemplate
 
 }
 
+//editor "index(185)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -10022,6 +10207,7 @@ EntityTemplate
 
 }
 
+//editor "index(186)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_01"
@@ -10075,6 +10261,7 @@ EntityTemplate
 
 }
 
+//editor "index(187)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_03"
@@ -10128,6 +10315,7 @@ EntityTemplate
 
 }
 
+//editor "index(188)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_04"
@@ -10181,6 +10369,7 @@ EntityTemplate
 
 }
 
+//editor "index(189)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -10236,6 +10425,7 @@ EntityTemplate
 
 }
 
+//editor "index(190)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -10289,6 +10479,7 @@ EntityTemplate
 
 }
 
+//editor "index(191)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_02"
@@ -10351,6 +10542,7 @@ EntityTemplate
 
 }
 
+//editor "index(192)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_01"
@@ -10404,6 +10596,7 @@ EntityTemplate
 
 }
 
+//editor "index(193)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -10457,6 +10650,7 @@ EntityTemplate
 
 }
 
+//editor "index(194)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_01"
@@ -10517,6 +10711,7 @@ EntityTemplate
 
 }
 
+//editor "index(195)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -10572,6 +10767,7 @@ EntityTemplate
 
 }
 
+//editor "index(196)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -10624,6 +10820,7 @@ EntityTemplate
 
 }
 
+//editor "index(197)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -10677,6 +10874,7 @@ EntityTemplate
 
 }
 
+//editor "index(198)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -10730,6 +10928,7 @@ EntityTemplate
 
 }
 
+//editor "index(199)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -10782,6 +10981,7 @@ EntityTemplate
 
 }
 
+//editor "index(200)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -10834,6 +11034,7 @@ EntityTemplate
 
 }
 
+//editor "index(201)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -10887,6 +11088,7 @@ EntityTemplate
 
 }
 
+//editor "index(202)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -10940,6 +11142,7 @@ EntityTemplate
 
 }
 
+//editor "index(203)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -10993,6 +11196,7 @@ EntityTemplate
 
 }
 
+//editor "index(204)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -11045,6 +11249,7 @@ EntityTemplate
 
 }
 
+//editor "index(205)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -11098,6 +11303,7 @@ EntityTemplate
 
 }
 
+//editor "index(206)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -11151,6 +11357,7 @@ EntityTemplate
 
 }
 
+//editor "index(207)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -11204,6 +11411,7 @@ EntityTemplate
 
 }
 
+//editor "index(208)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -11257,6 +11465,7 @@ EntityTemplate
 
 }
 
+//editor "index(209)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -11310,6 +11519,7 @@ EntityTemplate
 
 }
 
+//editor "index(210)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -11362,6 +11572,7 @@ EntityTemplate
 
 }
 
+//editor "index(211)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -11417,6 +11628,7 @@ EntityTemplate
 
 }
 
+//editor "index(212)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -11470,6 +11682,7 @@ EntityTemplate
 
 }
 
+//editor "index(213)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -11523,6 +11736,7 @@ EntityTemplate
 
 }
 
+//editor "index(214)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -11576,6 +11790,7 @@ EntityTemplate
 
 }
 
+//editor "index(215)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_03"
@@ -11629,6 +11844,7 @@ EntityTemplate
 
 }
 
+//editor "index(216)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -11684,6 +11900,7 @@ EntityTemplate
 
 }
 
+//editor "index(217)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_02"
@@ -11744,6 +11961,7 @@ EntityTemplate
 
 }
 
+//editor "index(218)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -11804,6 +12022,7 @@ EntityTemplate
 
 }
 
+//editor "index(219)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -11857,6 +12076,7 @@ EntityTemplate
 
 }
 
+//editor "index(220)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_04"
@@ -11910,6 +12130,7 @@ EntityTemplate
 
 }
 
+//editor "index(221)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -11970,6 +12191,7 @@ EntityTemplate
 
 }
 
+//editor "index(222)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -12030,6 +12252,7 @@ EntityTemplate
 
 }
 
+//editor "index(223)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -12083,6 +12306,7 @@ EntityTemplate
 
 }
 
+//editor "index(224)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_01"
@@ -12130,6 +12354,7 @@ EntityTemplate
 
 }
 
+//editor "index(225)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_02"
@@ -12183,6 +12408,7 @@ EntityTemplate
 
 }
 
+//editor "index(226)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_03"
@@ -12236,6 +12462,7 @@ EntityTemplate
 
 }
 
+//editor "index(227)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_03"
@@ -12283,6 +12510,7 @@ EntityTemplate
 
 }
 
+//editor "index(228)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -12336,6 +12564,7 @@ EntityTemplate
 
 }
 
+//editor "index(229)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -12389,6 +12618,7 @@ EntityTemplate
 
 }
 
+//editor "index(230)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -12444,6 +12674,7 @@ EntityTemplate
 
 }
 
+//editor "index(231)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_01"
@@ -12506,6 +12737,7 @@ EntityTemplate
 
 }
 
+//editor "index(232)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_01"
@@ -12568,6 +12800,7 @@ EntityTemplate
 
 }
 
+//editor "index(233)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -12630,6 +12863,7 @@ EntityTemplate
 
 }
 
+//editor "index(234)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_03"
@@ -12683,6 +12917,7 @@ EntityTemplate
 
 }
 
+//editor "index(235)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -12738,6 +12973,7 @@ EntityTemplate
 
 }
 
+//editor "index(236)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_06"
@@ -12793,6 +13029,7 @@ EntityTemplate
 
 }
 
+//editor "index(237)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_06"
@@ -12848,6 +13085,7 @@ EntityTemplate
 
 }
 
+//editor "index(238)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -12901,6 +13139,7 @@ EntityTemplate
 
 }
 
+//editor "index(239)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_04"
@@ -12954,6 +13193,7 @@ EntityTemplate
 
 }
 
+//editor "index(240)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -13008,6 +13248,7 @@ EntityTemplate
 
 }
 
+//editor "index(241)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_01"
@@ -13055,6 +13296,7 @@ EntityTemplate
 
 }
 
+//editor "index(242)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -13102,6 +13344,7 @@ EntityTemplate
 
 }
 
+//editor "index(243)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_03"
@@ -13155,6 +13398,7 @@ EntityTemplate
 
 }
 
+//editor "index(244)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -13208,6 +13452,7 @@ EntityTemplate
 
 }
 
+//editor "index(245)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -13261,6 +13506,7 @@ EntityTemplate
 
 }
 
+//editor "index(246)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -13314,6 +13560,7 @@ EntityTemplate
 
 }
 
+//editor "index(247)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -13367,6 +13614,7 @@ EntityTemplate
 
 }
 
+//editor "index(248)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -13420,6 +13668,7 @@ EntityTemplate
 
 }
 
+//editor "index(249)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -13473,6 +13722,7 @@ EntityTemplate
 
 }
 
+//editor "index(250)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -13526,6 +13776,7 @@ EntityTemplate
 
 }
 
+//editor "index(251)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -13579,6 +13830,7 @@ EntityTemplate
 
 }
 
+//editor "index(252)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -13632,6 +13884,7 @@ EntityTemplate
 
 }
 
+//editor "index(253)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -13685,6 +13938,7 @@ EntityTemplate
 
 }
 
+//editor "index(254)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -13738,6 +13992,7 @@ EntityTemplate
 
 }
 
+//editor "index(255)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -13791,6 +14046,7 @@ EntityTemplate
 
 }
 
+//editor "index(256)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -13844,6 +14100,7 @@ EntityTemplate
 
 }
 
+//editor "index(257)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -13897,6 +14154,7 @@ EntityTemplate
 
 }
 
+//editor "index(258)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -13950,6 +14208,7 @@ EntityTemplate
 
 }
 
+//editor "index(259)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -14003,6 +14262,7 @@ EntityTemplate
 
 }
 
+//editor "index(260)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -14056,6 +14316,7 @@ EntityTemplate
 
 }
 
+//editor "index(261)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -14109,6 +14370,7 @@ EntityTemplate
 
 }
 
+//editor "index(262)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -14162,6 +14424,7 @@ EntityTemplate
 
 }
 
+//editor "index(263)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -14215,6 +14478,7 @@ EntityTemplate
 
 }
 
+//editor "index(264)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -14262,6 +14526,7 @@ EntityTemplate
 
 }
 
+//editor "index(265)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_01"
@@ -14315,6 +14580,7 @@ EntityTemplate
 
 }
 
+//editor "index(266)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_03"
@@ -14362,6 +14628,7 @@ EntityTemplate
 
 }
 
+//editor "index(267)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -14415,6 +14682,7 @@ EntityTemplate
 
 }
 
+//editor "index(268)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -14470,6 +14738,7 @@ EntityTemplate
 
 }
 
+//editor "index(269)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -14523,6 +14792,7 @@ EntityTemplate
 
 }
 
+//editor "index(270)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_03"
@@ -14570,6 +14840,7 @@ EntityTemplate
 
 }
 
+//editor "index(271)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_03"
@@ -14630,6 +14901,7 @@ EntityTemplate
 
 }
 
+//editor "index(272)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -14677,6 +14949,7 @@ EntityTemplate
 
 }
 
+//editor "index(273)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -14730,6 +15003,7 @@ EntityTemplate
 
 }
 
+//editor "index(274)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -14783,6 +15057,7 @@ EntityTemplate
 
 }
 
+//editor "index(275)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_01"
@@ -14845,6 +15120,7 @@ EntityTemplate
 
 }
 
+//editor "index(276)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -14899,6 +15175,7 @@ EntityTemplate
 
 }
 
+//editor "index(277)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_05"
@@ -14959,6 +15236,7 @@ EntityTemplate
 
 }
 
+//editor "index(278)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -15012,6 +15290,7 @@ EntityTemplate
 
 }
 
+//editor "index(279)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_03"
@@ -15067,6 +15346,7 @@ EntityTemplate
 
 }
 
+//editor "index(280)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_02"
@@ -15129,6 +15409,7 @@ EntityTemplate
 
 }
 
+//editor "index(281)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_06"
@@ -15176,6 +15457,7 @@ EntityTemplate
 
 }
 
+//editor "index(282)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_01"
@@ -15231,6 +15513,7 @@ EntityTemplate
 
 }
 
+//editor "index(283)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_03"
@@ -15278,6 +15561,7 @@ EntityTemplate
 
 }
 
+//editor "index(284)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_01"
@@ -15340,6 +15624,7 @@ EntityTemplate
 
 }
 
+//editor "index(285)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -15393,6 +15678,7 @@ EntityTemplate
 
 }
 
+//editor "index(286)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -15440,6 +15726,7 @@ EntityTemplate
 
 }
 
+//editor "index(287)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -15493,6 +15780,7 @@ EntityTemplate
 
 }
 
+//editor "index(288)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -15548,6 +15836,7 @@ EntityTemplate
 
 }
 
+//editor "index(289)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_02"
@@ -15609,6 +15898,7 @@ EntityTemplate
 
 }
 
+//editor "index(290)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_03"
@@ -15662,6 +15952,7 @@ EntityTemplate
 
 }
 
+//editor "index(291)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -15709,6 +16000,7 @@ EntityTemplate
 
 }
 
+//editor "index(292)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_03"
@@ -15756,6 +16048,7 @@ EntityTemplate
 
 }
 
+//editor "index(293)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -15811,6 +16104,7 @@ EntityTemplate
 
 }
 
+//editor "index(294)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_02"
@@ -15864,6 +16158,7 @@ EntityTemplate
 
 }
 
+//editor "index(295)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -15917,6 +16212,7 @@ EntityTemplate
 
 }
 
+//editor "index(296)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -15970,6 +16266,7 @@ EntityTemplate
 
 }
 
+//editor "index(297)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -16025,6 +16322,7 @@ EntityTemplate
 
 }
 
+//editor "index(298)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_04"
@@ -16078,6 +16376,7 @@ EntityTemplate
 
 }
 
+//editor "index(299)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_02"
@@ -16133,6 +16432,7 @@ EntityTemplate
 
 }
 
+//editor "index(300)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_02"
@@ -16193,6 +16493,7 @@ EntityTemplate
 
 }
 
+//editor "index(301)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_03"
@@ -16248,6 +16549,7 @@ EntityTemplate
 
 }
 
+//editor "index(302)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_big_04"
@@ -16303,6 +16605,7 @@ EntityTemplate
 
 }
 
+//editor "index(303)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -16363,6 +16666,7 @@ EntityTemplate
 
 }
 
+//editor "index(304)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_medium_01"
@@ -16418,6 +16722,7 @@ EntityTemplate
 
 }
 
+//editor "index(305)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -16471,6 +16776,7 @@ EntityTemplate
 
 }
 
+//editor "index(306)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -16524,6 +16830,7 @@ EntityTemplate
 
 }
 
+//editor "index(307)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -16577,6 +16884,7 @@ EntityTemplate
 
 }
 
+//editor "index(308)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -16630,6 +16938,7 @@ EntityTemplate
 
 }
 
+//editor "index(309)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -16683,6 +16992,7 @@ EntityTemplate
 
 }
 
+//editor "index(310)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -16736,6 +17046,7 @@ EntityTemplate
 
 }
 
+//editor "index(311)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -16789,6 +17100,7 @@ EntityTemplate
 
 }
 
+//editor "index(312)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -16842,6 +17154,7 @@ EntityTemplate
 
 }
 
+//editor "index(313)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -16895,6 +17208,7 @@ EntityTemplate
 
 }
 
+//editor "index(314)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -16948,6 +17262,7 @@ EntityTemplate
 
 }
 
+//editor "index(315)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -17001,6 +17316,7 @@ EntityTemplate
 
 }
 
+//editor "index(316)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -17054,6 +17370,7 @@ EntityTemplate
 
 }
 
+//editor "index(317)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -17107,6 +17424,7 @@ EntityTemplate
 
 }
 
+//editor "index(318)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -17160,6 +17478,7 @@ EntityTemplate
 
 }
 
+//editor "index(319)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -17213,6 +17532,7 @@ EntityTemplate
 
 }
 
+//editor "index(320)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -17265,6 +17585,7 @@ EntityTemplate
 
 }
 
+//editor "index(321)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -17318,6 +17639,7 @@ EntityTemplate
 
 }
 
+//editor "index(322)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -17371,6 +17693,7 @@ EntityTemplate
 
 }
 
+//editor "index(323)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -17424,6 +17747,7 @@ EntityTemplate
 
 }
 
+//editor "index(324)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -17477,6 +17801,7 @@ EntityTemplate
 
 }
 
+//editor "index(325)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -17530,6 +17855,7 @@ EntityTemplate
 
 }
 
+//editor "index(326)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -17583,6 +17909,7 @@ EntityTemplate
 
 }
 
+//editor "index(327)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -17636,6 +17963,7 @@ EntityTemplate
 
 }
 
+//editor "index(328)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -17689,6 +18017,7 @@ EntityTemplate
 
 }
 
+//editor "index(329)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -17742,6 +18071,7 @@ EntityTemplate
 
 }
 
+//editor "index(330)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -17795,6 +18125,7 @@ EntityTemplate
 
 }
 
+//editor "index(331)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -17848,6 +18179,7 @@ EntityTemplate
 
 }
 
+//editor "index(332)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -17901,6 +18233,7 @@ EntityTemplate
 
 }
 
+//editor "index(333)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -17954,6 +18287,7 @@ EntityTemplate
 
 }
 
+//editor "index(334)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18007,6 +18341,7 @@ EntityTemplate
 
 }
 
+//editor "index(335)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18060,6 +18395,7 @@ EntityTemplate
 
 }
 
+//editor "index(336)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18113,6 +18449,7 @@ EntityTemplate
 
 }
 
+//editor "index(337)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18166,6 +18503,7 @@ EntityTemplate
 
 }
 
+//editor "index(338)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18219,6 +18557,7 @@ EntityTemplate
 
 }
 
+//editor "index(339)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18272,6 +18611,7 @@ EntityTemplate
 
 }
 
+//editor "index(340)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18325,6 +18665,7 @@ EntityTemplate
 
 }
 
+//editor "index(341)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18378,6 +18719,7 @@ EntityTemplate
 
 }
 
+//editor "index(342)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18431,6 +18773,7 @@ EntityTemplate
 
 }
 
+//editor "index(343)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18484,6 +18827,7 @@ EntityTemplate
 
 }
 
+//editor "index(344)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18537,6 +18881,7 @@ EntityTemplate
 
 }
 
+//editor "index(345)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18590,6 +18935,7 @@ EntityTemplate
 
 }
 
+//editor "index(346)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18643,6 +18989,7 @@ EntityTemplate
 
 }
 
+//editor "index(347)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18696,6 +19043,7 @@ EntityTemplate
 
 }
 
+//editor "index(348)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18749,6 +19097,7 @@ EntityTemplate
 
 }
 
+//editor "index(349)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18802,6 +19151,7 @@ EntityTemplate
 
 }
 
+//editor "index(350)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18855,6 +19205,7 @@ EntityTemplate
 
 }
 
+//editor "index(351)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18908,6 +19259,7 @@ EntityTemplate
 
 }
 
+//editor "index(352)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -18961,6 +19313,7 @@ EntityTemplate
 
 }
 
+//editor "index(353)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19014,6 +19367,7 @@ EntityTemplate
 
 }
 
+//editor "index(354)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19067,6 +19421,7 @@ EntityTemplate
 
 }
 
+//editor "index(355)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19120,6 +19475,7 @@ EntityTemplate
 
 }
 
+//editor "index(356)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19173,6 +19529,7 @@ EntityTemplate
 
 }
 
+//editor "index(357)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19226,6 +19583,7 @@ EntityTemplate
 
 }
 
+//editor "index(358)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19279,6 +19637,7 @@ EntityTemplate
 
 }
 
+//editor "index(359)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19332,6 +19691,7 @@ EntityTemplate
 
 }
 
+//editor "index(360)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19385,6 +19745,7 @@ EntityTemplate
 
 }
 
+//editor "index(361)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19438,6 +19799,7 @@ EntityTemplate
 
 }
 
+//editor "index(362)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19491,6 +19853,7 @@ EntityTemplate
 
 }
 
+//editor "index(363)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19544,6 +19907,7 @@ EntityTemplate
 
 }
 
+//editor "index(364)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19597,6 +19961,7 @@ EntityTemplate
 
 }
 
+//editor "index(365)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19650,6 +20015,7 @@ EntityTemplate
 
 }
 
+//editor "index(366)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19703,6 +20069,7 @@ EntityTemplate
 
 }
 
+//editor "index(367)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19756,6 +20123,7 @@ EntityTemplate
 
 }
 
+//editor "index(368)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19809,6 +20177,7 @@ EntityTemplate
 
 }
 
+//editor "index(369)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19862,6 +20231,7 @@ EntityTemplate
 
 }
 
+//editor "index(370)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19915,6 +20285,7 @@ EntityTemplate
 
 }
 
+//editor "index(371)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -19968,6 +20339,7 @@ EntityTemplate
 
 }
 
+//editor "index(372)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20021,6 +20393,7 @@ EntityTemplate
 
 }
 
+//editor "index(373)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20074,6 +20447,7 @@ EntityTemplate
 
 }
 
+//editor "index(374)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20127,6 +20501,7 @@ EntityTemplate
 
 }
 
+//editor "index(375)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20180,6 +20555,7 @@ EntityTemplate
 
 }
 
+//editor "index(376)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20233,6 +20609,7 @@ EntityTemplate
 
 }
 
+//editor "index(377)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20286,6 +20663,7 @@ EntityTemplate
 
 }
 
+//editor "index(378)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20339,6 +20717,7 @@ EntityTemplate
 
 }
 
+//editor "index(379)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20392,6 +20771,7 @@ EntityTemplate
 
 }
 
+//editor "index(380)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20445,6 +20825,7 @@ EntityTemplate
 
 }
 
+//editor "index(381)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20498,6 +20879,7 @@ EntityTemplate
 
 }
 
+//editor "index(382)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20551,6 +20933,7 @@ EntityTemplate
 
 }
 
+//editor "index(383)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20603,6 +20986,7 @@ EntityTemplate
 
 }
 
+//editor "index(384)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20656,6 +21040,7 @@ EntityTemplate
 
 }
 
+//editor "index(385)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20709,6 +21094,7 @@ EntityTemplate
 
 }
 
+//editor "index(386)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20762,6 +21148,7 @@ EntityTemplate
 
 }
 
+//editor "index(387)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20815,6 +21202,7 @@ EntityTemplate
 
 }
 
+//editor "index(388)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20868,6 +21256,7 @@ EntityTemplate
 
 }
 
+//editor "index(389)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20921,6 +21310,7 @@ EntityTemplate
 
 }
 
+//editor "index(390)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -20974,6 +21364,7 @@ EntityTemplate
 
 }
 
+//editor "index(391)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -21027,6 +21418,7 @@ EntityTemplate
 
 }
 
+//editor "index(392)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -21080,6 +21472,7 @@ EntityTemplate
 
 }
 
+//editor "index(393)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -21133,6 +21526,7 @@ EntityTemplate
 
 }
 
+//editor "index(394)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -21186,6 +21580,7 @@ EntityTemplate
 
 }
 
+//editor "index(395)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -21239,6 +21634,7 @@ EntityTemplate
 
 }
 
+//editor "index(396)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -21292,6 +21688,7 @@ EntityTemplate
 
 }
 
+//editor "index(397)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -21345,6 +21742,7 @@ EntityTemplate
 
 }
 
+//editor "index(398)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -21398,6 +21796,7 @@ EntityTemplate
 
 }
 
+//editor "index(399)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -21451,6 +21850,7 @@ EntityTemplate
 
 }
 
+//editor "index(400)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_01"
@@ -21504,6 +21904,7 @@ EntityTemplate
 
 }
 
+//editor "index(401)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -21557,6 +21958,7 @@ EntityTemplate
 
 }
 
+//editor "index(402)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -21610,6 +22012,7 @@ EntityTemplate
 
 }
 
+//editor "index(403)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -21663,6 +22066,7 @@ EntityTemplate
 
 }
 
+//editor "index(404)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -21716,6 +22120,7 @@ EntityTemplate
 
 }
 
+//editor "index(405)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -21769,6 +22174,7 @@ EntityTemplate
 
 }
 
+//editor "index(406)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -21822,6 +22228,7 @@ EntityTemplate
 
 }
 
+//editor "index(407)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -21875,6 +22282,7 @@ EntityTemplate
 
 }
 
+//editor "index(408)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -21928,6 +22336,7 @@ EntityTemplate
 
 }
 
+//editor "index(409)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -21981,6 +22390,7 @@ EntityTemplate
 
 }
 
+//editor "index(410)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22034,6 +22444,7 @@ EntityTemplate
 
 }
 
+//editor "index(411)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22087,6 +22498,7 @@ EntityTemplate
 
 }
 
+//editor "index(412)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22140,6 +22552,7 @@ EntityTemplate
 
 }
 
+//editor "index(413)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22193,6 +22606,7 @@ EntityTemplate
 
 }
 
+//editor "index(414)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22246,6 +22660,7 @@ EntityTemplate
 
 }
 
+//editor "index(415)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22299,6 +22714,7 @@ EntityTemplate
 
 }
 
+//editor "index(416)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22352,6 +22768,7 @@ EntityTemplate
 
 }
 
+//editor "index(417)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22405,6 +22822,7 @@ EntityTemplate
 
 }
 
+//editor "index(418)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22457,6 +22875,7 @@ EntityTemplate
 
 }
 
+//editor "index(419)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22510,6 +22929,7 @@ EntityTemplate
 
 }
 
+//editor "index(420)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22563,6 +22983,7 @@ EntityTemplate
 
 }
 
+//editor "index(421)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22616,6 +23037,7 @@ EntityTemplate
 
 }
 
+//editor "index(422)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22669,6 +23091,7 @@ EntityTemplate
 
 }
 
+//editor "index(423)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22722,6 +23145,7 @@ EntityTemplate
 
 }
 
+//editor "index(424)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22775,6 +23199,7 @@ EntityTemplate
 
 }
 
+//editor "index(425)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22828,6 +23253,7 @@ EntityTemplate
 
 }
 
+//editor "index(426)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22881,6 +23307,7 @@ EntityTemplate
 
 }
 
+//editor "index(427)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22934,6 +23361,7 @@ EntityTemplate
 
 }
 
+//editor "index(428)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -22987,6 +23415,7 @@ EntityTemplate
 
 }
 
+//editor "index(429)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23040,6 +23469,7 @@ EntityTemplate
 
 }
 
+//editor "index(430)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23093,6 +23523,7 @@ EntityTemplate
 
 }
 
+//editor "index(431)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23146,6 +23577,7 @@ EntityTemplate
 
 }
 
+//editor "index(432)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23199,6 +23631,7 @@ EntityTemplate
 
 }
 
+//editor "index(433)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23252,6 +23685,7 @@ EntityTemplate
 
 }
 
+//editor "index(434)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23305,6 +23739,7 @@ EntityTemplate
 
 }
 
+//editor "index(435)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23358,6 +23793,7 @@ EntityTemplate
 
 }
 
+//editor "index(436)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23411,6 +23847,7 @@ EntityTemplate
 
 }
 
+//editor "index(437)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23464,6 +23901,7 @@ EntityTemplate
 
 }
 
+//editor "index(438)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23517,6 +23955,7 @@ EntityTemplate
 
 }
 
+//editor "index(439)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23570,6 +24009,7 @@ EntityTemplate
 
 }
 
+//editor "index(440)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23623,6 +24063,7 @@ EntityTemplate
 
 }
 
+//editor "index(441)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23676,6 +24117,7 @@ EntityTemplate
 
 }
 
+//editor "index(442)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23729,6 +24171,7 @@ EntityTemplate
 
 }
 
+//editor "index(443)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23782,6 +24225,7 @@ EntityTemplate
 
 }
 
+//editor "index(444)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23835,6 +24279,7 @@ EntityTemplate
 
 }
 
+//editor "index(445)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23888,6 +24333,7 @@ EntityTemplate
 
 }
 
+//editor "index(446)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23941,6 +24387,7 @@ EntityTemplate
 
 }
 
+//editor "index(447)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -23994,6 +24441,7 @@ EntityTemplate
 
 }
 
+//editor "index(448)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -24047,6 +24495,7 @@ EntityTemplate
 
 }
 
+//editor "index(449)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -24100,6 +24549,7 @@ EntityTemplate
 
 }
 
+//editor "index(450)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -24153,6 +24603,7 @@ EntityTemplate
 
 }
 
+//editor "index(451)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -24206,6 +24657,7 @@ EntityTemplate
 
 }
 
+//editor "index(452)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -24259,6 +24711,7 @@ EntityTemplate
 
 }
 
+//editor "index(453)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -24312,6 +24765,7 @@ EntityTemplate
 
 }
 
+//editor "index(454)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_02"
@@ -24365,6 +24819,7 @@ EntityTemplate
 
 }
 
+//editor "index(455)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -24418,6 +24873,7 @@ EntityTemplate
 
 }
 
+//editor "index(456)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -24471,6 +24927,7 @@ EntityTemplate
 
 }
 
+//editor "index(457)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -24524,6 +24981,7 @@ EntityTemplate
 
 }
 
+//editor "index(458)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -24577,6 +25035,7 @@ EntityTemplate
 
 }
 
+//editor "index(459)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -24630,6 +25089,7 @@ EntityTemplate
 
 }
 
+//editor "index(460)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -24683,6 +25143,7 @@ EntityTemplate
 
 }
 
+//editor "index(461)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -24736,6 +25197,7 @@ EntityTemplate
 
 }
 
+//editor "index(462)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -24789,6 +25251,7 @@ EntityTemplate
 
 }
 
+//editor "index(463)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -24842,6 +25305,7 @@ EntityTemplate
 
 }
 
+//editor "index(464)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -24895,6 +25359,7 @@ EntityTemplate
 
 }
 
+//editor "index(465)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -24948,6 +25413,7 @@ EntityTemplate
 
 }
 
+//editor "index(466)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25001,6 +25467,7 @@ EntityTemplate
 
 }
 
+//editor "index(467)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25053,6 +25520,7 @@ EntityTemplate
 
 }
 
+//editor "index(468)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25106,6 +25574,7 @@ EntityTemplate
 
 }
 
+//editor "index(469)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25159,6 +25628,7 @@ EntityTemplate
 
 }
 
+//editor "index(470)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25212,6 +25682,7 @@ EntityTemplate
 
 }
 
+//editor "index(471)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25265,6 +25736,7 @@ EntityTemplate
 
 }
 
+//editor "index(472)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25318,6 +25790,7 @@ EntityTemplate
 
 }
 
+//editor "index(473)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25371,6 +25844,7 @@ EntityTemplate
 
 }
 
+//editor "index(474)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25424,6 +25898,7 @@ EntityTemplate
 
 }
 
+//editor "index(475)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25477,6 +25952,7 @@ EntityTemplate
 
 }
 
+//editor "index(476)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25530,6 +26006,7 @@ EntityTemplate
 
 }
 
+//editor "index(477)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25583,6 +26060,7 @@ EntityTemplate
 
 }
 
+//editor "index(478)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25636,6 +26114,7 @@ EntityTemplate
 
 }
 
+//editor "index(479)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25689,6 +26168,7 @@ EntityTemplate
 
 }
 
+//editor "index(480)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25742,6 +26222,7 @@ EntityTemplate
 
 }
 
+//editor "index(481)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25795,6 +26276,7 @@ EntityTemplate
 
 }
 
+//editor "index(482)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25848,6 +26330,7 @@ EntityTemplate
 
 }
 
+//editor "index(483)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25901,6 +26384,7 @@ EntityTemplate
 
 }
 
+//editor "index(484)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -25954,6 +26438,7 @@ EntityTemplate
 
 }
 
+//editor "index(485)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26007,6 +26492,7 @@ EntityTemplate
 
 }
 
+//editor "index(486)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26060,6 +26546,7 @@ EntityTemplate
 
 }
 
+//editor "index(487)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26113,6 +26600,7 @@ EntityTemplate
 
 }
 
+//editor "index(488)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26166,6 +26654,7 @@ EntityTemplate
 
 }
 
+//editor "index(489)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26219,6 +26708,7 @@ EntityTemplate
 
 }
 
+//editor "index(490)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26272,6 +26762,7 @@ EntityTemplate
 
 }
 
+//editor "index(491)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26325,6 +26816,7 @@ EntityTemplate
 
 }
 
+//editor "index(492)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26378,6 +26870,7 @@ EntityTemplate
 
 }
 
+//editor "index(493)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26431,6 +26924,7 @@ EntityTemplate
 
 }
 
+//editor "index(494)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26484,6 +26978,7 @@ EntityTemplate
 
 }
 
+//editor "index(495)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26537,6 +27032,7 @@ EntityTemplate
 
 }
 
+//editor "index(496)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26590,6 +27086,7 @@ EntityTemplate
 
 }
 
+//editor "index(497)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26643,6 +27140,7 @@ EntityTemplate
 
 }
 
+//editor "index(498)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26696,6 +27194,7 @@ EntityTemplate
 
 }
 
+//editor "index(499)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26749,6 +27248,7 @@ EntityTemplate
 
 }
 
+//editor "index(500)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26802,6 +27302,7 @@ EntityTemplate
 
 }
 
+//editor "index(501)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26855,6 +27356,7 @@ EntityTemplate
 
 }
 
+//editor "index(502)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26908,6 +27410,7 @@ EntityTemplate
 
 }
 
+//editor "index(503)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_debris_03"
@@ -26961,6 +27464,7 @@ EntityTemplate
 
 }
 
+//editor "index(504)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -27013,6 +27517,7 @@ EntityTemplate
 
 }
 
+//editor "index(505)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -27066,6 +27571,7 @@ EntityTemplate
 
 }
 
+//editor "index(506)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -27119,6 +27625,7 @@ EntityTemplate
 
 }
 
+//editor "index(507)"
 EntityTemplate
 {
 	base_blueprint "units/volume_stregaros_spawner_big"
@@ -27173,6 +27680,7 @@ EntityTemplate
 
 }
 
+//editor "index(508)"
 EntityTemplate
 {
 	base_blueprint "units/volume_stregaros_spawner_big"
@@ -27227,6 +27735,7 @@ EntityTemplate
 
 }
 
+//editor "index(509)"
 EntityTemplate
 {
 	base_blueprint "units/volume_stregaros_spawner_big"
@@ -27281,6 +27790,7 @@ EntityTemplate
 
 }
 
+//editor "index(510)"
 EntityTemplate
 {
 	base_blueprint "units/volume_stregaros_spawner_big"
@@ -27335,6 +27845,7 @@ EntityTemplate
 
 }
 
+//editor "index(511)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -27387,6 +27898,7 @@ EntityTemplate
 
 }
 
+//editor "index(512)"
 EntityTemplate
 {
 	base_blueprint "volumes/trigger_unit"
@@ -27446,6 +27958,7 @@ EntityTemplate
 
 }
 
+//editor "index(513)"
 EntityTemplate
 {
 	base_blueprint "volumes/trigger_unit"
@@ -27505,6 +28018,7 @@ EntityTemplate
 
 }
 
+//editor "index(514)"
 EntityTemplate
 {
 	base_blueprint "volumes/trigger_unit"
@@ -27564,6 +28078,7 @@ EntityTemplate
 
 }
 
+//editor "index(515)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_medium_03_skin1"
@@ -27624,6 +28139,7 @@ EntityTemplate
 
 }
 
+//editor "index(516)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_big_03_skin1"
@@ -27677,6 +28193,7 @@ EntityTemplate
 
 }
 
+//editor "index(517)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_big_03_skin1"
@@ -27732,6 +28249,7 @@ EntityTemplate
 
 }
 
+//editor "index(518)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_big_02_skin1"
@@ -27779,6 +28297,7 @@ EntityTemplate
 
 }
 
+//editor "index(519)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_medium_01_skin1"
@@ -27834,6 +28353,7 @@ EntityTemplate
 
 }
 
+//editor "index(520)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_medium_03_skin1"
@@ -27889,6 +28409,7 @@ EntityTemplate
 
 }
 
+//editor "index(521)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin1"
@@ -27943,6 +28464,7 @@ EntityTemplate
 
 }
 
+//editor "index(522)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin1"
@@ -27997,6 +28519,7 @@ EntityTemplate
 
 }
 
+//editor "index(523)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin1"
@@ -28052,6 +28575,7 @@ EntityTemplate
 
 }
 
+//editor "index(524)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin1"
@@ -28107,6 +28631,7 @@ EntityTemplate
 
 }
 
+//editor "index(525)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin1"
@@ -28162,6 +28687,7 @@ EntityTemplate
 
 }
 
+//editor "index(526)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin1"
@@ -28217,6 +28743,7 @@ EntityTemplate
 
 }
 
+//editor "index(527)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin1"
@@ -28270,6 +28797,7 @@ EntityTemplate
 
 }
 
+//editor "index(528)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin1"
@@ -28324,6 +28852,7 @@ EntityTemplate
 
 }
 
+//editor "index(529)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin1"
@@ -28379,6 +28908,7 @@ EntityTemplate
 
 }
 
+//editor "index(530)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin1"
@@ -28434,6 +28964,7 @@ EntityTemplate
 
 }
 
+//editor "index(531)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_01_skin1"
@@ -28481,6 +29012,7 @@ EntityTemplate
 
 }
 
+//editor "index(532)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_05_skin1"
@@ -28528,6 +29060,7 @@ EntityTemplate
 
 }
 
+//editor "index(533)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_03_skin1"
@@ -28575,6 +29108,7 @@ EntityTemplate
 
 }
 
+//editor "index(534)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_01_skin1"
@@ -28622,6 +29156,7 @@ EntityTemplate
 
 }
 
+//editor "index(535)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_01_skin1"
@@ -28669,6 +29204,7 @@ EntityTemplate
 
 }
 
+//editor "index(536)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -28716,6 +29252,7 @@ EntityTemplate
 
 }
 
+//editor "index(537)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -28763,6 +29300,7 @@ EntityTemplate
 
 }
 
+//editor "index(538)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -28817,6 +29355,7 @@ EntityTemplate
 
 }
 
+//editor "index(539)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -28872,6 +29411,7 @@ EntityTemplate
 
 }
 
+//editor "index(540)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -28926,6 +29466,7 @@ EntityTemplate
 
 }
 
+//editor "index(541)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -28980,6 +29521,7 @@ EntityTemplate
 
 }
 
+//editor "index(542)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -29034,6 +29576,7 @@ EntityTemplate
 
 }
 
+//editor "index(543)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -29088,6 +29631,7 @@ EntityTemplate
 
 }
 
+//editor "index(544)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -29142,6 +29686,7 @@ EntityTemplate
 
 }
 
+//editor "index(545)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -29196,6 +29741,7 @@ EntityTemplate
 
 }
 
+//editor "index(546)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -29250,6 +29796,7 @@ EntityTemplate
 
 }
 
+//editor "index(547)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -29304,6 +29851,7 @@ EntityTemplate
 
 }
 
+//editor "index(548)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -29358,6 +29906,7 @@ EntityTemplate
 
 }
 
+//editor "index(549)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -29405,6 +29954,7 @@ EntityTemplate
 
 }
 
+//editor "index(550)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -29459,6 +30009,7 @@ EntityTemplate
 
 }
 
+//editor "index(551)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -29513,6 +30064,7 @@ EntityTemplate
 
 }
 
+//editor "index(552)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -29567,6 +30119,7 @@ EntityTemplate
 
 }
 
+//editor "index(553)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -29621,6 +30174,7 @@ EntityTemplate
 
 }
 
+//editor "index(554)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -29675,6 +30229,7 @@ EntityTemplate
 
 }
 
+//editor "index(555)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_04_skin1"
@@ -29729,6 +30284,7 @@ EntityTemplate
 
 }
 
+//editor "index(556)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_04_skin1"
@@ -29783,6 +30339,7 @@ EntityTemplate
 
 }
 
+//editor "index(557)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_04_skin1"
@@ -29837,6 +30394,7 @@ EntityTemplate
 
 }
 
+//editor "index(558)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_04_skin1"
@@ -29891,6 +30449,7 @@ EntityTemplate
 
 }
 
+//editor "index(559)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_04_skin1"
@@ -29945,6 +30504,7 @@ EntityTemplate
 
 }
 
+//editor "index(560)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_04_skin1"
@@ -29992,6 +30552,7 @@ EntityTemplate
 
 }
 
+//editor "index(561)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_03_skin1"
@@ -30039,6 +30600,7 @@ EntityTemplate
 
 }
 
+//editor "index(562)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_02_skin1"
@@ -30086,6 +30648,7 @@ EntityTemplate
 
 }
 
+//editor "index(563)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_very_small_01_skin1"
@@ -30133,6 +30696,7 @@ EntityTemplate
 
 }
 
+//editor "index(564)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_03_skin1"
@@ -30180,6 +30744,7 @@ EntityTemplate
 
 }
 
+//editor "index(565)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_02_skin1"
@@ -30227,6 +30792,7 @@ EntityTemplate
 
 }
 
+//editor "index(566)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_01_skin1"
@@ -30274,6 +30840,7 @@ EntityTemplate
 
 }
 
+//editor "index(567)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_medium_06_skin1"
@@ -30327,6 +30894,7 @@ EntityTemplate
 
 }
 
+//editor "index(568)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_small_03_skin1"
@@ -30374,6 +30942,7 @@ EntityTemplate
 
 }
 
+//editor "index(569)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_debris_03_skin1"
@@ -30421,6 +30990,7 @@ EntityTemplate
 
 }
 
+//editor "index(570)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_debris_03_skin1"
@@ -30468,6 +31038,7 @@ EntityTemplate
 
 }
 
+//editor "index(571)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/pure_debris_03_skin1"
@@ -30515,6 +31086,7 @@ EntityTemplate
 
 }
 
+//editor "index(572)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -30568,6 +31140,7 @@ EntityTemplate
 
 }
 
+//editor "index(573)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -30621,6 +31194,7 @@ EntityTemplate
 
 }
 
+//editor "index(574)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -30674,6 +31248,7 @@ EntityTemplate
 
 }
 
+//editor "index(575)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -30727,6 +31302,7 @@ EntityTemplate
 
 }
 
+//editor "index(576)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -30780,6 +31356,7 @@ EntityTemplate
 
 }
 
+//editor "index(577)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -30833,6 +31410,7 @@ EntityTemplate
 
 }
 
+//editor "index(578)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -30886,6 +31464,7 @@ EntityTemplate
 
 }
 
+//editor "index(579)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -30939,6 +31518,7 @@ EntityTemplate
 
 }
 
+//editor "index(580)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -30992,6 +31572,7 @@ EntityTemplate
 
 }
 
+//editor "index(581)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -31045,6 +31626,7 @@ EntityTemplate
 
 }
 
+//editor "index(582)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -31098,6 +31680,7 @@ EntityTemplate
 
 }
 
+//editor "index(583)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -31151,6 +31734,7 @@ EntityTemplate
 
 }
 
+//editor "index(584)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -31204,6 +31788,7 @@ EntityTemplate
 
 }
 
+//editor "index(585)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -31257,6 +31842,7 @@ EntityTemplate
 
 }
 
+//editor "index(586)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -31310,6 +31896,7 @@ EntityTemplate
 
 }
 
+//editor "index(587)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -31363,6 +31950,7 @@ EntityTemplate
 
 }
 
+//editor "index(588)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -31416,6 +32004,7 @@ EntityTemplate
 
 }
 
+//editor "index(589)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -31469,6 +32058,7 @@ EntityTemplate
 
 }
 
+//editor "index(590)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -31522,6 +32112,7 @@ EntityTemplate
 
 }
 
+//editor "index(591)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -31575,6 +32166,7 @@ EntityTemplate
 
 }
 
+//editor "index(592)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -31628,6 +32220,7 @@ EntityTemplate
 
 }
 
+//editor "index(593)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -31681,6 +32274,7 @@ EntityTemplate
 
 }
 
+//editor "index(594)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -31734,6 +32328,7 @@ EntityTemplate
 
 }
 
+//editor "index(595)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -31788,6 +32383,7 @@ EntityTemplate
 
 }
 
+//editor "index(596)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -31846,6 +32442,7 @@ EntityTemplate
 
 
 
+//editor "index(597)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -31900,6 +32497,7 @@ EntityTemplate
 
 }
 
+//editor "index(598)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -31954,6 +32552,7 @@ EntityTemplate
 
 }
 
+//editor "index(599)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -32008,6 +32607,7 @@ EntityTemplate
 
 }
 
+//editor "index(600)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -32062,6 +32662,7 @@ EntityTemplate
 
 }
 
+//editor "index(601)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -32117,6 +32718,7 @@ EntityTemplate
 }
 
 
+//editor "index(602)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_04"
@@ -32164,6 +32766,7 @@ EntityTemplate
 
 }
 
+//editor "index(603)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_02"
@@ -32211,6 +32814,7 @@ EntityTemplate
 
 }
 
+//editor "index(604)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_01"
@@ -32264,6 +32868,7 @@ EntityTemplate
 
 }
 
+//editor "index(605)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_03"
@@ -32317,6 +32922,7 @@ EntityTemplate
 
 }
 
+//editor "index(606)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff_black/cliff_black_small_03"
@@ -32364,6 +32970,7 @@ EntityTemplate
 
 }
 
+//editor "index(607)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_04"
@@ -32419,6 +33026,7 @@ EntityTemplate
 
 }
 
+//editor "index(608)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_03"
@@ -32472,6 +33080,7 @@ EntityTemplate
 
 }
 
+//editor "index(609)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_02"
@@ -32525,6 +33134,7 @@ EntityTemplate
 
 }
 
+//editor "index(610)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_01"
@@ -32580,6 +33190,7 @@ EntityTemplate
 
 }
 
+//editor "index(611)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_01"
@@ -32633,6 +33244,7 @@ EntityTemplate
 
 }
 
+//editor "index(612)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_06"
@@ -32686,6 +33298,7 @@ EntityTemplate
 
 }
 
+//editor "index(613)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_02"
@@ -32739,6 +33352,7 @@ EntityTemplate
 
 }
 
+//editor "index(614)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_01"
@@ -32786,6 +33400,7 @@ EntityTemplate
 
 }
 
+//editor "index(615)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_05"
@@ -32839,6 +33454,7 @@ EntityTemplate
 
 }
 
+//editor "index(616)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_04"
@@ -32893,6 +33509,7 @@ EntityTemplate
 
 }
 
+//editor "index(617)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_02"
@@ -32955,6 +33572,7 @@ EntityTemplate
 
 }
 
+//editor "index(618)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_03"
@@ -33008,6 +33626,7 @@ EntityTemplate
 
 }
 
+//editor "index(619)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_small_02"
@@ -33063,6 +33682,7 @@ EntityTemplate
 
 }
 
+//editor "index(620)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_small_02"
@@ -33118,6 +33738,7 @@ EntityTemplate
 
 }
 
+//editor "index(621)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_small_02"
@@ -33171,6 +33792,7 @@ EntityTemplate
 
 }
 
+//editor "index(622)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_small_01"
@@ -33226,6 +33848,7 @@ EntityTemplate
 
 }
 
+//editor "index(623)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_04"
@@ -33279,6 +33902,7 @@ EntityTemplate
 
 }
 
+//editor "index(624)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_03"
@@ -33332,6 +33956,7 @@ EntityTemplate
 
 }
 
+//editor "index(625)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_02"
@@ -33385,6 +34010,7 @@ EntityTemplate
 
 }
 
+//editor "index(626)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_02"
@@ -33432,6 +34058,7 @@ EntityTemplate
 
 }
 
+//editor "index(627)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_01"
@@ -33485,6 +34112,7 @@ EntityTemplate
 
 }
 
+//editor "index(628)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_05"
@@ -33538,6 +34166,7 @@ EntityTemplate
 
 }
 
+//editor "index(629)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_04"
@@ -33591,6 +34220,7 @@ EntityTemplate
 
 }
 
+//editor "index(630)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_03"
@@ -33646,6 +34276,7 @@ EntityTemplate
 
 }
 
+//editor "index(631)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_02"
@@ -33699,6 +34330,7 @@ EntityTemplate
 
 }
 
+//editor "index(632)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_01"
@@ -33754,6 +34386,7 @@ EntityTemplate
 
 }
 
+//editor "index(633)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_05"
@@ -33808,6 +34441,7 @@ EntityTemplate
 
 }
 
+//editor "index(634)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_06"
@@ -33855,6 +34489,7 @@ EntityTemplate
 
 }
 
+//editor "index(635)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_small_02"
@@ -33902,6 +34537,7 @@ EntityTemplate
 
 }
 
+//editor "index(636)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_small_01"
@@ -33955,6 +34591,7 @@ EntityTemplate
 
 }
 
+//editor "index(637)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_02"
@@ -34002,6 +34639,7 @@ EntityTemplate
 
 }
 
+//editor "index(638)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_medium_01"
@@ -34049,6 +34687,7 @@ EntityTemplate
 
 }
 
+//editor "index(639)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_04"
@@ -34096,6 +34735,7 @@ EntityTemplate
 
 }
 
+//editor "index(640)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_03"
@@ -34143,6 +34783,7 @@ EntityTemplate
 
 }
 
+//editor "index(641)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_02"
@@ -34190,6 +34831,7 @@ EntityTemplate
 
 }
 
+//editor "index(642)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_big_01"
@@ -34245,6 +34887,7 @@ EntityTemplate
 
 }
 
+//editor "index(643)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -34292,6 +34935,7 @@ EntityTemplate
 
 }
 
+//editor "index(644)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -34339,6 +34983,7 @@ EntityTemplate
 
 }
 
+//editor "index(645)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -34386,6 +35031,7 @@ EntityTemplate
 
 }
 
+//editor "index(646)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -34433,6 +35079,7 @@ EntityTemplate
 
 }
 
+//editor "index(647)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_03"
@@ -34480,6 +35127,7 @@ EntityTemplate
 
 }
 
+//editor "index(648)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -34533,6 +35181,7 @@ EntityTemplate
 
 }
 
+//editor "index(649)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -34586,6 +35235,7 @@ EntityTemplate
 
 }
 
+//editor "index(650)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -34639,6 +35289,7 @@ EntityTemplate
 
 }
 
+//editor "index(651)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -34692,6 +35343,7 @@ EntityTemplate
 
 }
 
+//editor "index(652)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_03"
@@ -34739,6 +35391,7 @@ EntityTemplate
 
 }
 
+//editor "index(653)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_03"
@@ -34786,6 +35439,7 @@ EntityTemplate
 
 }
 
+//editor "index(654)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_03"
@@ -34833,6 +35487,7 @@ EntityTemplate
 
 }
 
+//editor "index(655)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_03"
@@ -34880,6 +35535,7 @@ EntityTemplate
 
 }
 
+//editor "index(656)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_03"
@@ -34927,6 +35583,7 @@ EntityTemplate
 
 }
 
+//editor "index(657)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_03"
@@ -34974,6 +35631,7 @@ EntityTemplate
 
 }
 
+//editor "index(658)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_03"
@@ -35021,6 +35679,7 @@ EntityTemplate
 
 }
 
+//editor "index(659)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -35074,6 +35733,7 @@ EntityTemplate
 
 }
 
+//editor "index(660)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -35127,6 +35787,7 @@ EntityTemplate
 
 }
 
+//editor "index(661)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -35180,6 +35841,7 @@ EntityTemplate
 
 }
 
+//editor "index(662)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -35233,6 +35895,7 @@ EntityTemplate
 
 }
 
+//editor "index(663)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -35286,6 +35949,7 @@ EntityTemplate
 
 }
 
+//editor "index(664)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -35339,6 +36003,7 @@ EntityTemplate
 
 }
 
+//editor "index(665)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -35386,6 +36051,7 @@ EntityTemplate
 
 }
 
+//editor "index(666)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -35433,6 +36099,7 @@ EntityTemplate
 
 }
 
+//editor "index(667)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -35486,6 +36153,7 @@ EntityTemplate
 
 }
 
+//editor "index(668)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -35533,6 +36201,7 @@ EntityTemplate
 
 }
 
+//editor "index(669)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -35580,6 +36249,7 @@ EntityTemplate
 
 }
 
+//editor "index(670)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -35627,6 +36297,7 @@ EntityTemplate
 
 }
 
+//editor "index(671)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -35674,6 +36345,7 @@ EntityTemplate
 
 }
 
+//editor "index(672)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_03"
@@ -35721,6 +36393,7 @@ EntityTemplate
 
 }
 
+//editor "index(673)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_03"
@@ -35768,6 +36441,7 @@ EntityTemplate
 
 }
 
+//editor "index(674)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_03"
@@ -35815,6 +36489,7 @@ EntityTemplate
 
 }
 
+//editor "index(675)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_03"
@@ -35862,6 +36537,7 @@ EntityTemplate
 
 }
 
+//editor "index(676)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_03"
@@ -35909,6 +36585,7 @@ EntityTemplate
 
 }
 
+//editor "index(677)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_03"
@@ -35956,6 +36633,7 @@ EntityTemplate
 
 }
 
+//editor "index(678)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -36003,6 +36681,7 @@ EntityTemplate
 
 }
 
+//editor "index(679)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -36050,6 +36729,7 @@ EntityTemplate
 
 }
 
+//editor "index(680)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -36097,6 +36777,7 @@ EntityTemplate
 
 }
 
+//editor "index(681)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -36144,6 +36825,7 @@ EntityTemplate
 
 }
 
+//editor "index(682)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -36191,6 +36873,7 @@ EntityTemplate
 
 }
 
+//editor "index(683)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -36238,6 +36921,7 @@ EntityTemplate
 
 }
 
+//editor "index(684)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -36285,6 +36969,7 @@ EntityTemplate
 
 }
 
+//editor "index(685)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -36332,6 +37017,7 @@ EntityTemplate
 
 }
 
+//editor "index(686)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -36385,6 +37071,7 @@ EntityTemplate
 
 }
 
+//editor "index(687)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -36438,6 +37125,7 @@ EntityTemplate
 
 }
 
+//editor "index(688)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -36491,6 +37179,7 @@ EntityTemplate
 
 }
 
+//editor "index(689)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -36544,6 +37233,7 @@ EntityTemplate
 
 }
 
+//editor "index(690)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -36597,6 +37287,7 @@ EntityTemplate
 
 }
 
+//editor "index(691)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -36650,6 +37341,7 @@ EntityTemplate
 
 }
 
+//editor "index(692)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -36703,6 +37395,7 @@ EntityTemplate
 
 }
 
+//editor "index(693)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -36756,6 +37449,7 @@ EntityTemplate
 
 }
 
+//editor "index(694)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -36809,6 +37503,7 @@ EntityTemplate
 
 }
 
+//editor "index(695)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -36862,6 +37557,7 @@ EntityTemplate
 
 }
 
+//editor "index(696)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -36915,6 +37611,7 @@ EntityTemplate
 
 }
 
+//editor "index(697)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -36968,6 +37665,7 @@ EntityTemplate
 
 }
 
+//editor "index(698)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -37021,6 +37719,7 @@ EntityTemplate
 
 }
 
+//editor "index(699)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -37074,6 +37773,7 @@ EntityTemplate
 
 }
 
+//editor "index(700)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -37121,6 +37821,7 @@ EntityTemplate
 
 }
 
+//editor "index(701)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -37168,6 +37869,7 @@ EntityTemplate
 
 }
 
+//editor "index(702)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -37215,6 +37917,7 @@ EntityTemplate
 
 }
 
+//editor "index(703)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -37262,6 +37965,7 @@ EntityTemplate
 
 }
 
+//editor "index(704)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_02"
@@ -37309,6 +38013,7 @@ EntityTemplate
 
 }
 
+//editor "index(705)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -37362,6 +38067,7 @@ EntityTemplate
 
 }
 
+//editor "index(706)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -37415,6 +38121,7 @@ EntityTemplate
 
 }
 
+//editor "index(707)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -37468,6 +38175,7 @@ EntityTemplate
 
 }
 
+//editor "index(708)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -37520,6 +38228,7 @@ EntityTemplate
 
 }
 
+//editor "index(709)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -37573,6 +38282,7 @@ EntityTemplate
 
 }
 
+//editor "index(710)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -37626,6 +38336,7 @@ EntityTemplate
 
 }
 
+//editor "index(711)"
 EntityTemplate
 {
 	base_blueprint "props/rocks/cliff/cliff_debris_01"
@@ -37679,6 +38390,7 @@ EntityTemplate
 
 }
 
+//editor "index(712)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_02_skin1"
@@ -37734,6 +38446,7 @@ EntityTemplate
 
 }
 
+//editor "index(713)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_02_skin1"
@@ -37788,6 +38501,7 @@ EntityTemplate
 
 }
 
+//editor "index(714)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_02_skin1"
@@ -37842,6 +38556,7 @@ EntityTemplate
 
 }
 
+//editor "index(715)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_02_skin1"
@@ -37896,6 +38611,7 @@ EntityTemplate
 
 }
 
+//editor "index(716)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -37950,6 +38666,7 @@ EntityTemplate
 
 }
 
+//editor "index(717)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -38004,6 +38721,7 @@ EntityTemplate
 
 }
 
+//editor "index(718)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -38058,6 +38776,7 @@ EntityTemplate
 
 }
 
+//editor "index(719)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_03_skin1"
@@ -38111,6 +38830,7 @@ EntityTemplate
 
 }
 
+//editor "index(720)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_03_skin1"
@@ -38165,6 +38885,7 @@ EntityTemplate
 
 }
 
+//editor "index(721)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_03_skin1"
@@ -38218,6 +38939,7 @@ EntityTemplate
 
 }
 
+//editor "index(722)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_03_skin1"
@@ -38265,6 +38987,7 @@ EntityTemplate
 
 }
 
+//editor "index(723)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_02_skin1"
@@ -38319,6 +39042,7 @@ EntityTemplate
 
 }
 
+//editor "index(724)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_03_skin1"
@@ -38372,6 +39096,7 @@ EntityTemplate
 
 }
 
+//editor "index(725)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_03_skin1"
@@ -38425,6 +39150,7 @@ EntityTemplate
 
 }
 
+//editor "index(726)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_03_skin1"
@@ -38478,6 +39204,7 @@ EntityTemplate
 
 }
 
+//editor "index(727)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_02_skin1"
@@ -38525,6 +39252,7 @@ EntityTemplate
 
 }
 
+//editor "index(728)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_02_skin1"
@@ -38572,6 +39300,7 @@ EntityTemplate
 
 }
 
+//editor "index(729)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_02_skin1"
@@ -38626,6 +39355,7 @@ EntityTemplate
 
 }
 
+//editor "index(730)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_03_skin1"
@@ -38679,6 +39409,7 @@ EntityTemplate
 
 }
 
+//editor "index(731)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_03_skin1"
@@ -38726,6 +39457,7 @@ EntityTemplate
 
 }
 
+//editor "index(732)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_02_skin1"
@@ -38780,6 +39512,7 @@ EntityTemplate
 
 }
 
+//editor "index(733)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_02_skin1"
@@ -38827,6 +39560,7 @@ EntityTemplate
 
 }
 
+//editor "index(734)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -38881,6 +39615,7 @@ EntityTemplate
 
 }
 
+//editor "index(735)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_small_01_skin1"
@@ -38935,6 +39670,7 @@ EntityTemplate
 
 }
 
+//editor "index(736)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_medium_03_skin1"
@@ -38989,6 +39725,7 @@ EntityTemplate
 
 }
 
+//editor "index(737)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_medium_02_skin1"
@@ -39042,6 +39779,7 @@ EntityTemplate
 
 }
 
+//editor "index(738)"
 EntityTemplate
 {
 	base_blueprint "props/crystals/entvined_medium_03_skin1"
@@ -39097,6 +39835,7 @@ EntityTemplate
 
 }
 
+//editor "index(739)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -39156,6 +39895,7 @@ EntityTemplate
 
 }
 
+//editor "index(740)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -39215,6 +39955,7 @@ EntityTemplate
 
 }
 
+//editor "index(741)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -39274,6 +40015,7 @@ EntityTemplate
 
 }
 
+//editor "index(742)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -39333,6 +40075,7 @@ EntityTemplate
 
 }
 
+//editor "index(743)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_placement"
@@ -39393,6 +40136,7 @@ EntityTemplate
 }
 
 
+//editor "index(744)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -39445,6 +40189,7 @@ EntityTemplate
 
 }
 
+//editor "index(745)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -39496,6 +40241,7 @@ EntityTemplate
 
 }
 
+//editor "index(746)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -39547,6 +40293,7 @@ EntityTemplate
 
 }
 
+//editor "index(747)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -39599,6 +40346,7 @@ EntityTemplate
 
 }
 
+//editor "index(748)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_enemy"
@@ -39651,6 +40399,7 @@ EntityTemplate
 
 }
 
+//editor "index(749)"
 EntityTemplate
 {
 	base_blueprint "logic/position_marker"
@@ -39704,6 +40453,7 @@ EntityTemplate
 }
 
 
+//editor "index(750)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_player"
@@ -39752,6 +40502,7 @@ EntityTemplate
 
 ///
 
+//editor "index(751)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -39804,6 +40555,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(752)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -39856,6 +40608,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(753)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -39908,6 +40661,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(754)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -39960,6 +40714,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(755)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40012,6 +40767,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(756)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40064,6 +40820,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(757)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40116,6 +40873,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(758)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40168,6 +40926,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(759)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40220,6 +40979,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(760)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40272,6 +41032,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(761)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40324,6 +41085,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(762)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40376,6 +41138,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(763)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40428,6 +41191,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(764)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40480,6 +41244,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(765)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40532,6 +41297,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(766)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40584,6 +41350,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(767)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40636,6 +41403,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(768)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40688,6 +41456,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(769)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40740,6 +41509,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(770)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40792,6 +41562,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(771)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40844,6 +41615,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(772)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40896,6 +41668,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(773)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"
@@ -40948,6 +41721,7 @@ EntityTemplate
 	}
 
 }
+//editor "index(774)"
 EntityTemplate
 {
 	base_blueprint "resources/volume_random_resources"

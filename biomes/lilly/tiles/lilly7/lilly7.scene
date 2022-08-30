@@ -1334,7 +1334,7 @@ EntityTemplate
 
 }
 
-//editor "index(36)"
+//editor "index(27)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -1381,7 +1381,7 @@ EntityTemplate
 
 }
 
-//editor "index(37)"
+//editor "index(28)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -1429,7 +1429,7 @@ EntityTemplate
 
 }
 
-//editor "index(38)"
+//editor "index(29)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -1476,7 +1476,7 @@ EntityTemplate
 
 }
 
-//editor "index(39)"
+//editor "index(30)"
 EntityTemplate
 {
 	base_blueprint "logic/spawn_objective"
@@ -1523,7 +1523,7 @@ EntityTemplate
 
 }
 
-//editor "index(40)"
+//editor "index(31)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_liquid_units_spawner"
@@ -1577,7 +1577,7 @@ EntityTemplate
 
 }
 
-//editor "index(41)"
+//editor "index(32)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_neutral_units_spawner"
@@ -1631,7 +1631,7 @@ EntityTemplate
 
 }
 
-//editor "index(42)"
+//editor "index(33)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_regular_units_spawner"
@@ -1685,7 +1685,7 @@ EntityTemplate
 
 }
 
-//editor "index(43)"
+//editor "index(34)"
 EntityTemplate
 {
 	base_blueprint "units/spawner/volume_resources_units_spawner"
