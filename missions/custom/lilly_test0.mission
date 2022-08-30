@@ -1,7 +1,7 @@
 MissionDef
 {
 	//logic "logic/missions/survival/default.logic"
-	script		  "lua/missions/survival/survival_lilly.lua"
+	script		  "lua/missions/survival/survival_lilly_test.lua"
 	localization_id	"campaigns/custom/lilly_test0.campaign"
 	description		"test"
 	
