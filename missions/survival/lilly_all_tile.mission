@@ -23,7 +23,6 @@ MissionDef
 source_tiles
 {
 
-
 biomes/lilly/tiles/lilly/lilly.tile
 biomes/lilly/tiles/lilly0/lilly0.tile
 biomes/lilly/tiles/lilly0/lilly00.tile
@@ -85,6 +84,9 @@ biomes/lilly/tiles/lilly9/lilly9.tile
 biomes/lilly/tiles/lilly9/lilly91.tile
 biomes/lilly/tiles/lillya/lillya.tile
 biomes/lilly/tiles/lillya/lillya1.tile
+biomes/lilly/tiles/lillyb/lillyb.tile
+biomes/lilly/tiles/lillyb/lillyb1.tile
+biomes/lilly/tiles/lillyc/lillyc.tile
 
 
 biomes/jungle/tiles/jungle_custom_plains_01/jungle_custom_plains_01_lilly1.tile
