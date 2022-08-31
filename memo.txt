@@ -1,3 +1,19 @@
+
+r_show_map_info 1
+cheat_reveal_minimap 1
+r_show_entity_blueprints 1
+
+r_show_fps 1
+show_terrain_grid 1
+debug_mission_flow 1
+camera_enable_zoom 1
+r_show_lua_names 1
+
+cheat_debug_difficulty 0
+debug_show_gui_hitboxes 0
+
+
+
 Blueprint\s+\{\s+blueprint\s+"props/rocks/((?!debris).)*"\s+\}\s+
 
 
