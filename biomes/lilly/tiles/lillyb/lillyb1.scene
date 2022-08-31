@@ -492,12 +492,12 @@ EntityTemplate
 //editor "index(11)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_placement"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_placement"
 		}
 		LocalAabbDesc
 		{
@@ -531,9 +531,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "8"
+				x "1"
 				y "1.00"
-				z "8"
+				z "1"
 			}
 		}
 	}
@@ -541,12 +541,12 @@ EntityTemplate
 //editor "index(12)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_placement"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_placement"
 		}
 		LocalAabbDesc
 		{
@@ -580,9 +580,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "8"
+				x "1"
 				y "1.00"
-				z "8"
+				z "1"
 			}
 		}
 	}
@@ -590,12 +590,12 @@ EntityTemplate
 //editor "index(13)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_placement"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_placement"
 		}
 		LocalAabbDesc
 		{
@@ -629,9 +629,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "8"
+				x "1"
 				y "1.00"
-				z "8"
+				z "1"
 			}
 		}
 	}
@@ -639,12 +639,12 @@ EntityTemplate
 //editor "index(14)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_placement"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_placement"
 		}
 		LocalAabbDesc
 		{
@@ -678,9 +678,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "8"
+				x "1"
 				y "1.00"
-				z "8"
+				z "1"
 			}
 		}
 	}
@@ -688,12 +688,12 @@ EntityTemplate
 //editor "index(15)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_placement"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_placement"
 		}
 		LocalAabbDesc
 		{
@@ -727,9 +727,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "8"
+				x "1"
 				y "1.00"
-				z "8"
+				z "1"
 			}
 		}
 	}
@@ -737,12 +737,12 @@ EntityTemplate
 //editor "index(16)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_placement"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_placement"
 		}
 		LocalAabbDesc
 		{
@@ -776,9 +776,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "8"
+				x "1"
 				y "1.00"
-				z "8"
+				z "1"
 			}
 		}
 	}
@@ -786,12 +786,12 @@ EntityTemplate
 //editor "index(17)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_placement"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_placement"
 		}
 		LocalAabbDesc
 		{
@@ -825,9 +825,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "8"
+				x "1"
 				y "1.00"
-				z "8"
+				z "1"
 			}
 		}
 	}
@@ -835,12 +835,12 @@ EntityTemplate
 //editor "index(18)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_placement"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_placement"
 		}
 		LocalAabbDesc
 		{
@@ -874,9 +874,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "8"
+				x "1"
 				y "1.00"
-				z "8"
+				z "1"
 			}
 		}
 	}
@@ -884,12 +884,12 @@ EntityTemplate
 //editor "index(19)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_placement"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_placement"
 		}
 		LocalAabbDesc
 		{
@@ -923,9 +923,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "8"
+				x "1"
 				y "1.00"
-				z "8"
+				z "1"
 			}
 		}
 	}
@@ -933,12 +933,12 @@ EntityTemplate
 //editor "index(20)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_placement"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_placement"
 		}
 		LocalAabbDesc
 		{
@@ -972,9 +972,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "8"
+				x "1"
 				y "1.00"
-				z "8"
+				z "1"
 			}
 		}
 	}
@@ -982,12 +982,12 @@ EntityTemplate
 //editor "index(21)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_placement"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_placement"
 		}
 		LocalAabbDesc
 		{
@@ -1021,9 +1021,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "8"
+				x "1"
 				y "1.00"
-				z "8"
+				z "1"
 			}
 		}
 	}
@@ -1031,12 +1031,12 @@ EntityTemplate
 //editor "index(22)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_placement"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_placement"
 		}
 		LocalAabbDesc
 		{
@@ -1070,9 +1070,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "8"
+				x "1"
 				y "1.00"
-				z "8"
+				z "1"
 			}
 		}
 	}
@@ -1374,12 +1374,12 @@ EntityTemplate
 //editor "index(29)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "resources/volume_random_resources"
 		}
 		LocalAabbDesc
 		{
@@ -1413,9 +1413,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "1"
+				x "8"
 				y "1.00"
-				z "1"
+				z "8"
 			}
 		}
 	}
@@ -1423,12 +1423,12 @@ EntityTemplate
 //editor "index(30)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "resources/volume_random_resources"
 		}
 		LocalAabbDesc
 		{
@@ -1462,9 +1462,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "1"
+				x "8"
 				y "1.00"
-				z "1"
+				z "8"
 			}
 		}
 	}
@@ -1472,12 +1472,12 @@ EntityTemplate
 //editor "index(31)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "resources/volume_random_resources"
 		}
 		LocalAabbDesc
 		{
@@ -1511,9 +1511,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "1"
+				x "8"
 				y "1.00"
-				z "1"
+				z "8"
 			}
 		}
 	}
@@ -1521,12 +1521,12 @@ EntityTemplate
 //editor "index(32)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "resources/volume_random_resources"
 		}
 		LocalAabbDesc
 		{
@@ -1560,9 +1560,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "1"
+				x "8"
 				y "1.00"
-				z "1"
+				z "8"
 			}
 		}
 	}
@@ -1570,12 +1570,12 @@ EntityTemplate
 //editor "index(33)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "resources/volume_random_resources"
 		}
 		LocalAabbDesc
 		{
@@ -1609,9 +1609,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "1"
+				x "8"
 				y "1.00"
-				z "1"
+				z "8"
 			}
 		}
 	}
@@ -1619,12 +1619,12 @@ EntityTemplate
 //editor "index(34)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "resources/volume_random_resources"
 		}
 		LocalAabbDesc
 		{
@@ -1658,9 +1658,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "1"
+				x "8"
 				y "1.00"
-				z "1"
+				z "8"
 			}
 		}
 	}
@@ -1668,12 +1668,12 @@ EntityTemplate
 //editor "index(35)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "resources/volume_random_resources"
 		}
 		LocalAabbDesc
 		{
@@ -1707,9 +1707,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "1"
+				x "8"
 				y "1.00"
-				z "1"
+				z "8"
 			}
 		}
 	}
@@ -1717,12 +1717,12 @@ EntityTemplate
 //editor "index(36)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "resources/volume_random_resources"
 		}
 		LocalAabbDesc
 		{
@@ -1756,9 +1756,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "1"
+				x "8"
 				y "1.00"
-				z "1"
+				z "8"
 			}
 		}
 	}
@@ -1766,12 +1766,12 @@ EntityTemplate
 //editor "index(37)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "resources/volume_random_resources"
 		}
 		LocalAabbDesc
 		{
@@ -1805,9 +1805,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "1"
+				x "8"
 				y "1.00"
-				z "1"
+				z "8"
 			}
 		}
 	}
@@ -1815,12 +1815,12 @@ EntityTemplate
 //editor "index(38)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "resources/volume_random_resources"
 		}
 		LocalAabbDesc
 		{
@@ -1854,9 +1854,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "1"
+				x "8"
 				y "1.00"
-				z "1"
+				z "8"
 			}
 		}
 	}
@@ -1864,12 +1864,12 @@ EntityTemplate
 //editor "index(39)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "resources/volume_random_resources"
 		}
 		LocalAabbDesc
 		{
@@ -1903,9 +1903,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "1"
+				x "8"
 				y "1.00"
-				z "1"
+				z "8"
 			}
 		}
 	}
@@ -1913,12 +1913,12 @@ EntityTemplate
 //editor "index(40)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "resources/volume_random_resources"
 		}
 		LocalAabbDesc
 		{
@@ -1952,9 +1952,9 @@ EntityTemplate
 			}
 			scale
 			{
-				x "1"
+				x "8"
 				y "1.00"
-				z "1"
+				z "8"
 			}
 		}
 	}
