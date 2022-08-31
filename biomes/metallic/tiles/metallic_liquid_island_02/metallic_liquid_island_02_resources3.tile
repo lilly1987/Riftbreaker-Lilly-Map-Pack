@@ -7,7 +7,7 @@ TileDef
 		String "ground/metallic/rocks_debris_01"
 	}
 
-	is_hidden "0"
+	is_hidden "1"
 	tile_regions
 	{
 		TileRegion

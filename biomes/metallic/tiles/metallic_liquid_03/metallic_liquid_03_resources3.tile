@@ -7,7 +7,7 @@ TileDef
 		String "ground/metallic/metallic_tech_floor"
 	}
 
-	is_hidden "0"
+	is_hidden "1"
 	tile_regions
 	{
 		TileRegion
