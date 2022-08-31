@@ -1,91 +1,115 @@
 MissionDef
 {
+	//logic "logic/missions/survival/default.logic"
 	script		  "lua/missions/survival/survival_lilly_test.lua"
-	localization_id	"campaigns/custom/lilly_all_tile_many_resources.campaign"
-	description		"lilly_all"
+	localization_id	"campaigns/custom/lilly_test0.campaign"
+	description		"test"
+	
 	//script_database
 	//{	 
-	//	objective_tile		 string:"biomes/lilly/tiles/resources2/jungle_starting_01/jungle_starting_01.tile"
+	//	objective_tile		 string:"biomes/acid/tiles/acid_plains_02/acid_plains_02.tile"
 	//	objective_min_distance float:"0.0"
-	//	objective_max_distance float:"64.0"
-	//}
-	
-	map_size		"8,3"
+	//	objective_max_distance float:"1.0"
+	////	spawn_near_position string:"50,0,-800"	
+	//}	
 
+	
+	map_size		"3"
+	//map_size		"3,7"
+	//map_no_spawn_margin "24"
+	
+	//map_generator_seed	"1626282117"
+	
 	biomes		  	"lilly"
 	
 	creature_volumes_min_distance   "128.0"
 	creature_volumes_density		"0.01"
-	
+	//threat  "1"
 
 	// We need explicit tiles list for benchmarks so they stay deterministic for selected seed
 	// 벤치마크에 대한 명시적 타일 목록이 필요하므로 선택한 시드에 대해 결정성을 유지합니다.
-source_tiles
-{
-
-//#tile-all
-
-biomes/acid/tiles/acid_lakes_01/acid_lakes_01.tile
-biomes/acid/tiles/acid_lakes_02/acid_lakes_02.tile
-biomes/acid/tiles/acid_lakes_03/acid_lakes_03.tile
-biomes/acid/tiles/acid_nest_01/acid_nest_01.tile
-biomes/acid/tiles/acid_plains_01/acid_plains_01.tile
-biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
-biomes/acid/tiles/acid_plains_03/acid_plains_03.tile
-biomes/desert/tiles/desert_canyons_01/desert_canyons_01.tile
-biomes/desert/tiles/desert_canyons_02/desert_canyons_02.tile
-biomes/desert/tiles/desert_nest_01/desert_nest_01.tile
-biomes/desert/tiles/desert_plains_01/desert_plains_01.tile
-biomes/desert/tiles/desert_plains_02/desert_plains_02.tile
-biomes/desert/tiles/desert_plains_03/desert_plains_03.tile
-biomes/desert/tiles/desert_plains_04/desert_plains_04.tile
-biomes/desert/tiles/desert_starting_01/desert_starting_01.tile
-biomes/desert/tiles/desert_starting_02/desert_starting_02.tile
-biomes/jungle/tiles/jungle_canyons_01/jungle_canyons_01.tile
-biomes/jungle/tiles/jungle_canyons_02/jungle_canyons_02.tile
-biomes/jungle/tiles/jungle_canyons_03/jungle_canyons_03.tile
-biomes/jungle/tiles/jungle_lakes_01/jungle_lakes_01.tile
-biomes/jungle/tiles/jungle_nest_01/jungle_nest_01.tile
-biomes/jungle/tiles/jungle_nest_02/jungle_nest_02.tile
-biomes/jungle/tiles/jungle_nest_03/jungle_nest_03.tile
-biomes/jungle/tiles/jungle_plains_01/jungle_plains_01.tile
-biomes/jungle/tiles/jungle_plains_02/jungle_plains_02.tile
-biomes/jungle/tiles/jungle_plains_03/jungle_plains_03.tile
-biomes/jungle/tiles/jungle_plains_04/jungle_plains_04.tile
-biomes/jungle/tiles/jungle_starting_01/jungle_starting_01.tile
-biomes/jungle/tiles/jungle_trees_01/jungle_trees_01.tile
-biomes/magma/tiles/magma_canyons_01/magma_canyons_01.tile
-biomes/magma/tiles/magma_canyons_02/magma_canyons_02.tile
-biomes/magma/tiles/magma_canyons_03/magma_canyons_03.tile
-biomes/magma/tiles/magma_lakes_01/magma_lakes_01.tile
-biomes/magma/tiles/magma_plains_01/magma_plains_01.tile
-biomes/magma/tiles/magma_plains_02/magma_plains_02.tile
-biomes/magma/tiles/magma_plains_03/magma_plains_03.tile
-biomes/metallic/tiles/metallic_canyons_01/metallic_canyons_01.tile
-biomes/metallic/tiles/metallic_canyons_02/metallic_canyons_02.tile
-biomes/metallic/tiles/metallic_canyons_03/metallic_canyons_03.tile
-biomes/metallic/tiles/metallic_canyons_04/metallic_canyons_04.tile
-biomes/metallic/tiles/metallic_lakes_01/metallic_lakes_01.tile
-biomes/metallic/tiles/metallic_lakes_02/metallic_lakes_02.tile
-biomes/metallic/tiles/metallic_plains_01/metallic_plains_01.tile
-biomes/metallic/tiles/metallic_plains_02/metallic_plains_02.tile
-biomes/metallic/tiles/metallic_plains_03/metallic_plains_03.tile
-biomes/metallic/tiles/metallic_plains_04/metallic_plains_04.tile
-biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
+	source_tiles
+	{
+	
+biomes/lilly/tiles/grid/grid2.tile
+biomes/lilly/tiles/grid/grid2_L.tile
+biomes/lilly/tiles/grid/grid2_L_rock.tile
+biomes/lilly/tiles/grid/grid2_random.tile
+biomes/lilly/tiles/grid/grid2_random_rock.tile
+biomes/lilly/tiles/grid/grid2_rock.tile
+biomes/lilly/tiles/grid/grid_enemy.tile
+biomes/lilly/tiles/grid/grid_liquid.tile
+biomes/lilly/tiles/grid/grid_liquid_resources.tile
+biomes/lilly/tiles/grid/grid_liquid_resources2.tile
+biomes/lilly/tiles/grid/grid_liquid_Square.tile
+biomes/lilly/tiles/grid/grid_random.tile
+biomes/lilly/tiles/grid/grid_resources.tile
+biomes/lilly/tiles/lilly/lilly.tile
+biomes/lilly/tiles/lilly0/lilly0.tile
+biomes/lilly/tiles/lilly0/lilly00.tile
+biomes/lilly/tiles/lilly0/lilly01.tile
+biomes/lilly/tiles/lilly0/lilly02.tile
+biomes/lilly/tiles/lilly0/lilly021.tile
+biomes/lilly/tiles/lilly0/lilly022.tile
+biomes/lilly/tiles/lilly0/lilly03.tile
+biomes/lilly/tiles/lilly0/lilly04.tile
+biomes/lilly/tiles/lilly0/lilly05.tile
+biomes/lilly/tiles/lilly0/lilly06.tile
+biomes/lilly/tiles/lilly0/lilly07.tile
+biomes/lilly/tiles/lilly0/lilly08.tile
+biomes/lilly/tiles/lilly0/lilly09.tile
+biomes/lilly/tiles/lilly1/lilly1.tile
+biomes/lilly/tiles/lilly1/lilly10.tile
+biomes/lilly/tiles/lilly2/lilly2.tile
+biomes/lilly/tiles/lilly3/lilly3.tile
+biomes/lilly/tiles/lilly3/lilly31.tile
+biomes/lilly/tiles/lilly4/lilly4.tile
+biomes/lilly/tiles/lilly4/lilly41.tile
+biomes/lilly/tiles/lilly4/liquid_cross.tile
+biomes/lilly/tiles/lilly4/liquid_cross2.tile
+biomes/lilly/tiles/lilly4/liquid_cross4.tile
+biomes/lilly/tiles/lilly4/liquid_cross4_2.tile
+biomes/lilly/tiles/lilly4/liquid_cross4_3.tile
+biomes/lilly/tiles/lilly4/liquid_cross4_4.tile
+biomes/lilly/tiles/lilly5/lilly5.tile
+biomes/lilly/tiles/lilly5/lilly50.tile
+biomes/lilly/tiles/lilly6/lilly6.tile
+biomes/lilly/tiles/lilly6/lilly60.tile
+biomes/lilly/tiles/lilly7/lilly7.tile
+biomes/lilly/tiles/lilly7/lilly71.tile
+biomes/lilly/tiles/lilly8/lilly8.tile
+biomes/lilly/tiles/lilly9/lilly9.tile
+biomes/lilly/tiles/lilly9/lilly91.tile
+biomes/lilly/tiles/lillya/lillya.tile
+biomes/lilly/tiles/lillya/lillya1.tile
+biomes/lilly/tiles/lillyb/lillyb.tile
+biomes/lilly/tiles/lillyb/lillyb1.tile
+biomes/lilly/tiles/lillyc/lillyc.tile
+biomes/lilly/tiles/lillyd/lillyd.tile
+biomes/lilly/tiles/lillyo/lillyo.tile
+biomes/lilly/tiles/lillyx/lillyx.tile
+biomes/lilly/tiles/Square/Square.tile
+biomes/lilly/tiles/Square/Square0.tile
+biomes/lilly/tiles/Square/Square1.tile
+biomes/lilly/tiles/Square/Square2.tile
+biomes/lilly/tiles/Square/Square3.tile
+biomes/lilly/tiles/Square/Square4.tile
+biomes/lilly/tiles/Square/Square5.tile
+biomes/lilly/tiles/Square/Square7.tile
+biomes/lilly/tiles/Square/Square8.tile
+biomes/lilly/tiles/Square/Square9.tile
 
 	}
 
 	tile_spawn_rules
-	{		
-	
-		//biomes/lilly/tiles/resources/acid_lakes_03/acid_lakes_03.tile
-		//biomes/lilly/tiles/resources/jungle_canyons_03/jungle_canyons_03.tile
+	{			
+		//biomes/lilly/tiles/lilly/lilly10.tile
 		//{
-		//	min_instances	4
+		//	min_instances	1
 		//	//max_instances	1
-		//	//random_weight	2.0
+		//	random_weight	9.0
 		//}
-	}
+    }
 
 
 	ambient_creature_species
@@ -1228,8 +1252,10 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 
             min_spawned_volumes "16"
             max_spawned_volumes "24"
-        }	
+		}	
 		
+
+
 		ResourceVolume
 		{
 			resource		"morphium_vein"
@@ -1310,8 +1336,8 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 		{
 			resource		"carbon_vein"
 
-            min_resources   "80000"
-            max_resources   "140000"
+			min_resources   "96000"
+			max_resources   "144000"
 		
 		//is_infinite	 "1"
 
@@ -1323,8 +1349,8 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 		{
 			resource		"iron_vein"
 
-            min_resources   "48000"
-            max_resources   "100000"
+			min_resources   "96000"
+			max_resources   "200000"
 			
 		//is_infinite	 "1"
 

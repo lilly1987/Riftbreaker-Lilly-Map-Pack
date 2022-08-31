@@ -1,0 +1,72 @@
+Blueprint\s+\{\s+blueprint\s+"props/rocks/((?!debris).)*"\s+\}\s+
+
+
+### 환경 추출. 지울 대상
+EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+"(?!props/(bush|grass|trees|trees_dry|mushrooms).).*"[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
+EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+"logic/spawn_player"[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
+#
+EntityTemplate[\s]+?\{[\s]+?base_blueprint "lilly/bush_grass_random[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
+EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+"props/rocks((?!debris).)*"[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
+EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+".*blocker"[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
+EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+".*"[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
+EntityTemplate[\s]+?\{[\s]+?base_blueprint\s+".*big.*"[\S\s]+?\}[\s]+?\}[\s]+?\}[\s]+?\}[\s]
+
+base_blueprint\s+"props/rocks/(?!debris).)*"
+base_blueprint\s+"logic/spawn_enemy"
+
+base_blueprint\s+"props/rocks/granite_mossy/granite_mossy_((?!debris).)*(?:(?<a>[1470])|(?<b>[258])|(?<c>[369]))"
+base_blueprint "props/rocks/granite_mossy/granite_mossy_debris_small_0(?{a}1:(?{b}2:(?{c}3:1)))"
+
+base_blueprint\s+"props/rocks/cliff_black/cliff((?!debris).)*(?:(?<a>[1470])|(?<b>[258])|(?<c>[369]))"
+base_blueprint "props/rocks/cliff_black/cliff_black_debris_0(?{a}1:(?{b}2:(?{c}3:1)))"
+
+base_blueprint\s+"props/rocks/lava/lava((?!debris).)*(?:(?<a>[1470])|(?<b>[258])|(?<c>[369]))"
+base_blueprint "props/rocks/lava/lava_debris_small_0(?{a}1:(?{b}2:(?{c}3:1)))"
+
+base_blueprint\s+"props/rocks/jagged/jagged_((?!debris).)*(?:(?<a>(01|05|09|13))|(?<b>(02|06|10|14))|(?<c>(03|07|11|15))|(?<d>(04|08|12|16)))"
+base_blueprint "props/rocks/jagged/jagged_debris_0(?{a}1:(?{b}2:(?{c}3:(?{d}4:1))))"
+
+
+
+base_blueprint "resources/volume_resource.*"
+base_blueprint "resources/volume_random_resources_liquid"
+
+
+EntityTemplate\n{\n\tbase_blueprint "props/rocks[.\n]+
+
+is_hidden "1"
+is_hidden "0"
+
+base_blueprint "props/rocks
+
+base_blueprint "resources/volume_resource_magma"
+base_blueprint "resources/volume_resource_mud"
+base_blueprint "resources/volume_resource_sludge"
+base_blueprint "resources/volume_resource_water"
+base_blueprint "resources/volume_resource_morphium"
+base_blueprint "resources/volume_random_resources_liquid"
+base_blueprint "resources/volume_random_placement"
+base_blueprint "resources/volume_random_resources"
+base_blueprint "lilly/volume_random"
+base_blueprint "logic/spawn_objective"
+base_blueprint "logic/spawn_enemy"
+base_blueprint "logic/spawn_player"
+base_blueprint "units/spawner/volume_regular_units_spawner"
+
+
+
+(EntityTemplate\s+{\s+base_blueprint\s+"(logic/spawn_enemy|logic/spawn_objective|resources/volume_random_placement)"[\s\S]+?scale\s+{\s+x\s+")[\d.]+("\s+y\s+"1.000"\s+z\s+")[\d.]+("\s+}\s+}\s+}\s+}\s)
+${1}1${3}1${4}
+
+
+
+
+
+
+
+
+
+
+
+
+
