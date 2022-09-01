@@ -150,7 +150,7 @@ EntityTemplate
 //editor "index(4)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -2400,7 +2400,7 @@ EntityTemplate
 //editor "index(48)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -6326,7 +6326,7 @@ EntityTemplate
 //editor "index(124)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc

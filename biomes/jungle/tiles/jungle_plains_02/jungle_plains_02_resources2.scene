@@ -8249,12 +8249,12 @@ EntityTemplate
 //editor "index(142)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_liquids"
+			blueprint "resources/volume_random_resources_liquid"
 		}
 
 		LocalAabbDesc

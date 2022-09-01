@@ -456,7 +456,7 @@ EntityTemplate
 //editor "index(9)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -2984,7 +2984,7 @@ EntityTemplate
 //editor "index(58)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -3039,7 +3039,7 @@ EntityTemplate
 //editor "index(59)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -3094,7 +3094,7 @@ EntityTemplate
 //editor "index(60)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -3149,7 +3149,7 @@ EntityTemplate
 //editor "index(61)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -3204,7 +3204,7 @@ EntityTemplate
 //editor "index(62)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -3259,7 +3259,7 @@ EntityTemplate
 //editor "index(63)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -3320,7 +3320,7 @@ EntityTemplate
 //editor "index(64)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -3375,7 +3375,7 @@ EntityTemplate
 //editor "index(65)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -4966,7 +4966,7 @@ EntityTemplate
 //editor "index(91)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -5021,7 +5021,7 @@ EntityTemplate
 //editor "index(92)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -8406,7 +8406,7 @@ EntityTemplate
 //editor "index(156)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -12248,7 +12248,7 @@ EntityTemplate
 //editor "index(228)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -12303,7 +12303,7 @@ EntityTemplate
 //editor "index(229)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -12358,7 +12358,7 @@ EntityTemplate
 //editor "index(230)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -12413,7 +12413,7 @@ EntityTemplate
 //editor "index(231)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -12468,7 +12468,7 @@ EntityTemplate
 //editor "index(232)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc
@@ -12523,7 +12523,7 @@ EntityTemplate
 //editor "index(233)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_liquids"
+	base_blueprint "resources/volume_random_resources_liquid"
 	components
 	{
 		BlueprintDesc

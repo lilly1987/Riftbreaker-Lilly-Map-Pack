@@ -10,7 +10,7 @@ MissionDef
 	//	objective_max_distance float:"64.0"
 	//}
 	
-	map_size		"8,3"
+	map_size		"3,3"
 
 	biomes		  	"lilly"
 	

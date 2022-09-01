@@ -10,7 +10,7 @@ MissionDef
 	//	objective_max_distance float:"64.0"
 	//}
 	
-	map_size		"8,3"
+	map_size		"3,3"
 
 	biomes		  	"lilly"
 	
@@ -200,10 +200,12 @@ biomes/lilly/tiles/lillyb/lillyb.tile
 biomes/lilly/tiles/lillyb/lillyb1.tile
 biomes/lilly/tiles/lillyc/lillyc.tile
 biomes/lilly/tiles/lillyd/lillyd.tile
+biomes/lilly/tiles/lillyf/lillyf.tile
 biomes/lilly/tiles/lillyh/lillyh.tile
 biomes/lilly/tiles/lillyj/lillyj.tile
 biomes/lilly/tiles/lillyk/lillyk.tile
 biomes/lilly/tiles/lillyl/lillyl.tile
+biomes/lilly/tiles/lillyn/lillyn.tile
 biomes/lilly/tiles/lillyo/lillyo.tile
 biomes/lilly/tiles/lillyq/lillyq.tile
 biomes/lilly/tiles/lillyt/lillyt.tile
