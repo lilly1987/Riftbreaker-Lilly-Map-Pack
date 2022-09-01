@@ -2,7 +2,7 @@ entity_count "422"
 //editor "index(1)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_liquid"
+	base_blueprint "resources/volume_random_liquids"
 	components
 	{
 		BlueprintDesc
@@ -1903,7 +1903,7 @@ EntityTemplate
 //editor "index(36)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_liquid"
+	base_blueprint "resources/volume_random_liquids"
 	components
 	{
 		BlueprintDesc
@@ -1958,7 +1958,7 @@ EntityTemplate
 //editor "index(37)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_liquid"
+	base_blueprint "resources/volume_random_liquids"
 	components
 	{
 		BlueprintDesc
