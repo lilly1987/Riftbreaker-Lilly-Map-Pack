@@ -81,14 +81,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.995"
-				y "0.098"
+				w "0.882"
+				y "0.471"
 			}
 			position
 			{
-				x "18.369"
+				x "44.346"
 				y "0"
-				z "44.346"
+				z "18.369"
 			}
 			scale
 			{
@@ -131,14 +131,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.773"
-				y "0.634"
+				w "0.471"
+				y "0.882"
 			}
 			position
 			{
 				x "44.346"
 				y "0"
-				z "18.369"
+				z "-18.369"
 			}
 			scale
 			{
@@ -181,14 +181,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.634"
-				y "0.773"
+				w "0.29"
+				y "0.957"
 			}
 			position
 			{
-				x "44.346"
+				x "18.369"
 				y "0"
-				z "-18.369"
+				z "-44.346"
 			}
 			scale
 			{
@@ -231,12 +231,12 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.098"
-				y "0.995"
+				w "-0.29"
+				y "0.957"
 			}
 			position
 			{
-				x "18.369"
+				x "-18.369"
 				y "0"
 				z "-44.346"
 			}
@@ -281,14 +281,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.098"
-				y "0.995"
+				w "-0.471"
+				y "0.882"
 			}
 			position
 			{
-				x "-18.369"
+				x "-44.346"
 				y "0"
-				z "-44.346"
+				z "-18.369"
 			}
 			scale
 			{
@@ -331,14 +331,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.634"
-				y "0.773"
+				w "-0.882"
+				y "0.471"
 			}
 			position
 			{
 				x "-44.346"
 				y "0"
-				z "-18.369"
+				z "18.369"
 			}
 			scale
 			{
@@ -381,14 +381,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.773"
-				y "0.634"
+				w "-0.957"
+				y "0.29"
 			}
 			position
 			{
-				x "-44.346"
+				x "-18.369"
 				y "0"
-				z "18.369"
+				z "44.346"
 			}
 			scale
 			{
@@ -431,12 +431,12 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.995"
-				y "0.098"
+				w "-0.957"
+				y "-0.29"
 			}
 			position
 			{
-				x "-18.369"
+				x "18.369"
 				y "0"
 				z "44.346"
 			}
@@ -481,14 +481,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.957"
-				y "0.29"
+				w "0.773"
+				y "0.634"
 			}
 			position
 			{
-				x "14.142"
+				x "20"
 				y "0"
-				z "14.142"
+				z "0"
 			}
 			scale
 			{
@@ -531,14 +531,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.634"
-				y "0.773"
+				w "0.29"
+				y "0.957"
 			}
 			position
 			{
-				x "16"
+				x "11.314"
 				y "0"
-				z "0"
+				z "-11.314"
 			}
 			scale
 			{
@@ -581,14 +581,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.471"
-				y "0.882"
+				w "0.098"
+				y "0.995"
 			}
 			position
 			{
-				x "14.142"
+				x "0"
 				y "0"
-				z "-14.142"
+				z "-20"
 			}
 			scale
 			{
@@ -631,14 +631,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.098"
-				y "0.995"
+				w "-0.471"
+				y "0.882"
 			}
 			position
 			{
-				x "0"
+				x "-11.314"
 				y "0"
-				z "-16"
+				z "-11.314"
 			}
 			scale
 			{
@@ -681,14 +681,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.29"
-				y "0.957"
+				w "-0.634"
+				y "0.773"
 			}
 			position
 			{
-				x "-14.142"
+				x "-20"
 				y "0"
-				z "-14.142"
+				z "0"
 			}
 			scale
 			{
@@ -731,14 +731,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.773"
-				y "0.634"
+				w "-0.957"
+				y "0.29"
 			}
 			position
 			{
-				x "-16"
+				x "-11.314"
 				y "0"
-				z "0"
+				z "11.314"
 			}
 			scale
 			{
@@ -781,14 +781,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.882"
-				y "0.471"
+				w "-0.995"
+				y "0.098"
 			}
 			position
 			{
-				x "-14.142"
+				x "0"
 				y "0"
-				z "14.142"
+				z "20"
 			}
 			scale
 			{
@@ -831,14 +831,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.995"
-				y "-0.098"
+				w "-0.882"
+				y "-0.471"
 			}
 			position
 			{
-				x "0"
+				x "11.314"
 				y "0"
-				z "16"
+				z "11.314"
 			}
 			scale
 			{
@@ -881,14 +881,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.957"
-				y "0.29"
+				w "0.773"
+				y "0.634"
 			}
 			position
 			{
-				x "42.426"
+				x "60"
 				y "0"
-				z "42.426"
+				z "0"
 			}
 			scale
 			{
@@ -931,14 +931,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.634"
-				y "0.773"
+				w "0.29"
+				y "0.957"
 			}
 			position
 			{
-				x "56"
+				x "39.598"
 				y "0"
-				z "0"
+				z "-39.598"
 			}
 			scale
 			{
@@ -981,14 +981,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.471"
-				y "0.882"
+				w "0.098"
+				y "0.995"
 			}
 			position
 			{
-				x "42.426"
+				x "0"
 				y "0"
-				z "-42.426"
+				z "-60"
 			}
 			scale
 			{
@@ -1031,14 +1031,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.098"
-				y "0.995"
+				w "-0.471"
+				y "0.882"
 			}
 			position
 			{
-				x "0"
+				x "-39.598"
 				y "0"
-				z "-56"
+				z "-39.598"
 			}
 			scale
 			{
@@ -1081,14 +1081,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.29"
-				y "0.957"
+				w "-0.634"
+				y "0.773"
 			}
 			position
 			{
-				x "-42.426"
+				x "-60"
 				y "0"
-				z "-42.426"
+				z "0"
 			}
 			scale
 			{
@@ -1131,14 +1131,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.773"
-				y "0.634"
+				w "-0.957"
+				y "0.29"
 			}
 			position
 			{
-				x "-56"
+				x "-39.598"
 				y "0"
-				z "0"
+				z "39.598"
 			}
 			scale
 			{
@@ -1181,14 +1181,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.882"
-				y "0.471"
+				w "-0.995"
+				y "0.098"
 			}
 			position
 			{
-				x "-42.426"
+				x "0"
 				y "0"
-				z "42.426"
+				z "60"
 			}
 			scale
 			{
@@ -1231,14 +1231,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.995"
-				y "-0.098"
+				w "-0.882"
+				y "-0.471"
 			}
 			position
 			{
-				x "0"
+				x "39.598"
 				y "0"
-				z "56"
+				z "39.598"
 			}
 			scale
 			{
@@ -1281,14 +1281,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.957"
-				y "0.29"
+				w "0.773"
+				y "0.634"
 			}
 			position
 			{
-				x "25.456"
+				x "36"
 				y "0"
-				z "25.456"
+				z "0"
 			}
 			scale
 			{
@@ -1331,14 +1331,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.634"
-				y "0.773"
+				w "0.29"
+				y "0.957"
 			}
 			position
 			{
-				x "32"
+				x "22.627"
 				y "0"
-				z "0"
+				z "-22.627"
 			}
 			scale
 			{
@@ -1381,14 +1381,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.471"
-				y "0.882"
+				w "0.098"
+				y "0.995"
 			}
 			position
 			{
-				x "25.456"
+				x "0"
 				y "0"
-				z "-25.456"
+				z "-36"
 			}
 			scale
 			{
@@ -1431,14 +1431,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.098"
-				y "0.995"
+				w "-0.471"
+				y "0.882"
 			}
 			position
 			{
-				x "0"
+				x "-22.627"
 				y "0"
-				z "-32"
+				z "-22.627"
 			}
 			scale
 			{
@@ -1481,14 +1481,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.29"
-				y "0.957"
+				w "-0.634"
+				y "0.773"
 			}
 			position
 			{
-				x "-25.456"
+				x "-36"
 				y "0"
-				z "-25.456"
+				z "0"
 			}
 			scale
 			{
@@ -1531,14 +1531,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.773"
-				y "0.634"
+				w "-0.957"
+				y "0.29"
 			}
 			position
 			{
-				x "-32"
+				x "-22.627"
 				y "0"
-				z "0"
+				z "22.627"
 			}
 			scale
 			{
@@ -1581,14 +1581,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.882"
-				y "0.471"
+				w "-0.995"
+				y "0.098"
 			}
 			position
 			{
-				x "-25.456"
+				x "0"
 				y "0"
-				z "25.456"
+				z "36"
 			}
 			scale
 			{
@@ -1631,14 +1631,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.995"
-				y "-0.098"
+				w "-0.882"
+				y "-0.471"
 			}
 			position
 			{
-				x "0"
+				x "22.627"
 				y "0"
-				z "32"
+				z "22.627"
 			}
 			scale
 			{
@@ -1686,9 +1686,9 @@ EntityTemplate
 			}
 			position
 			{
-				x "-13.97"
+				x "-44.618"
 				y "0"
-				z "60.223"
+				z "-31.695"
 			}
 			scale
 			{
@@ -1736,9 +1736,9 @@ EntityTemplate
 			}
 			position
 			{
-				x "54.817"
+				x "48.098"
 				y "0"
-				z "19.648"
+				z "51.245"
 			}
 			scale
 			{
@@ -1786,9 +1786,9 @@ EntityTemplate
 			}
 			position
 			{
-				x "-52.953"
+				x "54.339"
 				y "0"
-				z "24.63"
+				z "-56.289"
 			}
 			scale
 			{
@@ -1836,9 +1836,9 @@ EntityTemplate
 			}
 			position
 			{
-				x "-13.006"
+				x "-18.375"
 				y "0"
-				z "58.57"
+				z "-58.489"
 			}
 			scale
 			{
@@ -1886,9 +1886,9 @@ EntityTemplate
 			}
 			position
 			{
-				x "43.928"
+				x "-51.334"
 				y "0"
-				z "32.527"
+				z "-37.543"
 			}
 			scale
 			{
@@ -1936,9 +1936,9 @@ EntityTemplate
 			}
 			position
 			{
-				x "31.323"
+				x "44.801"
 				y "0"
-				z "-0.846"
+				z "56.707"
 			}
 			scale
 			{
@@ -1986,9 +1986,9 @@ EntityTemplate
 			}
 			position
 			{
-				x "-44.145"
+				x "-43.105"
 				y "0"
-				z "20.546"
+				z "27.4"
 			}
 			scale
 			{
@@ -2036,9 +2036,9 @@ EntityTemplate
 			}
 			position
 			{
-				x "-50.018"
+				x "28.671"
 				y "0"
-				z "-4.689"
+				z "32.495"
 			}
 			scale
 			{
@@ -2086,9 +2086,9 @@ EntityTemplate
 			}
 			position
 			{
-				x "56.953"
+				x "-51.755"
 				y "0"
-				z "-3.304"
+				z "-11.704"
 			}
 			scale
 			{
@@ -2136,9 +2136,9 @@ EntityTemplate
 			}
 			position
 			{
-				x "14.318"
+				x "-59.43"
 				y "0"
-				z "20.181"
+				z "22.345"
 			}
 			scale
 			{
@@ -2186,9 +2186,9 @@ EntityTemplate
 			}
 			position
 			{
-				x "40.89"
+				x "54.361"
 				y "0"
-				z "-41.745"
+				z "44.325"
 			}
 			scale
 			{

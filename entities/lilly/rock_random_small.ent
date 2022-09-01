@@ -1,0 +1,288 @@
+
+EntityBlueprint
+{
+	name  "lilly/rock_random_small"
+
+	SceneEditorDesc
+    {
+        mesh        "meshes/volume.mesh"
+        material    "resources/resource_geothermal_vent"
+
+        initial_scale
+        {
+            x "1.0"
+            y "1.0"
+            z "1.0"
+        }
+    }
+
+	RandomBlueprintDesc
+	{
+Blueprint
+{
+blueprint "props/rocks/cliff/cliff_small_01"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff/cliff_small_02"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff/cliff_small_03"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff_black/cliff_black_small_01"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff_black/cliff_black_small_02"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff_black/cliff_black_small_03"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff_mossy/cliff_mossy_small_01"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff_mossy/cliff_mossy_small_02"
+}
+Blueprint
+{
+blueprint "props/rocks/cliff_mossy/cliff_mossy_small_03"
+}
+Blueprint
+{
+blueprint "props/rocks/cudgle/cudgle_small_01"
+}
+Blueprint
+{
+blueprint "props/rocks/cudgle/cudgle_small_03"
+}
+Blueprint
+{
+blueprint "props/rocks/cudgle/cudgle_small_02"
+}
+Blueprint
+{
+blueprint "props/rocks/cudgle/cudgle_small_04"
+}
+Blueprint
+{
+blueprint "props/rocks/cudgle/cudgle_small_05"
+}
+Blueprint
+{
+blueprint "props/rocks/cudgle/cudgle_small_06"
+}
+Blueprint
+{
+blueprint "props/rocks/cudgle/cudgle_small_07"
+}
+Blueprint
+{
+blueprint "props/rocks/cudgle/cudgle_small_08"
+}
+Blueprint
+{
+blueprint "props/rocks/granite_mossy/granite_mossy_small_01"
+}
+Blueprint
+{
+blueprint "props/rocks/granite_mossy/granite_mossy_small_02"
+}
+Blueprint
+{
+blueprint "props/rocks/granite_mossy/granite_mossy_small_03"
+}
+Blueprint
+{
+blueprint "props/rocks/granite_wet/granite_wet_small_01"
+}
+Blueprint
+{
+blueprint "props/rocks/granite_wet/granite_wet_small_02"
+}
+Blueprint
+{
+blueprint "props/rocks/granite_wet/granite_wet_small_03"
+}
+Blueprint
+{
+blueprint "props/rocks/jagged/jagged_small_01"
+}
+Blueprint
+{
+blueprint "props/rocks/jagged/jagged_small_02"
+}
+Blueprint
+{
+blueprint "props/rocks/jagged/jagged_small_03"
+}
+Blueprint
+{
+blueprint "props/rocks/jagged/jagged_small_04"
+}
+Blueprint
+{
+blueprint "props/rocks/jagged/jagged_small_05"
+}
+Blueprint
+{
+blueprint "props/rocks/jagged_energy/jagged_energy_small_01"
+}
+Blueprint
+{
+blueprint "props/rocks/jagged_energy/jagged_energy_small_02"
+}
+Blueprint
+{
+blueprint "props/rocks/jagged_energy/jagged_energy_small_03"
+}
+Blueprint
+{
+blueprint "props/rocks/jagged_energy/jagged_energy_small_04"
+}
+Blueprint
+{
+blueprint "props/rocks/jagged_energy/jagged_energy_small_05"
+}
+Blueprint
+{
+blueprint "props/rocks/lava/lava_small_01"
+}
+Blueprint
+{
+blueprint "props/rocks/lava/lava_small_02"
+}
+Blueprint
+{
+blueprint "props/rocks/lava/lava_small_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_cube/metallic_cube_small_01"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_cube/metallic_cube_small_02"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_cube/metallic_cube_small_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_cube/metallic_cube_small_04"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_cube/metallic_cube_small_05"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_cube/metallic_cube_small_06"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_cube/metallic_cube_small_07"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_mineral/metallic_mineral_small_01"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_mineral/metallic_mineral_small_02"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_mineral/metallic_mineral_small_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_mineral/metallic_mineral_small_04"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_mineral/metallic_mineral_small_05"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_mineral/metallic_mineral_small_06"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_mineral/metallic_mineral_small_07"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_sharp/metallic_sharp_small_01"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_sharp/metallic_sharp_small_02"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_sharp/metallic_sharp_small_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_sharp/metallic_sharp_small_04"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_sharp/metallic_sharp_small_05"
+}
+Blueprint
+{
+blueprint  "props/rocks/metallic_sharp/metallic_sharp_small_06"
+}
+Blueprint
+{
+blueprint "props/rocks/ovoid_acid/ovoid_acid_small_01"
+}
+Blueprint
+{
+blueprint "props/rocks/ovoid_acid/ovoid_acid_small_02"
+}
+Blueprint
+{
+blueprint "props/rocks/ovoid_acid/ovoid_acid_small_03"
+}
+Blueprint
+{
+blueprint "props/rocks/ovoid_acid/ovoid_acid_small_04"
+}
+Blueprint
+{
+blueprint "props/rocks/sandstone/sandstone_small_01"
+}
+Blueprint
+{
+blueprint "props/rocks/sandstone/sandstone_small_02"
+}
+Blueprint
+{
+blueprint "props/rocks/sandstone/sandstone_small_03"
+}
+Blueprint
+{
+blueprint  "props/rocks/volcanic/volcanic_rock_small_01"
+}
+Blueprint
+{
+blueprint  "props/rocks/volcanic/volcanic_rock_small_02"
+}
+Blueprint
+{
+blueprint  "props/rocks/volcanic/volcanic_rock_small_03"
+}
+
+	}
+}
+

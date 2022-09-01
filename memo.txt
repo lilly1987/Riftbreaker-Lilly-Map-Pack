@@ -15,6 +15,9 @@ debug_show_gui_hitboxes 0
 
 
 Blueprint\s+\{\s+blueprint\s+"props/rocks/((?!debris).)*"\s+\}\s+
+Blueprint\s+\{\s+blueprint\s+"props/rocks/\S*(medium|big)\S*"\s+\}\s+
+Blueprint\s+\{\s+blueprint\s+"props/rocks/\S*(small|big)\S*"\s+\}\s+
+Blueprint\s+\{\s+blueprint\s+"props/rocks/\S*(small|medium)\S*"\s+\}\s+
 
 
 ### 환경 추출. 지울 대상
@@ -73,9 +76,13 @@ base_blueprint "units/spawner/volume_regular_units_spawner"
 
 
 (EntityTemplate\s+{\s+base_blueprint\s+"(logic/spawn_enemy|logic/spawn_objective|resources/volume_random_placement)"[\s\S]+?scale\s+{\s+x\s+")[\d.]+("\s+y\s+"1.000"\s+z\s+")[\d.]+("\s+}\s+}\s+}\s+}\s)
+(EntityTemplate\s+{\s+base_blueprint\s+"(logic/spawn_enemy|logic/spawn_objective|resources/volume_random_placement)"[\s\S]+?scale\s+{\s+x\s+")[\d.]+("\s+z\s+")[\d.]+("\s+}\s+}\s+}\s+}\s)
 ${1}1${3}1${4}
 
 
+(EntityTemplate\s+{\s+base_blueprint\s+"(resources/volume_random_resources_liquid)"[\s\S]+?scale\s+{\s+x\s+")[\d.]+("\s+z\s+")[\d.]+("\s+}\s+}\s+}\s+}\s)
+(EntityTemplate\s+{\s+base_blueprint\s+"(resources/volume_random_resources_liquid)"[\s\S]+?scale\s+{[\s\S]+?y ")[\d.]+("[\s\S]+?}\s+}\s+}\s+}\s)
+${1}1${3}
 
 
 
