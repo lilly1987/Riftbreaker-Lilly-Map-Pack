@@ -1,0 +1,115 @@
+EntityBlueprint
+{
+	name  "resources/volume_random_resources_lilly"
+
+	LocalAabbDesc
+	{
+		local_aabb
+		{
+			min
+			{
+				x "-5"
+				y "-5"
+				z "-5"
+			}
+
+			max
+			{
+				x "5"
+				y "5"
+				z "5"
+			}
+		}
+	}
+
+	children
+	{
+
+		EntityBlueprint
+		{
+			base_blueprint "resources/volume_random_placement"
+			LocalAabbDesc
+			{
+				local_aabb
+				{
+					min
+					{
+						x "-3.000"
+						y "-3.000"
+						z "-3.000"
+					}
+					max
+					{
+						x "3.000"
+						y "3.000"
+						z "3.000"
+					}
+				}
+			}
+			TransformComponent
+			{
+				orientation
+				{
+					w "1"
+					y "0"
+				}
+				position
+				{
+					x "0"
+					z "0"
+				}
+				scale
+				{
+					x "1"
+					y "1.00"
+					z "1"
+				}
+			}
+		}
+		EntityBlueprint
+		{
+			base_blueprint "resources/volume_random_resources"
+			LocalAabbDesc
+			{
+				local_aabb
+				{
+					min
+					{
+						x "-3.000"
+						y "-3.000"
+						z "-3.000"
+					}
+					max
+					{
+						x "3.000"
+						y "3.000"
+						z "3.000"
+					}
+				}
+			}
+			TransformComponent
+			{
+				orientation
+				{
+					w "1"
+					y "0"
+				}
+				position
+				{
+					x "0"
+					z "0"
+				}
+				scale
+				{
+					x "6"
+					y "1.00"
+					z "6"
+				}
+			}
+		}
+
+
+
+	}
+}
+

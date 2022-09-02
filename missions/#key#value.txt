@@ -1,0 +1,2 @@
+//#cryo_plants	loot_containers	30.0
+//#magnetic_rocks	loot_containers	30.0

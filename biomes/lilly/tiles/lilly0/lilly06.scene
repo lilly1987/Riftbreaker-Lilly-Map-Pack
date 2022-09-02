@@ -16,16 +16,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -34,23 +34,15 @@ EntityTemplate
 
 		TransformComponent
 		{
-			orientation
-			{
-				w "1"
-				y "0"
-			}
-			
 			position
 			{
-				x "48"
-				z "0"
+				x "48.000"
 			}
 
 			scale
 			{
-				x "28.00"
-				y "1.00"
-				z "4.00"
+				x "28.000"
+				z "4.000"
 			}
 
 		}
@@ -58,6 +50,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(2)"
 EntityTemplate
 {
@@ -75,16 +68,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -95,21 +88,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9659258"
-				y "0.258819"
+				w "0.966"
+				y "0.259"
 			}
-			
+
 			position
 			{
-				x "41.5692193816531"
-				z "24"
+				x "41.569"
+				z "24.000"
 			}
 
 			scale
 			{
-				x "28.00"
-				y "1.00"
-				z "4.00"
+				x "28.000"
+				z "4.000"
 			}
 
 		}
@@ -117,6 +109,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(3)"
 EntityTemplate
 {
@@ -134,16 +127,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -154,21 +147,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.8660254"
-				y "0.5"
+				w "0.866"
+				y "0.500"
 			}
-			
+
 			position
 			{
-				x "24"
-				z "41.5692193816531"
+				x "24.000"
+				z "41.569"
 			}
 
 			scale
 			{
-				x "28.00"
-				y "1.00"
-				z "4.00"
+				x "28.000"
+				z "4.000"
 			}
 
 		}
@@ -176,6 +168,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(4)"
 EntityTemplate
 {
@@ -193,16 +186,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -213,21 +206,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.7071068"
-				y "0.7071068"
+				w "0.707"
+				y "0.707"
 			}
-			
+
 			position
 			{
-				x "2.94035629178069E-15"
-				z "48"
+				x "0.000"
+				z "48.000"
 			}
 
 			scale
 			{
-				x "28.00"
-				y "1.00"
-				z "4.00"
+				x "28.000"
+				z "4.000"
 			}
 
 		}
@@ -235,6 +227,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(5)"
 EntityTemplate
 {
@@ -252,16 +245,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -272,21 +265,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.5"
-				y "0.8660254"
+				w "0.500"
+				y "0.866"
 			}
-			
+
 			position
 			{
-				x "-24"
-				z "41.5692193816531"
+				x "-24.000"
+				z "41.569"
 			}
 
 			scale
 			{
-				x "28.00"
-				y "1.00"
-				z "4.00"
+				x "28.000"
+				z "4.000"
 			}
 
 		}
@@ -294,6 +286,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(6)"
 EntityTemplate
 {
@@ -311,16 +304,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -331,21 +324,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.258819"
-				y "0.9659258"
+				w "0.259"
+				y "0.966"
 			}
-			
+
 			position
 			{
-				x "-41.5692193816531"
-				z "24"
+				x "-41.569"
+				z "24.000"
 			}
 
 			scale
 			{
-				x "28.00"
-				y "1.00"
-				z "4.00"
+				x "28.000"
+				z "4.000"
 			}
 
 		}
@@ -353,6 +345,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(7)"
 EntityTemplate
 {
@@ -370,16 +363,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -390,21 +383,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0"
-				y "1"
+				w "0.000"
+				y "1.000"
 			}
-			
+
 			position
 			{
-				x "-48"
-				z "5.88071258356138E-15"
+				x "-48.000"
+				z "0.000"
 			}
 
 			scale
 			{
-				x "28.00"
-				y "1.00"
-				z "4.00"
+				x "28.000"
+				z "4.000"
 			}
 
 		}
@@ -412,6 +404,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(8)"
 EntityTemplate
 {
@@ -429,16 +422,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -449,21 +442,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.258819"
-				y "0.9659258"
+				w "-0.259"
+				y "0.966"
 			}
-			
+
 			position
 			{
-				x "-41.5692193816531"
-				z "-24"
+				x "-41.569"
+				z "-24.000"
 			}
 
 			scale
 			{
-				x "28.00"
-				y "1.00"
-				z "4.00"
+				x "28.000"
+				z "4.000"
 			}
 
 		}
@@ -471,6 +463,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(9)"
 EntityTemplate
 {
@@ -488,16 +481,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -508,21 +501,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.5"
-				y "0.8660254"
+				w "-0.500"
+				y "0.866"
 			}
-			
+
 			position
 			{
-				x "-24"
-				z "-41.569219381653"
+				x "-24.000"
+				z "-41.569"
 			}
 
 			scale
 			{
-				x "28.00"
-				y "1.00"
-				z "4.00"
+				x "28.000"
+				z "4.000"
 			}
 
 		}
@@ -530,6 +522,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(10)"
 EntityTemplate
 {
@@ -547,16 +540,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -567,21 +560,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.7071068"
-				y "0.7071068"
+				w "-0.707"
+				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-8.82106887534206E-15"
-				z "-48"
+				x "-0.000"
+				z "-48.000"
 			}
 
 			scale
 			{
-				x "28.00"
-				y "1.00"
-				z "4.00"
+				x "28.000"
+				z "4.000"
 			}
 
 		}
@@ -589,6 +581,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(11)"
 EntityTemplate
 {
@@ -606,16 +599,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -626,21 +619,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.8660254"
-				y "0.5"
+				w "-0.866"
+				y "0.500"
 			}
-			
+
 			position
 			{
-				x "24"
-				z "-41.5692193816531"
+				x "24.000"
+				z "-41.569"
 			}
 
 			scale
 			{
-				x "28.00"
-				y "1.00"
-				z "4.00"
+				x "28.000"
+				z "4.000"
 			}
 
 		}
@@ -648,6 +640,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(12)"
 EntityTemplate
 {
@@ -665,16 +658,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -685,21 +678,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "-0.9659258"
-				y "0.258819"
+				w "-0.966"
+				y "0.259"
 			}
-			
+
 			position
 			{
-				x "41.569219381653"
-				z "-24"
+				x "41.569"
+				z "-24.000"
 			}
 
 			scale
 			{
-				x "28.00"
-				y "1.00"
-				z "4.00"
+				x "28.000"
+				z "4.000"
 			}
 
 		}
@@ -707,6 +699,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(13)"
 EntityTemplate
 {
@@ -724,16 +717,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.472"
+					y "-0.000"
+					z "-1.639"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "1.579"
+					y "4.082"
+					z "1.639"
 				}
 
 			}
@@ -744,21 +737,8 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.5"
-				y "0.8660254"
-			}
-			
-			position
-			{
-				x "0"
-				z "0"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				w "0.500"
+				y "0.866"
 			}
 
 		}
@@ -766,15 +746,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(14)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_resources_lilly"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_resources_lilly"
 		}
 
 		LocalAabbDesc
@@ -783,16 +764,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -803,21 +784,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.258819"
-				y "0.9659258"
+				w "0.259"
+				y "0.966"
 			}
-			
+
 			position
 			{
-				x "49.3659774915825"
-				z "-22.4227449815003"
+				x "49.366"
+				z "-22.423"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -825,15 +805,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(15)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_resources_lilly"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_resources_lilly"
 		}
 
 		LocalAabbDesc
@@ -842,16 +823,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -862,21 +843,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.8660254"
-				y "0.5"
+				w "0.866"
+				y "0.500"
 			}
-			
+
 			position
 			{
-				x "-48.0431163031246"
-				z "28.6099304177586"
+				x "-48.043"
+				z "28.610"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -884,15 +864,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(16)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_resources_lilly"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_resources_lilly"
 		}
 
 		LocalAabbDesc
@@ -901,16 +882,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -919,23 +900,16 @@ EntityTemplate
 
 		TransformComponent
 		{
-			orientation
-			{
-				w "1"
-				y "0"
-			}
-			
 			position
 			{
-				x "-21.5787717043186"
-				z "13.5614399473047"
+				x "-21.579"
+				z "13.561"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -943,15 +917,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(17)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_resources_lilly"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_resources_lilly"
 		}
 
 		LocalAabbDesc
@@ -960,16 +935,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -980,21 +955,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9238795"
-				y "0.3826834"
+				w "0.924"
+				y "0.383"
 			}
-			
+
 			position
 			{
-				x "34.0905769507272"
-				z "-55.678758250031"
+				x "34.091"
+				z "-55.679"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -1002,15 +976,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(18)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_resources_lilly"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_resources_lilly"
 		}
 
 		LocalAabbDesc
@@ -1019,16 +994,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -1039,21 +1014,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.3826834"
-				y "0.9238795"
+				w "0.383"
+				y "0.924"
 			}
-			
+
 			position
 			{
-				x "59.0612895672469"
-				z "0.934321369986534"
+				x "40.496"
+				z "13.646"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -1061,15 +1035,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(19)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_resources_lilly"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_resources_lilly"
 		}
 
 		LocalAabbDesc
@@ -1078,16 +1053,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -1098,21 +1073,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9914449"
-				y "0.1305262"
+				w "0.991"
+				y "0.131"
 			}
-			
+
 			position
 			{
-				x "44.9379321620365"
-				z "63.3210375864099"
+				x "44.938"
+				z "63.321"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -1120,15 +1094,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(20)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_resources_lilly"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_resources_lilly"
 		}
 
 		LocalAabbDesc
@@ -1137,16 +1112,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -1157,21 +1132,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.7933533"
-				y "0.6087614"
+				w "0.793"
+				y "0.609"
 			}
-			
+
 			position
 			{
-				x "31.3603581854156"
-				z "27.3515294703705"
+				x "41.922"
+				z "36.578"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -1179,15 +1153,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(21)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_resources_lilly"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_resources_lilly"
 		}
 
 		LocalAabbDesc
@@ -1196,16 +1171,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -1214,23 +1189,16 @@ EntityTemplate
 
 		TransformComponent
 		{
-			orientation
-			{
-				w "1"
-				y "0"
-			}
-			
 			position
 			{
-				x "34.9235572849494"
-				z "-35.5794707566015"
+				x "34.924"
+				z "-35.579"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -1238,15 +1206,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(22)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_resources_lilly"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_resources_lilly"
 		}
 
 		LocalAabbDesc
@@ -1255,16 +1224,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -1275,21 +1244,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.5"
-				y "0.8660254"
+				w "0.500"
+				y "0.866"
 			}
-			
+
 			position
 			{
-				x "-27.3130948279287"
-				z "24.8158941596967"
+				x "-27.313"
+				z "24.816"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -1297,15 +1265,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(23)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources"
+	base_blueprint "resources/volume_random_resources_lilly"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources"
+			blueprint "resources/volume_random_resources_lilly"
 		}
 
 		LocalAabbDesc
@@ -1314,16 +1283,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -1334,21 +1303,21 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9659258"
-				y "0.258819"
+				w "0.966"
+				y "0.259"
 			}
-			
+
 			position
 			{
-				x "54.8192009916793"
-				z "-5.22842794893808"
+				x "42.245"
+				y "0.000"
+				z "-8.954"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -1356,6 +1325,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(24)"
 EntityTemplate
 {
@@ -1373,16 +1343,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-5.937"
+					y "-0.141"
+					z "-6.620"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "6.075"
+					y "10.933"
+					z "4.913"
 				}
 
 			}
@@ -1393,21 +1363,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9238795"
-				y "0.3826834"
-			}
-			
-			position
-			{
-				x "4.73997979845042"
-				z "1.5442121434605"
+				w "0.924"
+				y "0.383"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "4.740"
+				z "1.544"
 			}
 
 		}
@@ -1415,6 +1378,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(25)"
 EntityTemplate
 {
@@ -1432,16 +1396,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-5.937"
+					y "-0.141"
+					z "-6.620"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "6.075"
+					y "10.933"
+					z "4.913"
 				}
 
 			}
@@ -1452,21 +1416,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9238795"
-				y "0.3826834"
-			}
-			
-			position
-			{
-				x "-18.7511518733212"
-				z "-59.4108546653195"
+				w "0.924"
+				y "0.383"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-18.751"
+				z "-59.411"
 			}
 
 		}
@@ -1474,6 +1431,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(26)"
 EntityTemplate
 {
@@ -1491,16 +1449,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-5.937"
+					y "-0.141"
+					z "-6.620"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "6.075"
+					y "10.933"
+					z "4.913"
 				}
 
 			}
@@ -1511,21 +1469,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.258819"
-				y "0.9659258"
-			}
-			
-			position
-			{
-				x "18.8046631721029"
-				z "16.7732687286969"
+				w "0.259"
+				y "0.966"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "18.805"
+				z "16.773"
 			}
 
 		}
@@ -1533,6 +1484,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(27)"
 EntityTemplate
 {
@@ -1550,16 +1502,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-5.937"
+					y "-0.141"
+					z "-6.620"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "6.075"
+					y "10.933"
+					z "4.913"
 				}
 
 			}
@@ -1570,21 +1522,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.258819"
-				y "0.9659258"
-			}
-			
-			position
-			{
-				x "43.3012097389897"
-				z "52.2401676846752"
+				w "0.259"
+				y "0.966"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "43.301"
+				z "52.240"
 			}
 
 		}
@@ -1592,6 +1537,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(28)"
 EntityTemplate
 {
@@ -1609,16 +1555,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-5.937"
+					y "-0.141"
+					z "-6.620"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "6.075"
+					y "10.933"
+					z "4.913"
 				}
 
 			}
@@ -1627,23 +1573,10 @@ EntityTemplate
 
 		TransformComponent
 		{
-			orientation
-			{
-				w "1"
-				y "0"
-			}
-			
 			position
 			{
-				x "-15.9657187954765"
-				z "-45.4921566303979"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-15.529"
+				z "39.121"
 			}
 
 		}
@@ -1651,6 +1584,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(29)"
 EntityTemplate
 {
@@ -1668,16 +1602,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-5.937"
+					y "-0.141"
+					z "-6.620"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "6.075"
+					y "10.933"
+					z "4.913"
 				}
 
 			}
@@ -1688,21 +1622,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.7071068"
-				y "0.7071068"
-			}
-			
-			position
-			{
-				x "39.1414936021478"
-				z "-56.3180634845962"
+				w "0.707"
+				y "0.707"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "39.141"
+				z "-56.318"
 			}
 
 		}
@@ -1710,6 +1637,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(30)"
 EntityTemplate
 {
@@ -1727,16 +1655,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-5.937"
+					y "-0.141"
+					z "-6.620"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "6.075"
+					y "10.933"
+					z "4.913"
 				}
 
 			}
@@ -1747,21 +1675,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9914449"
-				y "0.1305262"
-			}
-			
-			position
-			{
-				x "6.30309123971654"
-				z "-34.852672691985"
+				w "0.991"
+				y "0.131"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "6.303"
+				z "-34.853"
 			}
 
 		}
@@ -1769,6 +1690,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(31)"
 EntityTemplate
 {
@@ -1786,16 +1708,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-5.937"
+					y "-0.141"
+					z "-6.620"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "6.075"
+					y "10.933"
+					z "4.913"
 				}
 
 			}
@@ -1806,21 +1728,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.7071068"
-				y "0.7071068"
-			}
-			
-			position
-			{
-				x "39.0540776219425"
-				z "-45.714348846306"
+				w "0.707"
+				y "0.707"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-42.426"
+				z "10.791"
 			}
 
 		}
@@ -1828,15 +1743,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(32)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "logic/spawn_special_object"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "logic/spawn_special_object"
 		}
 
 		LocalAabbDesc
@@ -1845,16 +1761,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -1865,21 +1781,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9238795"
-				y "0.3826834"
+				w "0.924"
+				y "0.383"
 			}
-			
+
 			position
 			{
-				x "-58.8491854617086"
-				z "-33.6846515620017"
+				x "-58.849"
+				z "-33.685"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -1887,15 +1802,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(33)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "logic/spawn_special_object"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "logic/spawn_special_object"
 		}
 
 		LocalAabbDesc
@@ -1904,16 +1820,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -1924,21 +1840,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9238795"
-				y "0.3826834"
+				w "0.924"
+				y "0.383"
 			}
-			
+
 			position
 			{
-				x "16.8731345915328"
-				z "38.679485274575"
+				x "16.873"
+				z "38.679"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -1946,15 +1861,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(34)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "logic/spawn_special_object"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "logic/spawn_special_object"
 		}
 
 		LocalAabbDesc
@@ -1963,16 +1879,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -1983,21 +1899,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.7933533"
-				y "0.6087614"
+				w "0.793"
+				y "0.609"
 			}
-			
+
 			position
 			{
-				x "-58.3964006811224"
-				z "53.0160921032029"
+				x "-58.396"
+				z "53.016"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -2005,15 +1920,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(35)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "logic/spawn_special_object"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "logic/spawn_special_object"
 		}
 
 		LocalAabbDesc
@@ -2022,16 +1938,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -2042,21 +1958,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.7933533"
-				y "0.6087614"
+				w "0.793"
+				y "0.609"
 			}
-			
+
 			position
 			{
-				x "-31.7820426085389"
-				z "57.2286701840138"
+				x "-31.782"
+				z "57.229"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -2064,15 +1979,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(36)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "logic/spawn_special_object"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "logic/spawn_special_object"
 		}
 
 		LocalAabbDesc
@@ -2081,16 +1997,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -2101,21 +2017,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.258819"
-				y "0.9659258"
+				w "0.259"
+				y "0.966"
 			}
-			
+
 			position
 			{
-				x "-39.9182243547366"
-				z "22.8832929110173"
+				x "-39.918"
+				z "22.883"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -2123,15 +2038,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(37)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "logic/spawn_special_object"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "logic/spawn_special_object"
 		}
 
 		LocalAabbDesc
@@ -2140,16 +2056,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -2160,21 +2076,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.6087614"
-				y "0.7933533"
+				w "0.609"
+				y "0.793"
 			}
-			
+
 			position
 			{
-				x "21.6303210894591"
-				z "-15.0724729436783"
+				x "21.630"
+				z "-15.072"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -2182,15 +2097,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(38)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "logic/spawn_special_object"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "logic/spawn_special_object"
 		}
 
 		LocalAabbDesc
@@ -2199,16 +2115,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -2219,21 +2135,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.3826834"
-				y "0.9238795"
+				w "0.383"
+				y "0.924"
 			}
-			
+
 			position
 			{
-				x "-51.4961753549218"
-				z "-51.6839871104827"
+				x "-51.496"
+				z "-51.684"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -2241,15 +2156,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(39)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "logic/spawn_special_object"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "logic/spawn_special_object"
 		}
 
 		LocalAabbDesc
@@ -2258,16 +2174,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -2278,21 +2194,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.8660254"
-				y "0.5"
+				w "0.866"
+				y "0.500"
 			}
-			
+
 			position
 			{
-				x "-44.0061135416175"
-				z "-13.5568792693237"
+				x "-44.006"
+				z "-13.557"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -2300,15 +2215,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(40)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "logic/spawn_special_object"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "logic/spawn_special_object"
 		}
 
 		LocalAabbDesc
@@ -2317,16 +2233,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -2337,21 +2253,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.8660254"
-				y "0.5"
+				w "0.866"
+				y "0.500"
 			}
-			
+
 			position
 			{
-				x "-5.56421011922194"
-				z "-21.5034624239554"
+				x "-5.564"
+				z "-21.503"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -2359,15 +2274,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(41)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "logic/spawn_special_object"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "logic/spawn_special_object"
 		}
 
 		LocalAabbDesc
@@ -2376,16 +2292,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -2396,21 +2312,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.8660254"
-				y "0.5"
+				w "0.866"
+				y "0.500"
 			}
-			
+
 			position
 			{
-				x "22.3588857350668"
-				z "-49.3982009490298"
+				x "22.359"
+				z "-49.398"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -2418,15 +2333,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(42)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "logic/spawn_special_object"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "logic/spawn_special_object"
 		}
 
 		LocalAabbDesc
@@ -2435,16 +2351,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -2453,23 +2369,17 @@ EntityTemplate
 
 		TransformComponent
 		{
-			orientation
-			{
-				w "1"
-				y "0"
-			}
-			
 			position
 			{
-				x "-35.7086964356375"
-				z "-37.4381078946787"
+				x "51.370"
+				y "-0.000"
+				z "-34.566"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -2477,15 +2387,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(43)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "logic/spawn_special_object"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "logic/spawn_special_object"
 		}
 
 		LocalAabbDesc
@@ -2494,16 +2405,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -2514,21 +2425,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9238795"
-				y "0.3826834"
+				w "0.924"
+				y "0.383"
 			}
-			
+
 			position
 			{
-				x "24.7247636591053"
-				z "51.3527694380274"
+				x "24.725"
+				z "51.353"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -2536,15 +2446,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(44)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "logic/spawn_special_object"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "logic/spawn_special_object"
 		}
 
 		LocalAabbDesc
@@ -2553,16 +2464,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -2573,21 +2484,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.8660254"
-				y "0.5"
+				w "0.866"
+				y "0.500"
 			}
-			
+
 			position
 			{
-				x "-35.4937522964437"
-				z "-38.9510132688795"
+				x "-35.494"
+				z "-38.951"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -2595,15 +2505,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(45)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "logic/spawn_special_object"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "logic/spawn_special_object"
 		}
 
 		LocalAabbDesc
@@ -2612,16 +2523,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -2630,23 +2541,16 @@ EntityTemplate
 
 		TransformComponent
 		{
-			orientation
-			{
-				w "1"
-				y "0"
-			}
-			
 			position
 			{
-				x "20.458038310043"
-				z "10.0885088476159"
+				x "20.458"
+				z "10.089"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -2654,15 +2558,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(46)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "logic/spawn_special_object"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "logic/spawn_special_object"
 		}
 
 		LocalAabbDesc
@@ -2671,16 +2576,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -2691,21 +2596,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.6087614"
-				y "0.7933533"
+				w "0.609"
+				y "0.793"
 			}
-			
+
 			position
 			{
-				x "34.3659708031707"
-				z "-55.4448175747652"
+				x "34.366"
+				z "-55.445"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -2713,15 +2617,16 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(47)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_placement"
+	base_blueprint "logic/spawn_special_object"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_placement"
+			blueprint "logic/spawn_special_object"
 		}
 
 		LocalAabbDesc
@@ -2730,16 +2635,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -2750,21 +2655,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9238795"
-				y "0.3826834"
+				w "0.924"
+				y "0.383"
 			}
-			
+
 			position
 			{
-				x "62.7238661070631"
-				z "48.5086207117725"
+				x "62.724"
+				z "48.509"
 			}
 
 			scale
 			{
-				x "8.00"
-				y "1.00"
-				z "8.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -2772,6 +2676,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(48)"
 EntityTemplate
 {
@@ -2789,16 +2694,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.223"
+					y "-0.000"
+					z "-0.440"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "2.042"
+					y "2.994"
+					z "0.440"
 				}
 
 			}
@@ -2809,21 +2714,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.8660254"
-				y "0.5"
-			}
-			
-			position
-			{
-				x "-15.1231236938321"
-				z "-44.3691263297134"
+				w "0.866"
+				y "0.500"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-15.123"
+				z "-44.369"
 			}
 
 		}
@@ -2831,6 +2729,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(49)"
 EntityTemplate
 {
@@ -2848,16 +2747,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.223"
+					y "-0.000"
+					z "-0.440"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "2.042"
+					y "2.994"
+					z "0.440"
 				}
 
 			}
@@ -2868,21 +2767,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.258819"
-				y "0.9659258"
-			}
-			
-			position
-			{
-				x "-29.3749084343442"
-				z "-43.2817288610038"
+				w "0.259"
+				y "0.966"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-29.375"
+				z "-43.282"
 			}
 
 		}
@@ -2890,6 +2782,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(50)"
 EntityTemplate
 {
@@ -2907,16 +2800,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.223"
+					y "-0.000"
+					z "-0.440"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "2.042"
+					y "2.994"
+					z "0.440"
 				}
 
 			}
@@ -2927,21 +2820,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.8660254"
-				y "0.5"
-			}
-			
-			position
-			{
-				x "-40.4453624344582"
-				z "-26.7736097753144"
+				w "0.866"
+				y "0.500"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-40.445"
+				z "-26.774"
 			}
 
 		}
@@ -2949,6 +2835,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(51)"
 EntityTemplate
 {
@@ -2966,16 +2853,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-1.223"
+					y "-0.000"
+					z "-0.440"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "2.042"
+					y "2.994"
+					z "0.440"
 				}
 
 			}
@@ -2986,21 +2873,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.8660254"
-				y "0.5"
-			}
-			
-			position
-			{
-				x "-48.3183990291246"
-				z "-2.94359625553412"
+				w "0.866"
+				y "0.500"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-48.318"
+				z "-2.944"
 			}
 
 		}
@@ -3008,6 +2888,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(52)"
 EntityTemplate
 {
@@ -3025,16 +2906,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3043,23 +2924,16 @@ EntityTemplate
 
 		TransformComponent
 		{
-			orientation
-			{
-				w "1"
-				y "0"
-			}
-			
 			position
 			{
-				x "24.7683064286004"
-				z "-41.1004252659331"
+				x "24.768"
+				z "-41.100"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.00"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3067,6 +2941,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(53)"
 EntityTemplate
 {
@@ -3084,16 +2959,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3104,21 +2979,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9914449"
-				y "0.1305262"
+				w "0.991"
+				y "0.131"
 			}
-			
+
 			position
 			{
-				x "-61.2971689393607"
-				z "-6.65074655660223"
+				x "-61.297"
+				z "-6.651"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.00"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3126,6 +3000,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(54)"
 EntityTemplate
 {
@@ -3143,16 +3018,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3163,21 +3038,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.5"
-				y "0.8660254"
+				w "0.500"
+				y "0.866"
 			}
-			
+
 			position
 			{
-				x "-57.1340218016218"
-				z "-20.3135852621773"
+				x "-57.134"
+				z "-20.314"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.00"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3185,6 +3059,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(55)"
 EntityTemplate
 {
@@ -3202,16 +3077,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3222,21 +3097,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9659258"
-				y "0.258819"
+				w "0.966"
+				y "0.259"
 			}
-			
+
 			position
 			{
-				x "-53.5539603785396"
-				z "40.2500820968706"
+				x "-53.554"
+				z "40.250"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.00"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3244,6 +3118,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(56)"
 EntityTemplate
 {
@@ -3261,16 +3136,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3281,21 +3156,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.7933533"
-				y "0.6087614"
-			}
-			
-			position
-			{
-				x "-42.2746090491706"
-				z "-22.4115074439201"
+				w "0.793"
+				y "0.609"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-42.275"
+				z "-22.412"
 			}
 
 		}
@@ -3303,6 +3171,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(57)"
 EntityTemplate
 {
@@ -3320,16 +3189,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3340,21 +3209,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.3826834"
-				y "0.9238795"
-			}
-			
-			position
-			{
-				x "1.50741761783101"
-				z "46.7217199870595"
+				w "0.383"
+				y "0.924"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "1.507"
+				z "46.722"
 			}
 
 		}
@@ -3362,6 +3224,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(58)"
 EntityTemplate
 {
@@ -3379,16 +3242,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3399,21 +3262,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.3826834"
-				y "0.9238795"
-			}
-			
-			position
-			{
-				x "-43.8397667980349"
-				z "-54.3202962938206"
+				w "0.383"
+				y "0.924"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-43.840"
+				z "-54.320"
 			}
 
 		}
@@ -3421,6 +3277,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(59)"
 EntityTemplate
 {
@@ -3438,16 +3295,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3458,21 +3315,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.7071068"
-				y "0.7071068"
-			}
-			
-			position
-			{
-				x "8.2364482738196"
-				z "26.7608716827054"
+				w "0.707"
+				y "0.707"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "8.236"
+				z "26.761"
 			}
 
 		}
@@ -3480,6 +3330,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(60)"
 EntityTemplate
 {
@@ -3497,16 +3348,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3517,21 +3368,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.3826834"
-				y "0.9238795"
-			}
-			
-			position
-			{
-				x "-58.5922446073351"
-				z "30.1162458394546"
+				w "0.383"
+				y "0.924"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-58.592"
+				z "30.116"
 			}
 
 		}
@@ -3539,6 +3383,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(61)"
 EntityTemplate
 {
@@ -3556,16 +3401,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3576,21 +3421,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.3826834"
-				y "0.9238795"
-			}
-			
-			position
-			{
-				x "-11.1767197808997"
-				z "-14.9744964527021"
+				w "0.383"
+				y "0.924"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-11.177"
+				z "-14.974"
 			}
 
 		}
@@ -3598,6 +3436,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(62)"
 EntityTemplate
 {
@@ -3615,16 +3454,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3635,21 +3474,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.258819"
-				y "0.9659258"
-			}
-			
-			position
-			{
-				x "-25.1684430093226"
-				z "50.3139353937913"
+				w "0.259"
+				y "0.966"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-25.168"
+				z "50.314"
 			}
 
 		}
@@ -3657,6 +3489,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(63)"
 EntityTemplate
 {
@@ -3674,16 +3507,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3694,21 +3527,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.3826834"
-				y "0.9238795"
-			}
-			
-			position
-			{
-				x "42.2280559236484"
-				z "-1.43278640243109"
+				w "0.383"
+				y "0.924"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "42.228"
+				z "-1.433"
 			}
 
 		}
@@ -3716,6 +3542,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(64)"
 EntityTemplate
 {
@@ -3733,16 +3560,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3753,21 +3580,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.6087614"
-				y "0.7933533"
-			}
-			
-			position
-			{
-				x "27.6509072765841"
-				z "15.8558997992172"
+				w "0.609"
+				y "0.793"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "27.651"
+				z "15.856"
 			}
 
 		}
@@ -3775,6 +3595,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(65)"
 EntityTemplate
 {
@@ -3792,16 +3613,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3812,21 +3633,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9659258"
-				y "0.258819"
-			}
-			
-			position
-			{
-				x "-61.5386959563357"
-				z "-52.9821156563116"
+				w "0.966"
+				y "0.259"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-61.539"
+				z "-52.982"
 			}
 
 		}
@@ -3834,6 +3648,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(66)"
 EntityTemplate
 {
@@ -3851,16 +3666,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3871,21 +3686,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.8660254"
-				y "0.5"
-			}
-			
-			position
-			{
-				x "46.5832655114536"
-				z "-40.9104451422159"
+				w "0.866"
+				y "0.500"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "46.583"
+				z "-40.910"
 			}
 
 		}
@@ -3893,6 +3701,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(67)"
 EntityTemplate
 {
@@ -3910,16 +3719,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3930,21 +3739,14 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.3826834"
-				y "0.9238795"
-			}
-			
-			position
-			{
-				x "-51.4669718404924"
-				z "-25.2832631645899"
+				w "0.383"
+				y "0.924"
 			}
 
-			scale
+			position
 			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-51.467"
+				z "-25.283"
 			}
 
 		}
@@ -3952,6 +3754,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(68)"
 EntityTemplate
 {
@@ -3969,16 +3772,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3989,21 +3792,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9238795"
-				y "0.3826834"
+				w "0.924"
+				y "0.383"
 			}
-			
+
 			position
 			{
-				x "6.78680023796228"
-				z "21.1520845726324"
+				x "6.787"
+				z "21.152"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.00"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -4011,6 +3813,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(69)"
 EntityTemplate
 {
@@ -4028,16 +3831,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -4048,21 +3851,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9914449"
-				y "0.1305262"
+				w "0.991"
+				y "0.131"
 			}
-			
+
 			position
 			{
-				x "-34.6781085017237"
-				z "-32.3957561773925"
+				x "-34.678"
+				z "-32.396"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.00"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -4070,6 +3872,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(70)"
 EntityTemplate
 {
@@ -4087,16 +3890,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -4107,21 +3910,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.8660254"
-				y "0.5"
+				w "0.866"
+				y "0.500"
 			}
-			
+
 			position
 			{
-				x "8.47914314044661"
-				z "-38.8062788702256"
+				x "8.479"
+				z "-38.806"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.00"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -4129,6 +3931,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(71)"
 EntityTemplate
 {
@@ -4146,16 +3949,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -4166,21 +3969,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9914449"
-				y "0.1305262"
+				w "0.991"
+				y "0.131"
 			}
-			
+
 			position
 			{
-				x "-13.6774893649793"
-				z "-42.2857432214923"
+				x "-13.677"
+				z "-42.286"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.00"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -4188,6 +3990,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(72)"
 EntityTemplate
 {
@@ -4205,16 +4008,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -4225,21 +4028,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.5"
-				y "0.8660254"
+				w "0.500"
+				y "0.866"
 			}
-			
+
 			position
 			{
-				x "55.1269226561775"
-				z "3.62541627605036"
+				x "51.642"
+				z "5.711"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.00"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -4247,6 +4049,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(73)"
 EntityTemplate
 {
@@ -4264,16 +4067,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -4284,21 +4087,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.5"
-				y "0.8660254"
+				w "0.500"
+				y "0.866"
 			}
-			
+
 			position
 			{
-				x "-34.0506125226725"
-				z "-18.011395941405"
+				x "-34.051"
+				z "-18.011"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.00"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -4306,6 +4108,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(74)"
 EntityTemplate
 {
@@ -4323,16 +4126,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -4343,21 +4146,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9238795"
-				y "0.3826834"
+				w "0.924"
+				y "0.383"
 			}
-			
+
 			position
 			{
-				x "8.88727293709"
-				z "-15.8291101512752"
+				x "8.887"
+				z "-15.829"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.00"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -4365,6 +4167,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(75)"
 EntityTemplate
 {
@@ -4382,16 +4185,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -4402,21 +4205,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.3826834"
-				y "0.9238795"
+				w "0.383"
+				y "0.924"
 			}
-			
+
 			position
 			{
-				x "-14.7557318679752"
-				z "-27.2276099425856"
+				x "-14.756"
+				z "-27.228"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.00"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -4424,6 +4226,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(76)"
 EntityTemplate
 {
@@ -4441,16 +4244,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -4461,21 +4264,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.3826834"
-				y "0.9238795"
+				w "0.383"
+				y "0.924"
 			}
-			
+
 			position
 			{
-				x "1.34465447245582"
-				z "-2.99090572374001"
+				x "1.345"
+				z "-2.991"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.00"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -4483,6 +4285,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(77)"
 EntityTemplate
 {
@@ -4500,16 +4303,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -4520,21 +4323,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9238795"
-				y "0.3826834"
+				w "0.924"
+				y "0.383"
 			}
-			
+
 			position
 			{
-				x "49.0751881572243"
-				z "18.1439221894251"
+				x "49.075"
+				z "18.144"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.00"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -4542,6 +4344,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(78)"
 EntityTemplate
 {
@@ -4559,16 +4362,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -4579,21 +4382,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.9914449"
-				y "0.1305262"
+				w "0.991"
+				y "0.131"
 			}
-			
+
 			position
 			{
-				x "-40.4840542353588"
-				z "-26.1204271827474"
+				x "-40.484"
+				z "-26.120"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.00"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -4601,6 +4403,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(79)"
 EntityTemplate
 {
@@ -4618,16 +4421,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-1.0"
-					y "-1.0"
-					z "-1.0"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "1.0"
-					y "1.0"
-					z "1.0"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -4638,21 +4441,20 @@ EntityTemplate
 		{
 			orientation
 			{
-				w "0.7933533"
-				y "0.6087614"
+				w "0.793"
+				y "0.609"
 			}
-			
+
 			position
 			{
-				x "-46.4176512967446"
-				z "-62.6257111032707"
+				x "-46.418"
+				z "-62.626"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.00"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -4660,3 +4462,4 @@ EntityTemplate
 	}
 
 }
+

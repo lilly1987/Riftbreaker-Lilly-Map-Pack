@@ -179,12 +179,6 @@ biomes/lilly/tiles/lilly3/lilly3.tile
 biomes/lilly/tiles/lilly3/lilly31.tile
 biomes/lilly/tiles/lilly4/lilly4.tile
 biomes/lilly/tiles/lilly4/lilly41.tile
-biomes/lilly/tiles/lilly4/liquid_cross.tile
-biomes/lilly/tiles/lilly4/liquid_cross2.tile
-biomes/lilly/tiles/lilly4/liquid_cross4.tile
-biomes/lilly/tiles/lilly4/liquid_cross4_2.tile
-biomes/lilly/tiles/lilly4/liquid_cross4_3.tile
-biomes/lilly/tiles/lilly4/liquid_cross4_4.tile
 biomes/lilly/tiles/lilly5/lilly5.tile
 biomes/lilly/tiles/lilly5/lilly50.tile
 biomes/lilly/tiles/lilly6/lilly6.tile
@@ -219,6 +213,13 @@ biomes/lilly/tiles/lillyu/lillyu.tile
 biomes/lilly/tiles/lillyv/lillyv.tile
 biomes/lilly/tiles/lillyx/lillyx.tile
 biomes/lilly/tiles/lillyx/lillyx1.tile
+biomes/lilly/tiles/lillyz/lillyz.tile
+biomes/lilly/tiles/liquid/liquid_cross.tile
+biomes/lilly/tiles/liquid/liquid_cross2.tile
+biomes/lilly/tiles/liquid/liquid_cross4.tile
+biomes/lilly/tiles/liquid/liquid_cross4_2.tile
+biomes/lilly/tiles/liquid/liquid_cross4_3.tile
+biomes/lilly/tiles/liquid/liquid_cross4_4.tile
 biomes/lilly/tiles/Square/Square.tile
 biomes/lilly/tiles/Square/Square0.tile
 biomes/lilly/tiles/Square/Square1.tile
@@ -1026,7 +1027,8 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 			spawn_min_distance_from_pools
 			{
 				player_spawn_point  20.0
-				loot_containers  	30.0
+				//loot_containers  	45.0
+				loot_containers	45.0
 				magnetic_rocks		10.0
 			}
 
@@ -1093,7 +1095,8 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 			spawn_min_distance_from_pools
 			{
 				player_spawn_point  100.0
-				loot_containers  	64.0
+				//loot_containers  	45.0
+				loot_containers	45.0
 				cryo_plants	 10.0
 			}
 
