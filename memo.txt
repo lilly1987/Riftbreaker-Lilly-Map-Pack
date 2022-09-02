@@ -13,6 +13,8 @@ cheat_debug_difficulty 0
 debug_show_gui_hitboxes 0
 
 
+remove override_terrain_type "magma_hot_ground"
+in biomes\lilly\lilly.biome
 
 Blueprint\s+\{\s+blueprint\s+"props/rocks/((?!debris).)*"\s+\}\s+
 Blueprint\s+\{\s+blueprint\s+"props/rocks/\S*(medium|big)\S*"\s+\}\s+

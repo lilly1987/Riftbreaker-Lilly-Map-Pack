@@ -33,6 +33,14 @@ EntityTemplate
 		}
 
 		TransformComponent
+		{
+			position
+			{
+				y "6.217"
+			}
+
+		}
+
 	}
 
 }
@@ -264,7 +272,6 @@ EntityTemplate
 			position
 			{
 				x "55.066"
-				y "0.000"
 				z "-26.697"
 			}
 
@@ -549,7 +556,6 @@ EntityTemplate
 			position
 			{
 				x "-19.176"
-				y "0.000"
 				z "-56.709"
 			}
 
@@ -1374,6 +1380,7 @@ EntityTemplate
 			position
 			{
 				x "-1.606"
+				y "6.217"
 				z "-1.651"
 			}
 
