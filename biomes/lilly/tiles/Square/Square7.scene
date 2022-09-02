@@ -887,12 +887,12 @@ EntityTemplate
 //editor "index(16)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -946,12 +946,12 @@ EntityTemplate
 //editor "index(17)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -1241,12 +1241,12 @@ EntityTemplate
 //editor "index(22)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -1418,12 +1418,12 @@ EntityTemplate
 //editor "index(25)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -1949,12 +1949,12 @@ EntityTemplate
 //editor "index(34)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -2126,12 +2126,12 @@ EntityTemplate
 //editor "index(37)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -2421,12 +2421,12 @@ EntityTemplate
 //editor "index(42)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -2480,12 +2480,12 @@ EntityTemplate
 //editor "index(43)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc

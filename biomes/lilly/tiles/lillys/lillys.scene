@@ -55,12 +55,12 @@ EntityTemplate
 //editor "index(2)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -69,16 +69,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -91,6 +91,13 @@ EntityTemplate
 			{
 				x "60.000"
 				z "4.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -349,12 +356,12 @@ EntityTemplate
 //editor "index(8)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -363,16 +370,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -385,6 +392,13 @@ EntityTemplate
 			{
 				x "56.000"
 				z "-44.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -637,12 +651,12 @@ EntityTemplate
 //editor "index(14)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -651,16 +665,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -673,6 +687,13 @@ EntityTemplate
 			{
 				x "52.000"
 				z "24.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -831,12 +852,12 @@ EntityTemplate
 //editor "index(18)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -845,16 +866,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -867,6 +888,13 @@ EntityTemplate
 			{
 				x "48.000"
 				z "-24.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -1266,12 +1294,12 @@ EntityTemplate
 //editor "index(27)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -1280,16 +1308,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -1302,6 +1330,13 @@ EntityTemplate
 			{
 				x "44.000"
 				z "44.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -1360,12 +1395,12 @@ EntityTemplate
 //editor "index(29)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -1374,16 +1409,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -1396,6 +1431,13 @@ EntityTemplate
 			{
 				x "40.000"
 				z "-4.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -1601,12 +1643,12 @@ EntityTemplate
 //editor "index(34)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -1615,16 +1657,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -1637,6 +1679,13 @@ EntityTemplate
 			{
 				x "36.000"
 				z "-52.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -1889,12 +1938,12 @@ EntityTemplate
 //editor "index(40)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -1903,16 +1952,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -1925,6 +1974,13 @@ EntityTemplate
 			{
 				x "32.000"
 				z "16.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -2130,12 +2186,12 @@ EntityTemplate
 //editor "index(45)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -2144,16 +2200,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -2166,6 +2222,13 @@ EntityTemplate
 			{
 				x "28.000"
 				z "-32.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -2518,12 +2581,12 @@ EntityTemplate
 //editor "index(53)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -2532,16 +2595,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -2554,6 +2617,13 @@ EntityTemplate
 			{
 				x "24.000"
 				z "36.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -2665,12 +2735,12 @@ EntityTemplate
 //editor "index(56)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -2679,16 +2749,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -2701,6 +2771,13 @@ EntityTemplate
 			{
 				x "20.000"
 				z "-12.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -2905,12 +2982,12 @@ EntityTemplate
 //editor "index(61)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -2919,16 +2996,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -2941,6 +3018,13 @@ EntityTemplate
 			{
 				x "16.000"
 				z "-60.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -3146,12 +3230,12 @@ EntityTemplate
 //editor "index(66)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -3160,16 +3244,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3184,6 +3268,13 @@ EntityTemplate
 				z "56.000"
 			}
 
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
+			}
+
 		}
 
 	}
@@ -3193,12 +3284,12 @@ EntityTemplate
 //editor "index(67)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -3207,16 +3298,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3229,6 +3320,13 @@ EntityTemplate
 			{
 				x "12.000"
 				z "8.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -3434,12 +3532,12 @@ EntityTemplate
 //editor "index(72)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -3448,16 +3546,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3470,6 +3568,13 @@ EntityTemplate
 			{
 				x "8.000"
 				z "-40.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -3768,12 +3873,12 @@ EntityTemplate
 //editor "index(79)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -3782,16 +3887,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3804,6 +3909,13 @@ EntityTemplate
 			{
 				x "4.000"
 				z "28.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -3962,12 +4074,12 @@ EntityTemplate
 //editor "index(83)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -3976,16 +4088,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -3997,6 +4109,13 @@ EntityTemplate
 			position
 			{
 				z "-20.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -4387,12 +4506,12 @@ EntityTemplate
 //editor "index(92)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -4401,16 +4520,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -4423,6 +4542,13 @@ EntityTemplate
 			{
 				x "-4.000"
 				z "48.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -4481,12 +4607,12 @@ EntityTemplate
 //editor "index(94)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -4495,16 +4621,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -4516,6 +4642,13 @@ EntityTemplate
 			position
 			{
 				x "-8.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -4721,12 +4854,12 @@ EntityTemplate
 //editor "index(99)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -4735,16 +4868,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -4757,6 +4890,13 @@ EntityTemplate
 			{
 				x "-12.000"
 				z "-48.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -5009,12 +5149,12 @@ EntityTemplate
 //editor "index(105)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -5023,16 +5163,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -5045,6 +5185,13 @@ EntityTemplate
 			{
 				x "-16.000"
 				z "20.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -5250,12 +5397,12 @@ EntityTemplate
 //editor "index(110)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -5264,16 +5411,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -5286,6 +5433,13 @@ EntityTemplate
 			{
 				x "-20.000"
 				z "-28.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -5637,12 +5791,12 @@ EntityTemplate
 //editor "index(118)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -5651,16 +5805,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -5673,6 +5827,13 @@ EntityTemplate
 			{
 				x "-24.000"
 				z "40.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -5784,12 +5945,12 @@ EntityTemplate
 //editor "index(121)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -5798,16 +5959,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -5820,6 +5981,13 @@ EntityTemplate
 			{
 				x "-28.000"
 				z "-8.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -6025,12 +6193,12 @@ EntityTemplate
 //editor "index(126)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -6039,16 +6207,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -6061,6 +6229,13 @@ EntityTemplate
 			{
 				x "-32.000"
 				z "-56.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -6266,12 +6441,12 @@ EntityTemplate
 //editor "index(131)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -6280,16 +6455,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -6304,6 +6479,13 @@ EntityTemplate
 				z "60.000"
 			}
 
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
+			}
+
 		}
 
 	}
@@ -6313,12 +6495,12 @@ EntityTemplate
 //editor "index(132)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -6327,16 +6509,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -6349,6 +6531,13 @@ EntityTemplate
 			{
 				x "-36.000"
 				z "12.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -6554,12 +6743,12 @@ EntityTemplate
 //editor "index(137)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -6568,16 +6757,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -6590,6 +6779,13 @@ EntityTemplate
 			{
 				x "-40.000"
 				z "-36.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -6889,12 +7085,12 @@ EntityTemplate
 //editor "index(144)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -6903,16 +7099,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -6925,6 +7121,13 @@ EntityTemplate
 			{
 				x "-44.000"
 				z "32.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -7083,12 +7286,12 @@ EntityTemplate
 //editor "index(148)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -7097,16 +7300,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -7119,6 +7322,13 @@ EntityTemplate
 			{
 				x "-48.000"
 				z "-16.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -7518,12 +7728,12 @@ EntityTemplate
 //editor "index(157)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -7532,16 +7742,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -7556,6 +7766,13 @@ EntityTemplate
 				z "52.000"
 			}
 
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
+			}
+
 		}
 
 	}
@@ -7565,12 +7782,12 @@ EntityTemplate
 //editor "index(158)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -7579,16 +7796,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -7601,6 +7818,13 @@ EntityTemplate
 			{
 				x "-56.000"
 				z "4.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
@@ -7859,12 +8083,12 @@ EntityTemplate
 //editor "index(164)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_lilly"
+	base_blueprint "resources/volume_random_resources"
 	components
 	{
 		BlueprintDesc
 		{
-			blueprint "resources/volume_random_resources_lilly"
+			blueprint "resources/volume_random_resources"
 		}
 
 		LocalAabbDesc
@@ -7873,16 +8097,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-5.000"
-					y "-5.000"
-					z "-5.000"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "5.000"
-					y "5.000"
-					z "5.000"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -7895,6 +8119,13 @@ EntityTemplate
 			{
 				x "-60.000"
 				z "-44.000"
+			}
+
+			scale
+			{
+				x "7.000"
+				y "7.000"
+				z "7.000"
 			}
 
 		}
