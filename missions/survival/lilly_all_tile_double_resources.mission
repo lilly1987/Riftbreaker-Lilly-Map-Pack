@@ -206,6 +206,7 @@ biomes/lilly/tiles/lillyn/lillyn1.tile
 biomes/lilly/tiles/lillyo/lillyo.tile
 biomes/lilly/tiles/lillyq/lillyq.tile
 biomes/lilly/tiles/lillyr/lillyr.tile
+biomes/lilly/tiles/lillys/lillys.tile
 biomes/lilly/tiles/lillyt/lillyt.tile
 biomes/lilly/tiles/lillyt/lillyt1.tile
 biomes/lilly/tiles/lillyt/lillyt2.tile
@@ -1026,7 +1027,7 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 			{
 				player_spawn_point  20.0
 				//loot_containers  	45.0
-				loot_containers	45.0
+				loot_containers	30.0
 				magnetic_rocks		10.0
 			}
 
@@ -1094,7 +1095,7 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 			{
 				player_spawn_point  100.0
 				//loot_containers  	45.0
-				loot_containers	45.0
+				loot_containers	30.0
 				cryo_plants	 10.0
 			}
 
