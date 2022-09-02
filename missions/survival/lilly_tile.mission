@@ -72,6 +72,7 @@ biomes/lilly/tiles/lillyb/lillyb.tile
 biomes/lilly/tiles/lillyb/lillyb1.tile
 biomes/lilly/tiles/lillyc/lillyc.tile
 biomes/lilly/tiles/lillyd/lillyd.tile
+biomes/lilly/tiles/lillye/lillye.tile
 biomes/lilly/tiles/lillyf/lillyf.tile
 biomes/lilly/tiles/lillyg/lillyg.tile
 biomes/lilly/tiles/lillyh/lillyh.tile
@@ -82,6 +83,7 @@ biomes/lilly/tiles/lillym/lillym.tile
 biomes/lilly/tiles/lillyn/lillyn.tile
 biomes/lilly/tiles/lillyn/lillyn1.tile
 biomes/lilly/tiles/lillyo/lillyo.tile
+biomes/lilly/tiles/lillyp/lillyp.tile
 biomes/lilly/tiles/lillyq/lillyq.tile
 biomes/lilly/tiles/lillyr/lillyr.tile
 biomes/lilly/tiles/lillys/lillys.tile
@@ -801,7 +803,7 @@ biomes/lilly/tiles/Square/Square9.tile
 			{
 				player_spawn_point  20.0
 				//loot_containers  	45.0
-				loot_containers	30.0
+				loot_containers	20.0
 				magnetic_rocks		10.0
 			}
 
@@ -869,7 +871,7 @@ biomes/lilly/tiles/Square/Square9.tile
 			{
 				player_spawn_point  100.0
 				//loot_containers  	45.0
-				loot_containers	30.0
+				loot_containers	20.0
 				cryo_plants	 10.0
 			}
 

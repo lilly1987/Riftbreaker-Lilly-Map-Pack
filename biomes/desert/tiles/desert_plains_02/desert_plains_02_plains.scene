@@ -1,4 +1,4 @@
-entity_count "50"
+entity_count "53"
 //editor "index(1)"
 EntityTemplate
 {
@@ -63,16 +63,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -116,16 +116,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -169,16 +169,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -222,16 +222,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -275,16 +275,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -328,16 +328,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -381,16 +381,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -434,16 +434,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -487,16 +487,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -540,16 +540,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -593,16 +593,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -646,16 +646,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -699,16 +699,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -752,16 +752,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -805,16 +805,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -2634,16 +2634,166 @@ EntityTemplate
 
 }
 
+//editor "index(51)"
+EntityTemplate
+{
+	base_blueprint "resources/volume_random_resources"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "resources/volume_random_resources"
+		}
 
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
 
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
 
+			}
 
+		}
 
+		TransformComponent
+		{
+			position
+			{
+				x "17.829"
+				y "-0.000"
+				z "16.086"
+			}
 
+			scale
+			{
+				x "11.161"
+				y "3.000"
+				z "12.146"
+			}
 
+		}
 
+	}
 
+}
 
+//editor "index(52)"
+EntityTemplate
+{
+	base_blueprint "resources/volume_random_resources"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "resources/volume_random_resources"
+		}
 
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
 
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			position
+			{
+				x "8.262"
+				z "-39.829"
+			}
+
+			scale
+			{
+				x "11.161"
+				y "3.000"
+				z "12.146"
+			}
+
+		}
+
+	}
+
+}
+
+//editor "index(53)"
+EntityTemplate
+{
+	base_blueprint "resources/volume_random_resources"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "resources/volume_random_resources"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			position
+			{
+				x "-25.032"
+				z "40.334"
+			}
+
+			scale
+			{
+				x "11.161"
+				y "3.000"
+				z "12.146"
+			}
+
+		}
+
+	}
+
+}
 

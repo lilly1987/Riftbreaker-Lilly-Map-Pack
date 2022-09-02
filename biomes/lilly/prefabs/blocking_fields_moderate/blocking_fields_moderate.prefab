@@ -20,7 +20,6 @@ TileablePrefab
 
 	color
 	{
-		a "0.000"
 		b "0.996"
 		g "0.618"
 		r "0.912"

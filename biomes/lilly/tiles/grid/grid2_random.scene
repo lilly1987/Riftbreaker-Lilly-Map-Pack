@@ -16,16 +16,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
+					x "-1.472"
+					y "-0.000"
+					z "-1.639"
 				}
 
 				max
 				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
+					x "1.579"
+					y "4.082"
+					z "1.639"
 				}
 
 			}
@@ -33,14 +33,6 @@ EntityTemplate
 		}
 
 		TransformComponent
-		{
-			position
-			{
-				x "0"
-				z "0"
-			}
-		}
-
 	}
 
 }
@@ -85,18 +77,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-8"
-				z "-24"
+				x "-8.000"
+				z "-24.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -104,6 +95,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(3)"
 EntityTemplate
 {
@@ -144,18 +136,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "8"
-				z "24"
+				x "8.000"
+				z "24.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -163,6 +154,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(4)"
 EntityTemplate
 {
@@ -203,18 +195,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "24"
-				z "-8"
+				x "24.000"
+				z "-8.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -222,6 +213,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(5)"
 EntityTemplate
 {
@@ -262,18 +254,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-24"
-				z "8"
+				x "-24.000"
+				z "8.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -281,6 +272,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(6)"
 EntityTemplate
 {
@@ -321,18 +313,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "8"
-				z "-56"
+				x "8.000"
+				z "-56.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -340,6 +331,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(7)"
 EntityTemplate
 {
@@ -380,18 +372,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-8"
-				z "56"
+				x "-8.000"
+				z "56.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -399,6 +390,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(8)"
 EntityTemplate
 {
@@ -439,18 +431,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "56"
-				z "8"
+				x "56.000"
+				z "8.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -458,6 +449,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(9)"
 EntityTemplate
 {
@@ -498,18 +490,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-56"
-				z "-8"
+				x "-56.000"
+				z "-8.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -517,6 +508,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(10)"
 EntityTemplate
 {
@@ -557,18 +549,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "40"
-				z "-40"
+				x "40.000"
+				z "-40.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -576,6 +567,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(11)"
 EntityTemplate
 {
@@ -616,18 +608,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-40"
-				z "40"
+				x "-40.000"
+				z "40.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -635,6 +626,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(12)"
 EntityTemplate
 {
@@ -675,18 +667,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "40"
-				z "40"
+				x "40.000"
+				z "40.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -694,6 +685,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(13)"
 EntityTemplate
 {
@@ -734,18 +726,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-40"
-				z "-40"
+				x "-40.000"
+				z "-40.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -794,18 +785,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-8"
-				z "8"
+				x "-8.000"
+				z "8.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -813,6 +803,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(15)"
 EntityTemplate
 {
@@ -853,18 +844,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "8"
-				z "-24"
+				x "8.000"
+				z "-24.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -872,6 +862,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(16)"
 EntityTemplate
 {
@@ -912,18 +903,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "24"
-				z "24"
+				x "24.000"
+				z "24.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -931,6 +921,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(17)"
 EntityTemplate
 {
@@ -971,18 +962,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-40"
-				z "-8"
+				x "-40.000"
+				z "-8.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -990,6 +980,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(18)"
 EntityTemplate
 {
@@ -1030,18 +1021,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "40"
-				z "-8"
+				x "40.000"
+				z "-8.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -1049,6 +1039,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(19)"
 EntityTemplate
 {
@@ -1089,18 +1080,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-24"
-				z "40"
+				x "-24.000"
+				z "40.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -1108,6 +1098,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(20)"
 EntityTemplate
 {
@@ -1148,18 +1139,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-24"
-				z "-40"
+				x "-24.000"
+				z "-40.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -1167,6 +1157,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(21)"
 EntityTemplate
 {
@@ -1207,18 +1198,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "8"
-				z "56"
+				x "8.000"
+				z "56.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -1226,6 +1216,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(22)"
 EntityTemplate
 {
@@ -1266,18 +1257,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "24"
-				z "-56"
+				x "24.000"
+				z "-56.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -1285,6 +1275,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(23)"
 EntityTemplate
 {
@@ -1325,18 +1316,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-56"
-				z "24"
+				x "-56.000"
+				z "24.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -1344,6 +1334,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(24)"
 EntityTemplate
 {
@@ -1384,18 +1375,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "56"
-				z "-40"
+				x "56.000"
+				z "-40.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -1403,6 +1393,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(25)"
 EntityTemplate
 {
@@ -1443,18 +1434,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "56"
-				z "40"
+				x "56.000"
+				z "40.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -1462,6 +1452,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(26)"
 EntityTemplate
 {
@@ -1502,18 +1493,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-56"
-				z "-56"
+				x "-56.000"
+				z "-56.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -1562,18 +1552,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "8"
-				z "-8"
+				x "8.000"
+				z "-8.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -1581,6 +1570,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(28)"
 EntityTemplate
 {
@@ -1621,18 +1611,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-8"
-				z "24"
+				x "-8.000"
+				z "24.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -1640,6 +1629,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(29)"
 EntityTemplate
 {
@@ -1680,18 +1670,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-24"
-				z "-24"
+				x "-24.000"
+				z "-24.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -1699,6 +1688,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(30)"
 EntityTemplate
 {
@@ -1739,18 +1729,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "40"
-				z "8"
+				x "40.000"
+				z "8.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -1758,6 +1747,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(31)"
 EntityTemplate
 {
@@ -1798,18 +1788,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-40"
-				z "8"
+				x "-40.000"
+				z "8.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -1817,6 +1806,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(32)"
 EntityTemplate
 {
@@ -1857,18 +1847,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "24"
-				z "-40"
+				x "24.000"
+				z "-40.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -1876,6 +1865,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(33)"
 EntityTemplate
 {
@@ -1916,18 +1906,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "24"
-				z "40"
+				x "24.000"
+				z "40.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -1935,6 +1924,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(34)"
 EntityTemplate
 {
@@ -1975,18 +1965,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-8"
-				z "-56"
+				x "-8.000"
+				z "-56.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -1994,6 +1983,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(35)"
 EntityTemplate
 {
@@ -2034,18 +2024,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "56"
-				z "-24"
+				x "56.000"
+				z "-24.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -2053,6 +2042,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(36)"
 EntityTemplate
 {
@@ -2093,18 +2083,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-24"
-				z "56"
+				x "-24.000"
+				z "56.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -2112,6 +2101,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(37)"
 EntityTemplate
 {
@@ -2152,18 +2142,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-56"
-				z "-40"
+				x "-56.000"
+				z "-40.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -2171,6 +2160,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(38)"
 EntityTemplate
 {
@@ -2211,18 +2201,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-56"
-				z "40"
+				x "-56.000"
+				z "40.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -2230,6 +2219,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(39)"
 EntityTemplate
 {
@@ -2270,18 +2260,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "56"
-				z "56"
+				x "56.000"
+				z "56.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -2330,18 +2319,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-8"
-				z "-8"
+				x "-8.000"
+				z "-8.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -2349,6 +2337,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(41)"
 EntityTemplate
 {
@@ -2389,18 +2378,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "24"
-				z "8"
+				x "24.000"
+				z "8.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -2408,6 +2396,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(42)"
 EntityTemplate
 {
@@ -2448,18 +2437,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-24"
-				z "24"
+				x "-24.000"
+				z "24.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -2467,6 +2455,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(43)"
 EntityTemplate
 {
@@ -2507,18 +2496,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "8"
-				z "-40"
+				x "8.000"
+				z "-40.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -2526,6 +2514,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(44)"
 EntityTemplate
 {
@@ -2566,18 +2555,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "8"
-				z "40"
+				x "8.000"
+				z "40.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -2585,6 +2573,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(45)"
 EntityTemplate
 {
@@ -2625,18 +2614,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-40"
-				z "-24"
+				x "-40.000"
+				z "-24.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -2644,6 +2632,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(46)"
 EntityTemplate
 {
@@ -2684,18 +2673,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "40"
-				z "-24"
+				x "40.000"
+				z "-24.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -2703,6 +2691,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(47)"
 EntityTemplate
 {
@@ -2743,18 +2732,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-56"
-				z "8"
+				x "-56.000"
+				z "8.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -2762,6 +2750,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(48)"
 EntityTemplate
 {
@@ -2802,18 +2791,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "56"
-				z "24"
+				x "56.000"
+				z "24.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -2821,6 +2809,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(49)"
 EntityTemplate
 {
@@ -2861,18 +2850,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-24"
-				z "-56"
+				x "-24.000"
+				z "-56.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -2880,6 +2868,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(50)"
 EntityTemplate
 {
@@ -2920,18 +2909,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "40"
-				z "56"
+				x "40.000"
+				z "56.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -2939,6 +2927,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(51)"
 EntityTemplate
 {
@@ -2979,18 +2968,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-40"
-				z "56"
+				x "-40.000"
+				z "56.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -2998,6 +2986,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(52)"
 EntityTemplate
 {
@@ -3038,18 +3027,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "56"
-				z "-56"
+				x "56.000"
+				z "-56.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3098,18 +3086,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "8"
-				z "8"
+				x "8.000"
+				z "8.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3117,6 +3104,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(54)"
 EntityTemplate
 {
@@ -3157,18 +3145,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-24"
-				z "-8"
+				x "-24.000"
+				z "-8.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3176,6 +3163,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(55)"
 EntityTemplate
 {
@@ -3216,18 +3204,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "24"
-				z "-24"
+				x "24.000"
+				z "-24.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3235,6 +3222,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(56)"
 EntityTemplate
 {
@@ -3275,18 +3263,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-8"
-				z "40"
+				x "-8.000"
+				z "40.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3294,6 +3281,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(57)"
 EntityTemplate
 {
@@ -3334,18 +3322,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-8"
-				z "-40"
+				x "-8.000"
+				z "-40.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3353,6 +3340,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(58)"
 EntityTemplate
 {
@@ -3393,18 +3381,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "40"
-				z "24"
+				x "40.000"
+				z "24.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3412,6 +3399,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(59)"
 EntityTemplate
 {
@@ -3452,18 +3440,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-40"
-				z "24"
+				x "-40.000"
+				z "24.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3471,6 +3458,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(60)"
 EntityTemplate
 {
@@ -3511,18 +3499,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "56"
-				z "-8"
+				x "56.000"
+				z "-8.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3530,6 +3517,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(61)"
 EntityTemplate
 {
@@ -3570,18 +3558,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-56"
-				z "-24"
+				x "-56.000"
+				z "-24.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3589,6 +3576,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(62)"
 EntityTemplate
 {
@@ -3629,18 +3617,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "24"
-				z "56"
+				x "24.000"
+				z "56.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3648,6 +3635,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(63)"
 EntityTemplate
 {
@@ -3688,18 +3676,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-40"
-				z "-56"
+				x "-40.000"
+				z "-56.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3707,6 +3694,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(64)"
 EntityTemplate
 {
@@ -3747,18 +3735,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "40"
-				z "-56"
+				x "40.000"
+				z "-56.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3766,6 +3753,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(65)"
 EntityTemplate
 {
@@ -3806,18 +3794,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-56"
-				z "56"
+				x "-56.000"
+				z "56.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -3866,18 +3853,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-64"
-				z "-64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-64.000"
+				z "-64.000"
 			}
 
 		}
@@ -3885,6 +3865,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(67)"
 EntityTemplate
 {
@@ -3925,18 +3906,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-48"
-				z "-64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-48.000"
+				z "-64.000"
 			}
 
 		}
@@ -3944,6 +3918,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(68)"
 EntityTemplate
 {
@@ -3984,18 +3959,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-32"
-				z "-64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-32.000"
+				z "-64.000"
 			}
 
 		}
@@ -4003,6 +3971,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(69)"
 EntityTemplate
 {
@@ -4043,18 +4012,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-16"
-				z "-64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-16.000"
+				z "-64.000"
 			}
 
 		}
@@ -4062,6 +4024,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(70)"
 EntityTemplate
 {
@@ -4102,18 +4065,10 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "0"
-				z "-64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				z "-64.000"
 			}
 
 		}
@@ -4121,6 +4076,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(71)"
 EntityTemplate
 {
@@ -4161,18 +4117,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "16"
-				z "-64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "16.000"
+				z "-64.000"
 			}
 
 		}
@@ -4180,6 +4129,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(72)"
 EntityTemplate
 {
@@ -4220,18 +4170,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "32"
-				z "-64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "32.000"
+				z "-64.000"
 			}
 
 		}
@@ -4239,6 +4182,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(73)"
 EntityTemplate
 {
@@ -4279,18 +4223,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "48"
-				z "-64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "48.000"
+				z "-64.000"
 			}
 
 		}
@@ -4298,6 +4235,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(74)"
 EntityTemplate
 {
@@ -4338,18 +4276,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "64"
-				z "-64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "64.000"
+				z "-64.000"
 			}
 
 		}
@@ -4357,6 +4288,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(75)"
 EntityTemplate
 {
@@ -4397,18 +4329,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-64"
-				z "-48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-64.000"
+				z "-48.000"
 			}
 
 		}
@@ -4416,6 +4341,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(76)"
 EntityTemplate
 {
@@ -4456,18 +4382,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-48"
-				z "-48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-48.000"
+				z "-48.000"
 			}
 
 		}
@@ -4475,6 +4394,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(77)"
 EntityTemplate
 {
@@ -4515,18 +4435,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-32"
-				z "-48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-32.000"
+				z "-48.000"
 			}
 
 		}
@@ -4534,6 +4447,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(78)"
 EntityTemplate
 {
@@ -4574,18 +4488,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-16"
-				z "-48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-16.000"
+				z "-48.000"
 			}
 
 		}
@@ -4593,6 +4500,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(79)"
 EntityTemplate
 {
@@ -4633,18 +4541,10 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "0"
-				z "-48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				z "-48.000"
 			}
 
 		}
@@ -4652,6 +4552,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(80)"
 EntityTemplate
 {
@@ -4692,18 +4593,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "16"
-				z "-48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "16.000"
+				z "-48.000"
 			}
 
 		}
@@ -4711,6 +4605,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(81)"
 EntityTemplate
 {
@@ -4751,18 +4646,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "32"
-				z "-48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "32.000"
+				z "-48.000"
 			}
 
 		}
@@ -4770,6 +4658,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(82)"
 EntityTemplate
 {
@@ -4810,18 +4699,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "48"
-				z "-48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "48.000"
+				z "-48.000"
 			}
 
 		}
@@ -4829,6 +4711,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(83)"
 EntityTemplate
 {
@@ -4869,18 +4752,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "64"
-				z "-48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "64.000"
+				z "-48.000"
 			}
 
 		}
@@ -4888,6 +4764,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(84)"
 EntityTemplate
 {
@@ -4928,18 +4805,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-64"
-				z "-32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-64.000"
+				z "-32.000"
 			}
 
 		}
@@ -4947,6 +4817,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(85)"
 EntityTemplate
 {
@@ -4987,18 +4858,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-48"
-				z "-32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-48.000"
+				z "-32.000"
 			}
 
 		}
@@ -5006,6 +4870,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(86)"
 EntityTemplate
 {
@@ -5046,18 +4911,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-32"
-				z "-32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-32.000"
+				z "-32.000"
 			}
 
 		}
@@ -5065,6 +4923,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(87)"
 EntityTemplate
 {
@@ -5105,18 +4964,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-16"
-				z "-32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-16.000"
+				z "-32.000"
 			}
 
 		}
@@ -5124,6 +4976,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(88)"
 EntityTemplate
 {
@@ -5164,18 +5017,10 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "0"
-				z "-32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				z "-32.000"
 			}
 
 		}
@@ -5183,6 +5028,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(89)"
 EntityTemplate
 {
@@ -5223,18 +5069,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "16"
-				z "-32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "16.000"
+				z "-32.000"
 			}
 
 		}
@@ -5242,6 +5081,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(90)"
 EntityTemplate
 {
@@ -5282,18 +5122,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "32"
-				z "-32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "32.000"
+				z "-32.000"
 			}
 
 		}
@@ -5301,6 +5134,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(91)"
 EntityTemplate
 {
@@ -5341,18 +5175,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "48"
-				z "-32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "48.000"
+				z "-32.000"
 			}
 
 		}
@@ -5360,6 +5187,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(92)"
 EntityTemplate
 {
@@ -5400,18 +5228,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "64"
-				z "-32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "64.000"
+				z "-32.000"
 			}
 
 		}
@@ -5419,6 +5240,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(93)"
 EntityTemplate
 {
@@ -5459,18 +5281,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-64"
-				z "-16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-64.000"
+				z "-16.000"
 			}
 
 		}
@@ -5478,6 +5293,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(94)"
 EntityTemplate
 {
@@ -5518,18 +5334,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-48"
-				z "-16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-48.000"
+				z "-16.000"
 			}
 
 		}
@@ -5537,6 +5346,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(95)"
 EntityTemplate
 {
@@ -5577,18 +5387,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-32"
-				z "-16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-32.000"
+				z "-16.000"
 			}
 
 		}
@@ -5596,6 +5399,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(96)"
 EntityTemplate
 {
@@ -5636,18 +5440,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-16"
-				z "-16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-16.000"
+				z "-16.000"
 			}
 
 		}
@@ -5655,6 +5452,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(97)"
 EntityTemplate
 {
@@ -5695,18 +5493,10 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "0"
-				z "-16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				z "-16.000"
 			}
 
 		}
@@ -5714,6 +5504,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(98)"
 EntityTemplate
 {
@@ -5754,18 +5545,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "16"
-				z "-16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "16.000"
+				z "-16.000"
 			}
 
 		}
@@ -5773,6 +5557,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(99)"
 EntityTemplate
 {
@@ -5813,18 +5598,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "32"
-				z "-16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "32.000"
+				z "-16.000"
 			}
 
 		}
@@ -5832,6 +5610,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(100)"
 EntityTemplate
 {
@@ -5872,18 +5651,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "48"
-				z "-16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "48.000"
+				z "-16.000"
 			}
 
 		}
@@ -5891,6 +5663,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(101)"
 EntityTemplate
 {
@@ -5931,18 +5704,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "64"
-				z "-16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "64.000"
+				z "-16.000"
 			}
 
 		}
@@ -5950,6 +5716,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(102)"
 EntityTemplate
 {
@@ -5990,18 +5757,10 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-64"
-				z "0"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-64.000"
 			}
 
 		}
@@ -6009,6 +5768,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(103)"
 EntityTemplate
 {
@@ -6049,18 +5809,10 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-48"
-				z "0"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-48.000"
 			}
 
 		}
@@ -6068,6 +5820,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(104)"
 EntityTemplate
 {
@@ -6108,18 +5861,10 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-32"
-				z "0"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-32.000"
 			}
 
 		}
@@ -6127,6 +5872,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(105)"
 EntityTemplate
 {
@@ -6167,18 +5913,10 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-16"
-				z "0"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-16.000"
 			}
 
 		}
@@ -6186,6 +5924,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(106)"
 EntityTemplate
 {
@@ -6226,25 +5965,13 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
-			position
-			{
-				x "0"
-				z "0"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
-			}
 
 		}
 
 	}
 
 }
+
 //editor "index(107)"
 EntityTemplate
 {
@@ -6285,18 +6012,10 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "16"
-				z "0"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "16.000"
 			}
 
 		}
@@ -6304,6 +6023,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(108)"
 EntityTemplate
 {
@@ -6344,18 +6064,10 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "32"
-				z "0"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "32.000"
 			}
 
 		}
@@ -6363,6 +6075,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(109)"
 EntityTemplate
 {
@@ -6403,18 +6116,10 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "48"
-				z "0"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "48.000"
 			}
 
 		}
@@ -6422,6 +6127,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(110)"
 EntityTemplate
 {
@@ -6462,18 +6168,10 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "64"
-				z "0"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "64.000"
 			}
 
 		}
@@ -6481,6 +6179,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(111)"
 EntityTemplate
 {
@@ -6521,18 +6220,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-64"
-				z "16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-64.000"
+				z "16.000"
 			}
 
 		}
@@ -6540,6 +6232,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(112)"
 EntityTemplate
 {
@@ -6580,18 +6273,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-48"
-				z "16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-48.000"
+				z "16.000"
 			}
 
 		}
@@ -6599,6 +6285,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(113)"
 EntityTemplate
 {
@@ -6639,18 +6326,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-32"
-				z "16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-32.000"
+				z "16.000"
 			}
 
 		}
@@ -6658,6 +6338,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(114)"
 EntityTemplate
 {
@@ -6698,18 +6379,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-16"
-				z "16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-16.000"
+				z "16.000"
 			}
 
 		}
@@ -6717,6 +6391,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(115)"
 EntityTemplate
 {
@@ -6757,18 +6432,10 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "0"
-				z "16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				z "16.000"
 			}
 
 		}
@@ -6776,6 +6443,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(116)"
 EntityTemplate
 {
@@ -6816,18 +6484,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "16"
-				z "16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -6835,6 +6496,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(117)"
 EntityTemplate
 {
@@ -6875,18 +6537,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "32"
-				z "16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "32.000"
+				z "16.000"
 			}
 
 		}
@@ -6894,6 +6549,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(118)"
 EntityTemplate
 {
@@ -6934,18 +6590,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "48"
-				z "16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "48.000"
+				z "16.000"
 			}
 
 		}
@@ -6953,6 +6602,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(119)"
 EntityTemplate
 {
@@ -6993,18 +6643,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "64"
-				z "16"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "64.000"
+				z "16.000"
 			}
 
 		}
@@ -7012,6 +6655,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(120)"
 EntityTemplate
 {
@@ -7052,18 +6696,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-64"
-				z "32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-64.000"
+				z "32.000"
 			}
 
 		}
@@ -7071,6 +6708,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(121)"
 EntityTemplate
 {
@@ -7111,18 +6749,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-48"
-				z "32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-48.000"
+				z "32.000"
 			}
 
 		}
@@ -7130,6 +6761,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(122)"
 EntityTemplate
 {
@@ -7170,18 +6802,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-32"
-				z "32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-32.000"
+				z "32.000"
 			}
 
 		}
@@ -7189,6 +6814,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(123)"
 EntityTemplate
 {
@@ -7229,18 +6855,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-16"
-				z "32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-16.000"
+				z "32.000"
 			}
 
 		}
@@ -7248,6 +6867,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(124)"
 EntityTemplate
 {
@@ -7288,18 +6908,10 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "0"
-				z "32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				z "32.000"
 			}
 
 		}
@@ -7307,6 +6919,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(125)"
 EntityTemplate
 {
@@ -7347,18 +6960,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "16"
-				z "32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "16.000"
+				z "32.000"
 			}
 
 		}
@@ -7366,6 +6972,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(126)"
 EntityTemplate
 {
@@ -7406,18 +7013,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "32"
-				z "32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "32.000"
+				z "32.000"
 			}
 
 		}
@@ -7425,6 +7025,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(127)"
 EntityTemplate
 {
@@ -7465,18 +7066,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "48"
-				z "32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "48.000"
+				z "32.000"
 			}
 
 		}
@@ -7484,6 +7078,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(128)"
 EntityTemplate
 {
@@ -7524,18 +7119,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "64"
-				z "32"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "64.000"
+				z "32.000"
 			}
 
 		}
@@ -7543,6 +7131,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(129)"
 EntityTemplate
 {
@@ -7583,18 +7172,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-64"
-				z "48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-64.000"
+				z "48.000"
 			}
 
 		}
@@ -7602,6 +7184,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(130)"
 EntityTemplate
 {
@@ -7642,18 +7225,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-48"
-				z "48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-48.000"
+				z "48.000"
 			}
 
 		}
@@ -7661,6 +7237,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(131)"
 EntityTemplate
 {
@@ -7701,18 +7278,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-32"
-				z "48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-32.000"
+				z "48.000"
 			}
 
 		}
@@ -7720,6 +7290,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(132)"
 EntityTemplate
 {
@@ -7760,18 +7331,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-16"
-				z "48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-16.000"
+				z "48.000"
 			}
 
 		}
@@ -7779,6 +7343,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(133)"
 EntityTemplate
 {
@@ -7819,18 +7384,10 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "0"
-				z "48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				z "48.000"
 			}
 
 		}
@@ -7838,6 +7395,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(134)"
 EntityTemplate
 {
@@ -7878,18 +7436,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "16"
-				z "48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "16.000"
+				z "48.000"
 			}
 
 		}
@@ -7897,6 +7448,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(135)"
 EntityTemplate
 {
@@ -7937,18 +7489,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "32"
-				z "48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "32.000"
+				z "48.000"
 			}
 
 		}
@@ -7956,6 +7501,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(136)"
 EntityTemplate
 {
@@ -7996,18 +7542,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "48"
-				z "48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "48.000"
+				z "48.000"
 			}
 
 		}
@@ -8015,6 +7554,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(137)"
 EntityTemplate
 {
@@ -8055,18 +7595,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "64"
-				z "48"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "64.000"
+				z "48.000"
 			}
 
 		}
@@ -8074,6 +7607,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(138)"
 EntityTemplate
 {
@@ -8114,18 +7648,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-64"
-				z "64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-64.000"
+				z "64.000"
 			}
 
 		}
@@ -8133,6 +7660,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(139)"
 EntityTemplate
 {
@@ -8173,18 +7701,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-48"
-				z "64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-48.000"
+				z "64.000"
 			}
 
 		}
@@ -8192,6 +7713,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(140)"
 EntityTemplate
 {
@@ -8232,18 +7754,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-32"
-				z "64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-32.000"
+				z "64.000"
 			}
 
 		}
@@ -8251,6 +7766,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(141)"
 EntityTemplate
 {
@@ -8291,18 +7807,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-16"
-				z "64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "-16.000"
+				z "64.000"
 			}
 
 		}
@@ -8310,6 +7819,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(142)"
 EntityTemplate
 {
@@ -8350,18 +7860,10 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "0"
-				z "64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				z "64.000"
 			}
 
 		}
@@ -8369,6 +7871,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(143)"
 EntityTemplate
 {
@@ -8409,18 +7912,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "16"
-				z "64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "16.000"
+				z "64.000"
 			}
 
 		}
@@ -8428,6 +7924,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(144)"
 EntityTemplate
 {
@@ -8468,18 +7965,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "32"
-				z "64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "32.000"
+				z "64.000"
 			}
 
 		}
@@ -8487,6 +7977,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(145)"
 EntityTemplate
 {
@@ -8527,18 +8018,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "48"
-				z "64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "48.000"
+				z "64.000"
 			}
 
 		}
@@ -8546,6 +8030,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(146)"
 EntityTemplate
 {
@@ -8586,18 +8071,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "64"
-				z "64"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.00"
-				z "1.00"
+				x "64.000"
+				z "64.000"
 			}
 
 		}
@@ -8605,8 +8083,6 @@ EntityTemplate
 	}
 
 }
-
-
 
 //editor "index(147)"
 EntityTemplate
@@ -8648,18 +8124,17 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "56"
-				z "56"
+				x "56.000"
+				z "56.000"
 			}
 
 			scale
 			{
-				x "16.00"
-				y "1.000"
-				z "16.00"
+				x "16.000"
+				z "16.000"
 			}
 
 		}
@@ -8708,18 +8183,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-8"
-				z "8"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-8.000"
+				z "8.000"
 			}
 
 		}
@@ -8727,6 +8195,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(149)"
 EntityTemplate
 {
@@ -8767,18 +8236,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "8"
-				z "-24"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "8.000"
+				z "-24.000"
 			}
 
 		}
@@ -8786,6 +8248,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(150)"
 EntityTemplate
 {
@@ -8826,18 +8289,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "24"
-				z "24"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "24.000"
+				z "24.000"
 			}
 
 		}
@@ -8845,6 +8301,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(151)"
 EntityTemplate
 {
@@ -8885,18 +8342,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-40"
-				z "-8"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-40.000"
+				z "-8.000"
 			}
 
 		}
@@ -8904,6 +8354,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(152)"
 EntityTemplate
 {
@@ -8944,18 +8395,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "40"
-				z "-8"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "40.000"
+				z "-8.000"
 			}
 
 		}
@@ -8963,6 +8407,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(153)"
 EntityTemplate
 {
@@ -9003,18 +8448,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-24"
-				z "40"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-24.000"
+				z "40.000"
 			}
 
 		}
@@ -9022,6 +8460,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(154)"
 EntityTemplate
 {
@@ -9062,18 +8501,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-24"
-				z "-40"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-24.000"
+				z "-40.000"
 			}
 
 		}
@@ -9081,6 +8513,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(155)"
 EntityTemplate
 {
@@ -9121,18 +8554,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "8"
-				z "56"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "8.000"
+				z "56.000"
 			}
 
 		}
@@ -9140,6 +8566,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(156)"
 EntityTemplate
 {
@@ -9180,18 +8607,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "24"
-				z "-56"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "24.000"
+				z "-56.000"
 			}
 
 		}
@@ -9199,6 +8619,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(157)"
 EntityTemplate
 {
@@ -9239,18 +8660,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-56"
-				z "24"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-56.000"
+				z "24.000"
 			}
 
 		}
@@ -9258,6 +8672,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(158)"
 EntityTemplate
 {
@@ -9298,18 +8713,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "56"
-				z "-40"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "56.000"
+				z "-40.000"
 			}
 
 		}
@@ -9317,6 +8725,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(159)"
 EntityTemplate
 {
@@ -9357,18 +8766,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "56"
-				z "40"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "56.000"
+				z "40.000"
 			}
 
 		}
@@ -9376,6 +8778,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(160)"
 EntityTemplate
 {
@@ -9416,18 +8819,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-56"
-				z "-56"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-56.000"
+				z "-56.000"
 			}
 
 		}
@@ -9435,6 +8831,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(161)"
 EntityTemplate
 {
@@ -9475,18 +8872,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "8"
-				z "-8"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "8.000"
+				z "-8.000"
 			}
 
 		}
@@ -9494,6 +8884,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(162)"
 EntityTemplate
 {
@@ -9534,18 +8925,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-8"
-				z "24"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-8.000"
+				z "24.000"
 			}
 
 		}
@@ -9553,6 +8937,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(163)"
 EntityTemplate
 {
@@ -9593,18 +8978,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-24"
-				z "-24"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-24.000"
+				z "-24.000"
 			}
 
 		}
@@ -9612,6 +8990,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(164)"
 EntityTemplate
 {
@@ -9652,18 +9031,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "40"
-				z "8"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "40.000"
+				z "8.000"
 			}
 
 		}
@@ -9671,6 +9043,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(165)"
 EntityTemplate
 {
@@ -9711,18 +9084,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-40"
-				z "8"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-40.000"
+				z "8.000"
 			}
 
 		}
@@ -9730,6 +9096,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(166)"
 EntityTemplate
 {
@@ -9770,18 +9137,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "24"
-				z "-40"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "24.000"
+				z "-40.000"
 			}
 
 		}
@@ -9789,6 +9149,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(167)"
 EntityTemplate
 {
@@ -9829,18 +9190,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "24"
-				z "40"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "24.000"
+				z "40.000"
 			}
 
 		}
@@ -9848,6 +9202,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(168)"
 EntityTemplate
 {
@@ -9888,18 +9243,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-8"
-				z "-56"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-8.000"
+				z "-56.000"
 			}
 
 		}
@@ -9907,6 +9255,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(169)"
 EntityTemplate
 {
@@ -9947,18 +9296,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "56"
-				z "-24"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "56.000"
+				z "-24.000"
 			}
 
 		}
@@ -9966,6 +9308,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(170)"
 EntityTemplate
 {
@@ -10006,18 +9349,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-24"
-				z "56"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-24.000"
+				z "56.000"
 			}
 
 		}
@@ -10025,6 +9361,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(171)"
 EntityTemplate
 {
@@ -10065,18 +9402,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-56"
-				z "-40"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-56.000"
+				z "-40.000"
 			}
 
 		}
@@ -10084,6 +9414,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(172)"
 EntityTemplate
 {
@@ -10124,18 +9455,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-56"
-				z "40"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-56.000"
+				z "40.000"
 			}
 
 		}
@@ -10143,6 +9467,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(173)"
 EntityTemplate
 {
@@ -10183,18 +9508,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "56"
-				z "56"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "56.000"
+				z "56.000"
 			}
 
 		}
@@ -10202,6 +9520,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(174)"
 EntityTemplate
 {
@@ -10242,18 +9561,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-8"
-				z "-8"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-8.000"
+				z "-8.000"
 			}
 
 		}
@@ -10261,6 +9573,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(175)"
 EntityTemplate
 {
@@ -10301,18 +9614,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "24"
-				z "8"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "24.000"
+				z "8.000"
 			}
 
 		}
@@ -10320,6 +9626,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(176)"
 EntityTemplate
 {
@@ -10360,18 +9667,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-24"
-				z "24"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-24.000"
+				z "24.000"
 			}
 
 		}
@@ -10379,6 +9679,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(177)"
 EntityTemplate
 {
@@ -10419,18 +9720,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "8"
-				z "-40"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "8.000"
+				z "-40.000"
 			}
 
 		}
@@ -10438,6 +9732,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(178)"
 EntityTemplate
 {
@@ -10478,18 +9773,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "8"
-				z "40"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "8.000"
+				z "40.000"
 			}
 
 		}
@@ -10497,6 +9785,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(179)"
 EntityTemplate
 {
@@ -10537,18 +9826,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-40"
-				z "-24"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-40.000"
+				z "-24.000"
 			}
 
 		}
@@ -10556,6 +9838,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(180)"
 EntityTemplate
 {
@@ -10596,18 +9879,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "40"
-				z "-24"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "40.000"
+				z "-24.000"
 			}
 
 		}
@@ -10615,6 +9891,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(181)"
 EntityTemplate
 {
@@ -10655,18 +9932,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-56"
-				z "8"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-56.000"
+				z "8.000"
 			}
 
 		}
@@ -10674,6 +9944,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(182)"
 EntityTemplate
 {
@@ -10714,18 +9985,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "56"
-				z "24"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "56.000"
+				z "24.000"
 			}
 
 		}
@@ -10733,6 +9997,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(183)"
 EntityTemplate
 {
@@ -10773,18 +10038,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-24"
-				z "-56"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-24.000"
+				z "-56.000"
 			}
 
 		}
@@ -10792,6 +10050,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(184)"
 EntityTemplate
 {
@@ -10832,18 +10091,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "40"
-				z "56"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "40.000"
+				z "56.000"
 			}
 
 		}
@@ -10851,6 +10103,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(185)"
 EntityTemplate
 {
@@ -10891,18 +10144,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-40"
-				z "56"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-40.000"
+				z "56.000"
 			}
 
 		}
@@ -10910,6 +10156,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(186)"
 EntityTemplate
 {
@@ -10950,18 +10197,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "56"
-				z "-56"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "56.000"
+				z "-56.000"
 			}
 
 		}
@@ -10969,6 +10209,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(187)"
 EntityTemplate
 {
@@ -11009,18 +10250,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "8"
-				z "8"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "8.000"
+				z "8.000"
 			}
 
 		}
@@ -11028,6 +10262,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(188)"
 EntityTemplate
 {
@@ -11068,18 +10303,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-24"
-				z "-8"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-24.000"
+				z "-8.000"
 			}
 
 		}
@@ -11087,6 +10315,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(189)"
 EntityTemplate
 {
@@ -11127,18 +10356,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "24"
-				z "-24"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "24.000"
+				z "-24.000"
 			}
 
 		}
@@ -11146,6 +10368,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(190)"
 EntityTemplate
 {
@@ -11186,18 +10409,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-8"
-				z "40"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-8.000"
+				z "40.000"
 			}
 
 		}
@@ -11205,6 +10421,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(191)"
 EntityTemplate
 {
@@ -11245,18 +10462,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-8"
-				z "-40"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-8.000"
+				z "-40.000"
 			}
 
 		}
@@ -11264,6 +10474,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(192)"
 EntityTemplate
 {
@@ -11304,18 +10515,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "40"
-				z "24"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "40.000"
+				z "24.000"
 			}
 
 		}
@@ -11323,6 +10527,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(193)"
 EntityTemplate
 {
@@ -11363,18 +10568,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-40"
-				z "24"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-40.000"
+				z "24.000"
 			}
 
 		}
@@ -11382,6 +10580,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(194)"
 EntityTemplate
 {
@@ -11422,18 +10621,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "56"
-				z "-8"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "56.000"
+				z "-8.000"
 			}
 
 		}
@@ -11441,6 +10633,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(195)"
 EntityTemplate
 {
@@ -11481,18 +10674,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-56"
-				z "-24"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-56.000"
+				z "-24.000"
 			}
 
 		}
@@ -11500,6 +10686,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(196)"
 EntityTemplate
 {
@@ -11540,18 +10727,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "24"
-				z "56"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "24.000"
+				z "56.000"
 			}
 
 		}
@@ -11559,6 +10739,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(197)"
 EntityTemplate
 {
@@ -11599,18 +10780,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-40"
-				z "-56"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-40.000"
+				z "-56.000"
 			}
 
 		}
@@ -11618,6 +10792,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(198)"
 EntityTemplate
 {
@@ -11658,18 +10833,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "40"
-				z "-56"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "40.000"
+				z "-56.000"
 			}
 
 		}
@@ -11677,6 +10845,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(199)"
 EntityTemplate
 {
@@ -11717,18 +10886,11 @@ EntityTemplate
 				w "0.707"
 				y "0.707"
 			}
-			
+
 			position
 			{
-				x "-56"
-				z "56"
-			}
-
-			scale
-			{
-				x "1.00"
-				y "1.000"
-				z "1.00"
+				x "-56.000"
+				z "56.000"
 			}
 
 		}
@@ -11736,3 +10898,4 @@ EntityTemplate
 	}
 
 }
+
