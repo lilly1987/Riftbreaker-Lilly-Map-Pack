@@ -1,4 +1,4 @@
-entity_count "32"
+entity_count "33"
 //editor "index(1)"
 EntityTemplate
 {
@@ -33,14 +33,6 @@ EntityTemplate
 		}
 
 		TransformComponent
-		{
-			position
-			{
-				y "6.217"
-			}
-
-		}
-
 	}
 
 }
@@ -1380,7 +1372,6 @@ EntityTemplate
 			position
 			{
 				x "-1.606"
-				y "6.217"
 				z "-1.651"
 			}
 
@@ -1572,6 +1563,59 @@ EntityTemplate
 				x "17.991"
 				y "-0.000"
 				z "-19.789"
+			}
+
+		}
+
+	}
+
+}
+
+//editor "index(33)"
+EntityTemplate
+{
+	base_blueprint "resources/volume_random_resources_liquid"
+	components
+	{
+		BlueprintDesc
+		{
+			blueprint "resources/volume_random_resources_liquid"
+		}
+
+		LocalAabbDesc
+		{
+			local_aabb
+			{
+				min
+				{
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
+				}
+
+				max
+				{
+					x "0.510"
+					y "0.510"
+					z "0.510"
+				}
+
+			}
+
+		}
+
+		TransformComponent
+		{
+			position
+			{
+				y "-1.100"
+			}
+
+			scale
+			{
+				x "128.000"
+				y "2.000"
+				z "128.000"
 			}
 
 		}
