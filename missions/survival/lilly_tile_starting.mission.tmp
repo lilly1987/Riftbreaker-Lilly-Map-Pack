@@ -6,8 +6,8 @@ MissionDef
 	script_database
 	{	 
 		objective_tile		 string:"biomes/lilly/tiles/starting0/starting0.tile"
-		objective_min_distance float:"0.0"
-		objective_max_distance float:"1.0"
+		//objective_min_distance float:"0.0"
+		objective_max_distance float:"64.0"
 	}
 	
 	map_size		"5"
@@ -29,12 +29,16 @@ source_tiles
 
 	tile_spawn_rules
 	{		
-		//biomes/lilly/tiles/resources/jungle_canyons_03/jungle_canyons_03.tile
-		//{
-		//	min_instances	4
-		//	//max_instances	1
-		//	//random_weight	2.0
-		//}
+		biomes/lilly/tiles/starting0/starting0.tile
+		{
+			min_instances	1
+			//max_instances	1
+			//random_weight	2.0
+			tile_coord //excluding edge coordinates
+			{		
+				0,0
+			}
+		}
 	}
 
 
