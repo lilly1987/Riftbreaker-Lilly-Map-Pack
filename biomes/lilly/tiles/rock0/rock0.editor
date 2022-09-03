@@ -1,0 +1,1 @@
+set camera/perspective/render_collisions "nav_blocker|player_blocker|resource|volume|water|world_blocker"
