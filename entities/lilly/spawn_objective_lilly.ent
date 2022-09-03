@@ -1,0 +1,35 @@
+EntityBlueprint 
+{	
+	name "logic/spawn_objective_lilly"
+
+	SceneEditorDesc
+	{
+		//autogenerate_id	"1"
+		mesh 		"meshes/logic/spawn_objective.mesh"
+	}
+	
+	RandomBlueprintDesc
+	{
+		Blueprint
+		{
+			blueprint "spawners/acid_spawner_extreme"
+		}
+		Blueprint
+		{
+			blueprint "spawners/desert_spawner_extreme"
+		}
+		Blueprint
+		{
+			blueprint "spawners/jungle_spawner_extreme"
+		}
+		Blueprint
+		{
+			blueprint "spawners/magma_spawner_extreme"
+		}
+		Blueprint
+		{
+			blueprint "spawners/metallic_spawner_extreme"
+		}
+	}
+}
+

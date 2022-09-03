@@ -5,13 +5,12 @@ MissionDef
 	localization_id	"campaigns/custom/lilly_test0.campaign"
 	description		"test"
 	
-	//script_database
-	//{	 
-	//	objective_tile		 string:"biomes/acid/tiles/acid_plains_02/acid_plains_02.tile"
-	//	objective_min_distance float:"0.0"
-	//	objective_max_distance float:"1.0"
-	////	spawn_near_position string:"50,0,-800"	
-	//}	
+	script_database
+	{	 
+		objective_tile		 string:"biomes/lilly/tiles/starting0/starting0.tile"
+		//objective_min_distance float:"0.0"
+		objective_max_distance float:"64.0"
+	}
 
 	
 	map_size		"3"
@@ -133,12 +132,16 @@ biomes/lilly/tiles/starting0/starting0.tile
 
 	tile_spawn_rules
 	{			
-		//biomes/lilly/tiles/lilly/lilly10.tile
-		//{
-		//	min_instances	1
-		//	//max_instances	1
-		//	random_weight	9.0
-		//}
+		biomes/lilly/tiles/starting0/starting0.tile
+		{
+			min_instances	1
+			//max_instances	1
+			//random_weight	2.0
+			tile_coord //excluding edge coordinates
+			{		
+				0,0
+			}
+		}
     }
 
 
