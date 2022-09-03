@@ -5,9 +5,9 @@ MissionDef
 	description		"lilly_all"
 	//script_database
 	//{	 
-	//	objective_tile		 string:"biomes/lilly/tiles/resources2/jungle_starting_01/jungle_starting_01.tile"
+	//	objective_tile		 string:"biomes/lilly/tiles/starting0/starting0.tile"
 	//	objective_min_distance float:"0.0"
-	//	objective_max_distance float:"64.0"
+	//	objective_max_distance float:"1.0"
 	//}
 	
 	map_size		"5"
@@ -241,6 +241,7 @@ biomes/lilly/tiles/Square/Square5.tile
 biomes/lilly/tiles/Square/Square7.tile
 biomes/lilly/tiles/Square/Square8.tile
 biomes/lilly/tiles/Square/Square9.tile
+biomes/lilly/tiles/starting0/starting0.tile
 biomes/magma/tiles/magma_canyons_01/magma_canyons_01_liquid.tile
 biomes/magma/tiles/magma_canyons_01/magma_canyons_01_resources3.tile
 biomes/magma/tiles/magma_canyons_02/magma_canyons_02_liquid.tile

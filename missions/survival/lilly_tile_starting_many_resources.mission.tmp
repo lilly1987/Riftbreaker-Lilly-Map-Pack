@@ -1,16 +1,16 @@
 MissionDef
 {
 	script		  "lua/missions/survival/survival_lilly.lua"
-	localization_id	"campaigns/survival/lilly_all_tile.campaign"
+	localization_id	"campaigns/survival/lilly_all_tile_many_resources.campaign"
 	description		"lilly_all"
-	//script_database
-	//{	 
-	//	objective_tile		 string:"biomes/lilly/tiles/starting0/starting0.tile"
-	//	objective_min_distance float:"0.0"
-	//	objective_max_distance float:"1.0"
-	//}
+	script_database
+	{	 
+		objective_tile		 string:"biomes/lilly/tiles/resources2/jungle_starting_01/jungle_starting_01.tile"
+		objective_min_distance float:"0.0"
+		objective_max_distance float:"1.0"
+	}
 	
-	map_size		"5"
+	map_size		"8,3"
 
 	biomes		  	"lilly"
 	
@@ -23,60 +23,14 @@ MissionDef
 source_tiles
 {
 
-//#tile-all
+//#tile-lilly
 
-biomes/acid/tiles/acid_lakes_01/acid_lakes_01.tile
-biomes/acid/tiles/acid_lakes_02/acid_lakes_02.tile
-biomes/acid/tiles/acid_lakes_03/acid_lakes_03.tile
-biomes/acid/tiles/acid_nest_01/acid_nest_01.tile
-biomes/acid/tiles/acid_plains_01/acid_plains_01.tile
-biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
-biomes/acid/tiles/acid_plains_03/acid_plains_03.tile
-biomes/desert/tiles/desert_canyons_01/desert_canyons_01.tile
-biomes/desert/tiles/desert_canyons_02/desert_canyons_02.tile
-biomes/desert/tiles/desert_nest_01/desert_nest_01.tile
-biomes/desert/tiles/desert_plains_01/desert_plains_01.tile
-biomes/desert/tiles/desert_plains_02/desert_plains_02.tile
-biomes/desert/tiles/desert_plains_03/desert_plains_03.tile
-biomes/desert/tiles/desert_plains_04/desert_plains_04.tile
-biomes/desert/tiles/desert_starting_01/desert_starting_01.tile
-biomes/desert/tiles/desert_starting_02/desert_starting_02.tile
-biomes/jungle/tiles/jungle_canyons_01/jungle_canyons_01.tile
-biomes/jungle/tiles/jungle_canyons_02/jungle_canyons_02.tile
-biomes/jungle/tiles/jungle_canyons_03/jungle_canyons_03.tile
-biomes/jungle/tiles/jungle_lakes_01/jungle_lakes_01.tile
-biomes/jungle/tiles/jungle_nest_01/jungle_nest_01.tile
-biomes/jungle/tiles/jungle_nest_02/jungle_nest_02.tile
-biomes/jungle/tiles/jungle_nest_03/jungle_nest_03.tile
-biomes/jungle/tiles/jungle_plains_01/jungle_plains_01.tile
-biomes/jungle/tiles/jungle_plains_02/jungle_plains_02.tile
-biomes/jungle/tiles/jungle_plains_03/jungle_plains_03.tile
-biomes/jungle/tiles/jungle_plains_04/jungle_plains_04.tile
-biomes/jungle/tiles/jungle_starting_01/jungle_starting_01.tile
-biomes/jungle/tiles/jungle_trees_01/jungle_trees_01.tile
-biomes/magma/tiles/magma_canyons_01/magma_canyons_01.tile
-biomes/magma/tiles/magma_canyons_02/magma_canyons_02.tile
-biomes/magma/tiles/magma_canyons_03/magma_canyons_03.tile
-biomes/magma/tiles/magma_lakes_01/magma_lakes_01.tile
-biomes/magma/tiles/magma_plains_01/magma_plains_01.tile
-biomes/magma/tiles/magma_plains_02/magma_plains_02.tile
-biomes/magma/tiles/magma_plains_03/magma_plains_03.tile
-biomes/metallic/tiles/metallic_canyons_01/metallic_canyons_01.tile
-biomes/metallic/tiles/metallic_canyons_02/metallic_canyons_02.tile
-biomes/metallic/tiles/metallic_canyons_03/metallic_canyons_03.tile
-biomes/metallic/tiles/metallic_canyons_04/metallic_canyons_04.tile
-biomes/metallic/tiles/metallic_lakes_01/metallic_lakes_01.tile
-biomes/metallic/tiles/metallic_lakes_02/metallic_lakes_02.tile
-biomes/metallic/tiles/metallic_plains_01/metallic_plains_01.tile
-biomes/metallic/tiles/metallic_plains_02/metallic_plains_02.tile
-biomes/metallic/tiles/metallic_plains_03/metallic_plains_03.tile
-biomes/metallic/tiles/metallic_plains_04/metallic_plains_04.tile
-biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
-
-}
+	}
 
 	tile_spawn_rules
 	{		
+	
+		//biomes/lilly/tiles/resources/acid_lakes_03/acid_lakes_03.tile
 		//biomes/lilly/tiles/resources/jungle_canyons_03/jungle_canyons_03.tile
 		//{
 		//	min_instances	4
@@ -619,11 +573,11 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 			spawn_min_distance_from_pools
 			{
 				player_spawn_point  50.0
-				loot_containers	 40.0
+				loot_containers	 30.0
 			}
 
 			// range of spawned blueprints by this pool <min,max>, max can be 0 for unbounded upper limit
-			spawn_instances_minmax	15,200
+			spawn_instances_minmax	40,600
 
 			spawn_blueprints
 			{
@@ -770,50 +724,50 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 
 			// range of spawned blueprints by this pool <min,max>, max can be 0 for unbounded upper limit
 			spawn_instances_minmax	0,0
-			spawn_density	0.25
+			spawn_density	0.5
 
 			spawn_blueprints
 			{
 				props/special/cryo_plant/cryo_plant_big_01
 				{
 					// make a roll to check if blueprint can be spawned
-					spawn_chance		   0.1
+					spawn_chance		   0.2
 				}
 				props/special/cryo_plant/cryo_plant_big_02
 				{
 					// make a roll to check if blueprint can be spawned
-					spawn_chance		   0.1
+					spawn_chance		   0.2
 				}
 				props/special/cryo_plant/cryo_plant_big_03
 				{
 					// make a roll to check if blueprint can be spawned
-					spawn_chance		   0.1
+					spawn_chance		   0.2
 				}
 
 				props/special/cryo_plant/cryo_plant_medium_01
 				{					
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				}
 				props/special/cryo_plant/cryo_plant_medium_02
 				{					
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				}
 				props/special/cryo_plant/cryo_plant_medium_03
 				{					
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				}
 				
 				props/special/cryo_plant/cryo_plant_small_01
 				{					
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				}
 				props/special/cryo_plant/cryo_plant_small_01
 				{					
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				} 
 				props/special/cryo_plant/cryo_plant_small_01
 				{					
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				} 				
 				
 			}
@@ -838,22 +792,22 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 
 			// range of spawned blueprints by this pool <min,max>, max can be 0 for unbounded upper limit
 			spawn_instances_minmax	0,0
-			spawn_density	0.175
+			spawn_density	0.25
 
 			spawn_blueprints
 			{
 				props/special/magnetic_rocks/magnetic_big_01
 				{
 					// make a roll to check if blueprint can be spawned
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				}
 				props/special/magnetic_rocks/magnetic_big_02
 				{					
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				}
 				props/special/magnetic_rocks/magnetic_big_03
 				{					
-					spawn_chance		   0.15
+					spawn_chance		   0.1
 				}
 
 				props/special/magnetic_rocks/magnetic_medium_01
@@ -871,15 +825,15 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 				
 				props/special/magnetic_rocks/magnetic_small_01
 				{					
-					spawn_chance		   0.1
+					spawn_chance		   0.15
 				}
 				props/special/magnetic_rocks/magnetic_small_02
 				{					
-					spawn_chance		   0.1
+					spawn_chance		   0.15
 				}  
 				props/special/magnetic_rocks/magnetic_small_03
 				{					
-					spawn_chance		   0.1
+					spawn_chance		   0.15
 				}  
 			}
 		}
@@ -1062,212 +1016,173 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 		{
 			resource		"carbon_vein"
 
-			min_resources   "7500"
-			max_resources   "20000"
+            min_resources   "30000"
+            max_resources   "80000"
 
-			min_spawned_volumes "20"
-			max_spawned_volumes "30"
+			min_spawned_volumes "40"
+			max_spawned_volumes "60"
 		}
 		
 		ResourceVolume
 		{
 			resource		"carbon_vein"
 			
-			required_discovery_lvl	"1"
+			//required_discovery_lvl	"1"
 			
-			min_resources   "10000"
-			max_resources   "25000"
+			min_resources   "28000"
+			max_resources   "72000"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
+			min_spawned_volumes "8"
+			max_spawned_volumes "16"
 		}		
 
 		ResourceVolume
 		{
 			resource		"iron_vein"
 
+            min_resources   "32000"
+            max_resources   "60000"
+
+			min_spawned_volumes "20"
+			max_spawned_volumes "60"
+		}
+		
+		ResourceVolume
+		{
+			resource		"iron_vein"
+			
+			//required_discovery_lvl	"1"
+			
+            min_resources   "40000"
+            max_resources   "80000"
+
+			min_spawned_volumes "8"
+			max_spawned_volumes "16"
+		}		
+		
+		ResourceVolume
+		{
+			resource		"geothermal_vent"
+
+			min_resources   "6000"
+			max_resources   "10000"
+
+			min_spawned_volumes "12"
+			max_spawned_volumes "24"
+			
+			is_infinite		"1"			
+		}	
+		
+		ResourceVolume
+		{
+			resource		"geothermal_vent"
+			
+			//required_discovery_lvl	"1"
+			
+			min_resources   "6000"
+			max_resources   "10000"
+
+			min_spawned_volumes "12"
+			max_spawned_volumes "24"
+			
+			is_infinite		"1"			
+		}		
+
+		ResourceVolume
+		{
+			resource		"uranium_ore_vein"
+			
+			min_resources   "6000"
+			max_resources   "16000"
+
+			min_spawned_volumes "8"
+			max_spawned_volumes "16"
+		}	
+
+		ResourceVolume
+		{
+			resource		"uranium_ore_vein"
+			
+			//required_discovery_lvl	"1"
+			
 			min_resources   "8000"
-			max_resources   "15000"
+			max_resources   "16000"
 
-			min_spawned_volumes "10"
-			max_spawned_volumes "30"
-		}
-		
-		ResourceVolume
-		{
-			resource		"iron_vein"
-			
-			required_discovery_lvl	"1"
-			
-			min_resources   "10000"
-			max_resources   "20000"
-
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
-		}		
-		
-		ResourceVolume
-		{
-			resource		"geothermal_vent"
-
-			min_resources   "6000"
-			max_resources   "10000"
-
-			min_spawned_volumes "6"
-			max_spawned_volumes "12"
-			
-			is_infinite		"1"			
-		}	
-		
-		ResourceVolume
-		{
-			resource		"geothermal_vent"
-			
-			required_discovery_lvl	"1"
-			
-			min_resources   "6000"
-			max_resources   "10000"
-
-			min_spawned_volumes "3"
-			max_spawned_volumes "6"
-			
-			is_infinite		"1"			
-		}		
-
-		ResourceVolume
-		{
-			resource		"uranium_ore_vein"
-			
-			min_resources   "1500"
-			max_resources   "4000"
-
-			min_spawned_volumes "4"
-			max_spawned_volumes "8"
-		}	
-
-		ResourceVolume
-		{
-			resource		"uranium_ore_vein"
-			
-			required_discovery_lvl	"1"
-			
-			min_resources   "2000"
-			max_resources   "4000"
-
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
+			min_spawned_volumes "8"
+			max_spawned_volumes "16"
 		}	
 		
 		ResourceVolume
 		{
 			resource		"titanium_vein"
 			
-			min_resources   "1500"
-			max_resources   "4000"
+			min_resources   "6000"
+			max_resources   "16000"
 
-			min_spawned_volumes "4"
-			max_spawned_volumes "8"
+			min_spawned_volumes "8"
+			max_spawned_volumes "16"
 		}	
 
 		ResourceVolume
 		{
 			resource		"titanium_vein"
 			
-			required_discovery_lvl	"1"
+			//required_discovery_lvl	"1"
 			
-			min_resources   "2000"
-			max_resources   "4000"
+			min_resources   "8000"
+			max_resources   "16000"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
+			min_spawned_volumes "8"
+			max_spawned_volumes "16"
 		}	
 		
 		ResourceVolume
 		{
 			resource		"palladium_vein"
 			
-			min_resources   "1500"
-			max_resources   "4000"
+			min_resources   "6000"
+			max_resources   "16000"
 
-			min_spawned_volumes "4"
-			max_spawned_volumes "8"
+			min_spawned_volumes "8"
+			max_spawned_volumes "16"
 		}	
 
 		ResourceVolume
 		{
 			resource		"palladium_vein"
 			
-			required_discovery_lvl	"1"
+			//required_discovery_lvl	"1"
 			
-			min_resources   "2000"
-			max_resources   "4000"
+			min_resources   "8000"
+			max_resources   "16000"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
+			min_spawned_volumes "8"
+			max_spawned_volumes "16"
 		}	
 		
 		ResourceVolume
 		{
 			resource		"cobalt_vein"
 			
-			min_resources   "2500"
-			max_resources   "6000"
+            min_resources   "10000"
+            max_resources   "24000"
 
-			min_spawned_volumes "4"
-			max_spawned_volumes "8"
-		}	
+            min_spawned_volumes "8"
+            max_spawned_volumes "24"
+        }	
 
 		ResourceVolume
 		{
 			resource		"cobalt_vein"
 			
-			required_discovery_lvl	"1"
+			//required_discovery_lvl	"1"
 			
-			min_resources   "4000"
-			max_resources   "8000"
+            min_resources   "16000"
+            max_resources   "32000"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
-		}	
-		
-		ResourceVolume
-		{
-			resource		"water_vein"
-
-			min_resources   "500"
-			max_resources   "500"
-
-			is_infinite	  "1"
-
-			min_spawned_volumes "2"			
-			max_spawned_volumes "4"			
-		}
-		
-		ResourceVolume
-		{
-			resource		"sludge_vein"
-
-			min_resources   "500"
-			max_resources   "500"
-
-			is_infinite	  "1"
-
-			min_spawned_volumes "2"			
-			max_spawned_volumes "4"			
-		}
-		
-		ResourceVolume
-		{
-			resource		"mud_vein"
-
-			min_resources   "500"
-			max_resources   "500"
-
-			is_infinite	  "1"
-
-			min_spawned_volumes "2"			
-			max_spawned_volumes "4"			
-		}
+            min_spawned_volumes "16"
+            max_spawned_volumes "24"
+        }	
 		
 		ResourceVolume
 		{
@@ -1278,9 +1193,66 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 
 			is_infinite	  "1"
 
-			min_spawned_volumes "2"			
-			max_spawned_volumes "4"			
+			min_spawned_volumes "8"			
+			max_spawned_volumes "16"			
 		}
+		
+		
+		ResourceVolume
+		{
+			resource		"sludge_vein"
+
+			min_resources   "500"
+			max_resources   "500"
+
+			is_infinite	  "1"
+
+			min_spawned_volumes "8"			
+			max_spawned_volumes "16"			
+		}		
+		
+		
+		ResourceVolume
+		{
+			resource		"magma_vein"
+
+			min_resources   "500"
+			max_resources   "500"
+
+			is_infinite	  "1"
+
+			min_spawned_volumes "8"			
+			max_spawned_volumes "16"			
+		}		
+		
+		
+		ResourceVolume
+		{
+			resource		"mud_vein"
+
+			min_resources   "500"
+			max_resources   "500"
+
+			is_infinite	  "1"
+
+			min_spawned_volumes "8"			
+			max_spawned_volumes "16"			
+		}		
+		
+		ResourceVolume
+		{
+			resource		"water_vein"
+
+			min_resources   "500"
+			max_resources   "500"
+
+			is_infinite	  "1"
+
+			min_spawned_volumes "8"			
+			max_spawned_volumes "16"			
+		}		
+		
+		
 	}
 
 	min_starting_distance "0.0"
@@ -1292,26 +1264,26 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 		{
 			resource		"carbon_vein"
 
-			min_resources   "12000"
-			max_resources   "18000"
+			min_resources   "96000"
+			max_resources   "140000"
 		
-	//	is_infinite	 "1"
+		//is_infinite	 "1"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "2"
+			min_spawned_volumes "12"
+			max_spawned_volumes "16"
 		}
 
 		ResourceVolume
 		{
 			resource		"iron_vein"
 
-			min_resources   "12000"
-			max_resources   "18000"
+			min_resources   "48000"
+			max_resources   "100000"
 			
-	//	is_infinite	 "1"
+		//is_infinite	 "1"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "2"
+			min_spawned_volumes "12"
+			max_spawned_volumes "16"
 		}
 		
 		ResourceVolume
@@ -1323,8 +1295,8 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 			
 			is_infinite	 "1"
 			
-			min_spawned_volumes "1"
-			max_spawned_volumes "1"
+			min_spawned_volumes "8"
+			max_spawned_volumes "12"
 		}	
 		
 		//////////////
@@ -1333,52 +1305,52 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 		{
 			resource		"uranium_ore_vein"
 			
-			min_resources   "1500"
-			max_resources   "4000"
+			min_resources   "24000"
+			max_resources   "48000"
 
-	//	is_infinite	 "1"
+		//is_infinite	 "1"
 
-			min_spawned_volumes "1"
-			max_spawned_volumes "1"
+			min_spawned_volumes "4"
+			max_spawned_volumes "4"
 		}
 
 	ResourceVolume
 		{
 			resource		"titanium_vein"
 			
-			min_resources   "1500"
-			max_resources   "4000"
+			min_resources   "24000"
+			max_resources   "48000"
 		
-	//	is_infinite	 "1"
+		//is_infinite	 "1"
 
-			min_spawned_volumes "1"
-			max_spawned_volumes "1"
+			min_spawned_volumes "4"
+			max_spawned_volumes "4"
 		}
 
 	ResourceVolume
 		{
 			resource		"palladium_vein"
-			
-			min_resources   "1500"
-			max_resources   "4000"
 		
-	//	is_infinite	 "1"
+			min_resources   "24000"
+			max_resources   "48000"
+		
+		//is_infinite	 "1"
 
-			min_spawned_volumes "1"
-			max_spawned_volumes "1"
+			min_spawned_volumes "4"
+			max_spawned_volumes "4"
 		}
 	
 	ResourceVolume
 		{
 			resource		"cobalt_vein"
 			
-			min_resources   "1500"
-			max_resources   "4000"
+			min_resources   "24000"
+			max_resources   "48000"
 		
-	//	is_infinite	 "1"
+		//is_infinite	 "1"
 
-			min_spawned_volumes "1"
-			max_spawned_volumes "1"
+			min_spawned_volumes "4"
+			max_spawned_volumes "4"
 		}	
 		
 		ResourceVolume

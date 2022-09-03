@@ -1,14 +1,14 @@
 MissionDef
 {
 	script		  "lua/missions/survival/survival_lilly.lua"
-	localization_id	"campaigns/survival/lilly_all_tile.campaign"
+	localization_id	"campaigns/survival/lilly_all_tile_double_resources.campaign"
 	description		"lilly_all"
-	//script_database
-	//{	 
-	//	objective_tile		 string:"biomes/lilly/tiles/starting0/starting0.tile"
-	//	objective_min_distance float:"0.0"
-	//	objective_max_distance float:"1.0"
-	//}
+	script_database
+	{	 
+		objective_tile		 string:"biomes/lilly/tiles/starting0/starting0.tile"
+		objective_min_distance float:"0.0"
+		objective_max_distance float:"1.0"
+	}
 	
 	map_size		"5"
 
@@ -23,57 +23,105 @@ MissionDef
 source_tiles
 {
 
-//#tile-all
+biomes/lilly/tiles/circle0/circle0.tile
+biomes/lilly/tiles/circle4/circle4.tile
+biomes/lilly/tiles/circle5/circle5.tile
+biomes/lilly/tiles/circle6/circle6.tile
+biomes/lilly/tiles/circle7/circle7.tile
+biomes/lilly/tiles/circle8/circle8.tile
+biomes/lilly/tiles/grid/grid2.tile
+biomes/lilly/tiles/grid/grid2_L.tile
+biomes/lilly/tiles/grid/grid2_L_rock.tile
+biomes/lilly/tiles/grid/grid2_random.tile
+biomes/lilly/tiles/grid/grid2_random_rock.tile
+biomes/lilly/tiles/grid/grid2_rock.tile
+biomes/lilly/tiles/grid/grid_enemy.tile
+biomes/lilly/tiles/grid/grid_liquid.tile
+biomes/lilly/tiles/grid/grid_liquid_resources.tile
+biomes/lilly/tiles/grid/grid_liquid_resources2.tile
+biomes/lilly/tiles/grid/grid_liquid_Square.tile
+biomes/lilly/tiles/grid/grid_random.tile
+biomes/lilly/tiles/grid/grid_resources.tile
+biomes/lilly/tiles/lilly/lilly.tile
+biomes/lilly/tiles/lilly0/lilly0.tile
+biomes/lilly/tiles/lilly0/lilly00.tile
+biomes/lilly/tiles/lilly0/lilly01.tile
+biomes/lilly/tiles/lilly0/lilly02.tile
+biomes/lilly/tiles/lilly0/lilly021.tile
+biomes/lilly/tiles/lilly0/lilly022.tile
+biomes/lilly/tiles/lilly0/lilly03.tile
+biomes/lilly/tiles/lilly0/lilly04.tile
+biomes/lilly/tiles/lilly0/lilly05.tile
+biomes/lilly/tiles/lilly0/lilly06.tile
+biomes/lilly/tiles/lilly0/lilly07.tile
+biomes/lilly/tiles/lilly0/lilly08.tile
+biomes/lilly/tiles/lilly0/lilly09.tile
+biomes/lilly/tiles/lilly1/lilly1.tile
+biomes/lilly/tiles/lilly1/lilly10.tile
+biomes/lilly/tiles/lilly2/lilly2.tile
+biomes/lilly/tiles/lilly3/lilly3.tile
+biomes/lilly/tiles/lilly3/lilly31.tile
+biomes/lilly/tiles/lilly4/lilly4.tile
+biomes/lilly/tiles/lilly4/lilly41.tile
+biomes/lilly/tiles/lilly5/lilly5.tile
+biomes/lilly/tiles/lilly5/lilly50.tile
+biomes/lilly/tiles/lilly6/lilly6.tile
+biomes/lilly/tiles/lilly6/lilly60.tile
+biomes/lilly/tiles/lilly7/lilly7.tile
+biomes/lilly/tiles/lilly7/lilly71.tile
+biomes/lilly/tiles/lilly8/lilly8.tile
+biomes/lilly/tiles/lilly9/lilly9.tile
+biomes/lilly/tiles/lilly9/lilly91.tile
+biomes/lilly/tiles/lillya/lillya.tile
+biomes/lilly/tiles/lillya/lillya1.tile
+biomes/lilly/tiles/lillyb/lillyb.tile
+biomes/lilly/tiles/lillyb/lillyb1.tile
+biomes/lilly/tiles/lillyc/lillyc.tile
+biomes/lilly/tiles/lillyd/lillyd.tile
+biomes/lilly/tiles/lillye/lillye.tile
+biomes/lilly/tiles/lillyf/lillyf.tile
+biomes/lilly/tiles/lillyg/lillyg.tile
+biomes/lilly/tiles/lillyh/lillyh.tile
+biomes/lilly/tiles/lillyi/lillyi.tile
+biomes/lilly/tiles/lillyj/lillyj.tile
+biomes/lilly/tiles/lillyk/lillyk.tile
+biomes/lilly/tiles/lillyl/lillyl.tile
+biomes/lilly/tiles/lillym/lillym.tile
+biomes/lilly/tiles/lillyn/lillyn.tile
+biomes/lilly/tiles/lillyn/lillyn1.tile
+biomes/lilly/tiles/lillyo/lillyo.tile
+biomes/lilly/tiles/lillyp/lillyp.tile
+biomes/lilly/tiles/lillyq/lillyq.tile
+biomes/lilly/tiles/lillyr/lillyr.tile
+biomes/lilly/tiles/lillys/lillys.tile
+biomes/lilly/tiles/lillyt/lillyt.tile
+biomes/lilly/tiles/lillyt/lillyt1.tile
+biomes/lilly/tiles/lillyt/lillyt2.tile
+biomes/lilly/tiles/lillyu/lillyu.tile
+biomes/lilly/tiles/lillyv/lillyv.tile
+biomes/lilly/tiles/lillyw/lillyw.tile
+biomes/lilly/tiles/lillyx/lillyx.tile
+biomes/lilly/tiles/lillyx/lillyx1.tile
+biomes/lilly/tiles/lillyz/lillyz.tile
+biomes/lilly/tiles/liquid/liquid_cross.tile
+biomes/lilly/tiles/liquid/liquid_cross2.tile
+biomes/lilly/tiles/liquid/liquid_cross4.tile
+biomes/lilly/tiles/liquid/liquid_cross4_2.tile
+biomes/lilly/tiles/liquid/liquid_cross4_3.tile
+biomes/lilly/tiles/liquid/liquid_cross4_4.tile
+biomes/lilly/tiles/Square/Square.tile
+biomes/lilly/tiles/Square/Square0.tile
+biomes/lilly/tiles/Square/Square1.tile
+biomes/lilly/tiles/Square/Square2.tile
+biomes/lilly/tiles/Square/Square3.tile
+biomes/lilly/tiles/Square/Square4.tile
+biomes/lilly/tiles/Square/Square5.tile
+biomes/lilly/tiles/Square/Square7.tile
+biomes/lilly/tiles/Square/Square8.tile
+biomes/lilly/tiles/Square/Square9.tile
+biomes/lilly/tiles/starting0/starting0.tile
 
-biomes/acid/tiles/acid_lakes_01/acid_lakes_01.tile
-biomes/acid/tiles/acid_lakes_02/acid_lakes_02.tile
-biomes/acid/tiles/acid_lakes_03/acid_lakes_03.tile
-biomes/acid/tiles/acid_nest_01/acid_nest_01.tile
-biomes/acid/tiles/acid_plains_01/acid_plains_01.tile
-biomes/acid/tiles/acid_plains_02/acid_plains_02.tile
-biomes/acid/tiles/acid_plains_03/acid_plains_03.tile
-biomes/desert/tiles/desert_canyons_01/desert_canyons_01.tile
-biomes/desert/tiles/desert_canyons_02/desert_canyons_02.tile
-biomes/desert/tiles/desert_nest_01/desert_nest_01.tile
-biomes/desert/tiles/desert_plains_01/desert_plains_01.tile
-biomes/desert/tiles/desert_plains_02/desert_plains_02.tile
-biomes/desert/tiles/desert_plains_03/desert_plains_03.tile
-biomes/desert/tiles/desert_plains_04/desert_plains_04.tile
-biomes/desert/tiles/desert_starting_01/desert_starting_01.tile
-biomes/desert/tiles/desert_starting_02/desert_starting_02.tile
-biomes/jungle/tiles/jungle_canyons_01/jungle_canyons_01.tile
-biomes/jungle/tiles/jungle_canyons_02/jungle_canyons_02.tile
-biomes/jungle/tiles/jungle_canyons_03/jungle_canyons_03.tile
-biomes/jungle/tiles/jungle_lakes_01/jungle_lakes_01.tile
-biomes/jungle/tiles/jungle_nest_01/jungle_nest_01.tile
-biomes/jungle/tiles/jungle_nest_02/jungle_nest_02.tile
-biomes/jungle/tiles/jungle_nest_03/jungle_nest_03.tile
-biomes/jungle/tiles/jungle_plains_01/jungle_plains_01.tile
-biomes/jungle/tiles/jungle_plains_02/jungle_plains_02.tile
-biomes/jungle/tiles/jungle_plains_03/jungle_plains_03.tile
-biomes/jungle/tiles/jungle_plains_04/jungle_plains_04.tile
-biomes/jungle/tiles/jungle_starting_01/jungle_starting_01.tile
-biomes/jungle/tiles/jungle_trees_01/jungle_trees_01.tile
-biomes/magma/tiles/magma_canyons_01/magma_canyons_01.tile
-biomes/magma/tiles/magma_canyons_02/magma_canyons_02.tile
-biomes/magma/tiles/magma_canyons_03/magma_canyons_03.tile
-biomes/magma/tiles/magma_lakes_01/magma_lakes_01.tile
-biomes/magma/tiles/magma_plains_01/magma_plains_01.tile
-biomes/magma/tiles/magma_plains_02/magma_plains_02.tile
-biomes/magma/tiles/magma_plains_03/magma_plains_03.tile
-biomes/metallic/tiles/metallic_canyons_01/metallic_canyons_01.tile
-biomes/metallic/tiles/metallic_canyons_02/metallic_canyons_02.tile
-biomes/metallic/tiles/metallic_canyons_03/metallic_canyons_03.tile
-biomes/metallic/tiles/metallic_canyons_04/metallic_canyons_04.tile
-biomes/metallic/tiles/metallic_lakes_01/metallic_lakes_01.tile
-biomes/metallic/tiles/metallic_lakes_02/metallic_lakes_02.tile
-biomes/metallic/tiles/metallic_plains_01/metallic_plains_01.tile
-biomes/metallic/tiles/metallic_plains_02/metallic_plains_02.tile
-biomes/metallic/tiles/metallic_plains_03/metallic_plains_03.tile
-biomes/metallic/tiles/metallic_plains_04/metallic_plains_04.tile
-biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
-
-}
+	}
 
 	tile_spawn_rules
 	{		
@@ -764,7 +812,7 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 			{
 				player_spawn_point  20.0
 				//loot_containers  	45.0
-				//#cryo_plants
+				loot_containers	20.0
 				magnetic_rocks		10.0
 			}
 
@@ -832,7 +880,7 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 			{
 				player_spawn_point  100.0
 				//loot_containers  	45.0
-				//#magnetic_rocks
+				loot_containers	20.0
 				cryo_plants	 10.0
 			}
 
@@ -1062,11 +1110,11 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 		{
 			resource		"carbon_vein"
 
-			min_resources   "7500"
-			max_resources   "20000"
+			min_resources   "15000"
+			max_resources   "40000"
 
-			min_spawned_volumes "20"
-			max_spawned_volumes "30"
+			min_spawned_volumes "40"
+			max_spawned_volumes "60"
 		}
 		
 		ResourceVolume
@@ -1075,22 +1123,22 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 			
 			required_discovery_lvl	"1"
 			
-			min_resources   "10000"
-			max_resources   "25000"
+			min_resources   "20000"
+			max_resources   "50000"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
+			min_spawned_volumes "4"
+			max_spawned_volumes "8"
 		}		
 
 		ResourceVolume
 		{
 			resource		"iron_vein"
 
-			min_resources   "8000"
-			max_resources   "15000"
+			min_resources   "16000"
+			max_resources   "30000"
 
-			min_spawned_volumes "10"
-			max_spawned_volumes "30"
+			min_spawned_volumes "20"
+			max_spawned_volumes "60"
 		}
 		
 		ResourceVolume
@@ -1099,135 +1147,135 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 			
 			required_discovery_lvl	"1"
 			
-			min_resources   "10000"
-			max_resources   "20000"
+			min_resources   "20000"
+			max_resources   "40000"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
+			min_spawned_volumes "4"
+			max_spawned_volumes "8"
 		}		
 		
 		ResourceVolume
 		{
 			resource		"geothermal_vent"
 
-			min_resources   "6000"
-			max_resources   "10000"
+			min_resources   "12000"
+			max_resources   "20000"
+
+			min_spawned_volumes "12"
+			max_spawned_volumes "24"
+			
+			is_infinite		"1"			
+		}	
+		
+		ResourceVolume
+		{
+			resource		"geothermal_vent"
+			
+			required_discovery_lvl	"1"
+			
+			min_resources   "12000"
+			max_resources   "20000"
 
 			min_spawned_volumes "6"
 			max_spawned_volumes "12"
 			
 			is_infinite		"1"			
-		}	
-		
-		ResourceVolume
-		{
-			resource		"geothermal_vent"
-			
-			required_discovery_lvl	"1"
-			
-			min_resources   "6000"
-			max_resources   "10000"
-
-			min_spawned_volumes "3"
-			max_spawned_volumes "6"
-			
-			is_infinite		"1"			
 		}		
 
 		ResourceVolume
 		{
 			resource		"uranium_ore_vein"
 			
-			min_resources   "1500"
-			max_resources   "4000"
+			min_resources   "3000"
+			max_resources   "8000"
 
-			min_spawned_volumes "4"
-			max_spawned_volumes "8"
+			min_spawned_volumes "8"
+			max_spawned_volumes "16"
 		}	
 
 		ResourceVolume
 		{
 			resource		"uranium_ore_vein"
-			
-			required_discovery_lvl	"1"
-			
-			min_resources   "2000"
-			max_resources   "4000"
-
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
-		}	
-		
-		ResourceVolume
-		{
-			resource		"titanium_vein"
-			
-			min_resources   "1500"
-			max_resources   "4000"
-
-			min_spawned_volumes "4"
-			max_spawned_volumes "8"
-		}	
-
-		ResourceVolume
-		{
-			resource		"titanium_vein"
-			
-			required_discovery_lvl	"1"
-			
-			min_resources   "2000"
-			max_resources   "4000"
-
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
-		}	
-		
-		ResourceVolume
-		{
-			resource		"palladium_vein"
-			
-			min_resources   "1500"
-			max_resources   "4000"
-
-			min_spawned_volumes "4"
-			max_spawned_volumes "8"
-		}	
-
-		ResourceVolume
-		{
-			resource		"palladium_vein"
-			
-			required_discovery_lvl	"1"
-			
-			min_resources   "2000"
-			max_resources   "4000"
-
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
-		}	
-		
-		ResourceVolume
-		{
-			resource		"cobalt_vein"
-			
-			min_resources   "2500"
-			max_resources   "6000"
-
-			min_spawned_volumes "4"
-			max_spawned_volumes "8"
-		}	
-
-		ResourceVolume
-		{
-			resource		"cobalt_vein"
 			
 			required_discovery_lvl	"1"
 			
 			min_resources   "4000"
 			max_resources   "8000"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "4"
+			min_spawned_volumes "4"
+			max_spawned_volumes "8"
+		}	
+		
+		ResourceVolume
+		{
+			resource		"titanium_vein"
+			
+			min_resources   "3000"
+			max_resources   "8000"
+
+			min_spawned_volumes "8"
+			max_spawned_volumes "16"
+		}	
+
+		ResourceVolume
+		{
+			resource		"titanium_vein"
+			
+			required_discovery_lvl	"1"
+			
+			min_resources   "4000"
+			max_resources   "8000"
+
+			min_spawned_volumes "4"
+			max_spawned_volumes "8"
+		}	
+		
+		ResourceVolume
+		{
+			resource		"palladium_vein"
+			
+			min_resources   "3000"
+			max_resources   "8000"
+
+			min_spawned_volumes "8"
+			max_spawned_volumes "16"
+		}	
+
+		ResourceVolume
+		{
+			resource		"palladium_vein"
+			
+			required_discovery_lvl	"1"
+			
+			min_resources   "4000"
+			max_resources   "8000"
+
+			min_spawned_volumes "4"
+			max_spawned_volumes "8"
+		}	
+		
+		ResourceVolume
+		{
+			resource		"cobalt_vein"
+			
+			min_resources   "5000"
+			max_resources   "12000"
+
+			min_spawned_volumes "8"
+			max_spawned_volumes "16"
+		}	
+
+		ResourceVolume
+		{
+			resource		"cobalt_vein"
+			
+			required_discovery_lvl	"1"
+			
+			min_resources   "8000"
+			max_resources   "16000"
+
+			min_spawned_volumes "4"
+			max_spawned_volumes "8"
 		}	
 		
 		ResourceVolume
@@ -1292,26 +1340,26 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 		{
 			resource		"carbon_vein"
 
-			min_resources   "12000"
-			max_resources   "18000"
+			min_resources   "24000"
+			max_resources   "36000"
 		
 	//	is_infinite	 "1"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "2"
+			min_spawned_volumes "4"
+			max_spawned_volumes "4"
 		}
 
 		ResourceVolume
 		{
 			resource		"iron_vein"
 
-			min_resources   "12000"
-			max_resources   "18000"
-			
+			min_resources   "24000"
+			max_resources   "36000"
+		
 	//	is_infinite	 "1"
 
-			min_spawned_volumes "2"
-			max_spawned_volumes "2"
+			min_spawned_volumes "4"
+			max_spawned_volumes "4"
 		}
 		
 		ResourceVolume
@@ -1323,8 +1371,8 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 			
 			is_infinite	 "1"
 			
-			min_spawned_volumes "1"
-			max_spawned_volumes "1"
+			min_spawned_volumes "2"
+			max_spawned_volumes "2"
 		}	
 		
 		//////////////
@@ -1333,52 +1381,52 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 		{
 			resource		"uranium_ore_vein"
 			
-			min_resources   "1500"
-			max_resources   "4000"
+			min_resources   "3000"
+			max_resources   "8000"
 
 	//	is_infinite	 "1"
 
-			min_spawned_volumes "1"
-			max_spawned_volumes "1"
+			min_spawned_volumes "2"
+			max_spawned_volumes "2"
 		}
 
 	ResourceVolume
 		{
 			resource		"titanium_vein"
 			
-			min_resources   "1500"
-			max_resources   "4000"
-		
+			min_resources   "3000"
+			max_resources   "8000"
+
 	//	is_infinite	 "1"
 
-			min_spawned_volumes "1"
-			max_spawned_volumes "1"
+			min_spawned_volumes "2"
+			max_spawned_volumes "2"
 		}
 
 	ResourceVolume
 		{
 			resource		"palladium_vein"
 			
-			min_resources   "1500"
-			max_resources   "4000"
-		
+			min_resources   "3000"
+			max_resources   "8000"
+
 	//	is_infinite	 "1"
 
-			min_spawned_volumes "1"
-			max_spawned_volumes "1"
+			min_spawned_volumes "2"
+			max_spawned_volumes "2"
 		}
 	
 	ResourceVolume
 		{
 			resource		"cobalt_vein"
 			
-			min_resources   "1500"
-			max_resources   "4000"
-		
+			min_resources   "3000"
+			max_resources   "8000"
+
 	//	is_infinite	 "1"
 
-			min_spawned_volumes "1"
-			max_spawned_volumes "1"
+			min_spawned_volumes "2"
+			max_spawned_volumes "2"
 		}	
 		
 		ResourceVolume
