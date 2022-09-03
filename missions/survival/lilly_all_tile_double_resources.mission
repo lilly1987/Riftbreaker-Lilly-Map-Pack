@@ -145,6 +145,12 @@ biomes/jungle/tiles/jungle_starting_01/jungle_starting_01_resources.tile
 biomes/jungle/tiles/jungle_starting_01/jungle_starting_01_resources2.tile
 biomes/jungle/tiles/jungle_starting_01/jungle_starting_01_resources3.tile
 biomes/jungle/tiles/jungle_trees_01/jungle_trees_01_resources3.tile
+biomes/lilly/tiles/circle0/circle0.tile
+biomes/lilly/tiles/circle4/circle4.tile
+biomes/lilly/tiles/circle5/circle5.tile
+biomes/lilly/tiles/circle6/circle6.tile
+biomes/lilly/tiles/circle7/circle7.tile
+biomes/lilly/tiles/circle8/circle8.tile
 biomes/lilly/tiles/grid/grid2.tile
 biomes/lilly/tiles/grid/grid2_L.tile
 biomes/lilly/tiles/grid/grid2_L_rock.tile
@@ -198,6 +204,7 @@ biomes/lilly/tiles/lillye/lillye.tile
 biomes/lilly/tiles/lillyf/lillyf.tile
 biomes/lilly/tiles/lillyg/lillyg.tile
 biomes/lilly/tiles/lillyh/lillyh.tile
+biomes/lilly/tiles/lillyi/lillyi.tile
 biomes/lilly/tiles/lillyj/lillyj.tile
 biomes/lilly/tiles/lillyk/lillyk.tile
 biomes/lilly/tiles/lillyl/lillyl.tile
@@ -214,6 +221,7 @@ biomes/lilly/tiles/lillyt/lillyt1.tile
 biomes/lilly/tiles/lillyt/lillyt2.tile
 biomes/lilly/tiles/lillyu/lillyu.tile
 biomes/lilly/tiles/lillyv/lillyv.tile
+biomes/lilly/tiles/lillyw/lillyw.tile
 biomes/lilly/tiles/lillyx/lillyx.tile
 biomes/lilly/tiles/lillyx/lillyx1.tile
 biomes/lilly/tiles/lillyz/lillyz.tile

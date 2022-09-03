@@ -5,8 +5,8 @@ EntityBlueprint
 
 	SceneEditorDesc
     {
-        mesh        "meshes/volume.mesh"
-        material    "resources/resource_geothermal_vent"
+		material "props/rocks/cliff/cliff_medium_01"
+		mesh "meshes/props/rocks/cliff/cliff_medium_01.mesh"
 
         initial_scale
         {

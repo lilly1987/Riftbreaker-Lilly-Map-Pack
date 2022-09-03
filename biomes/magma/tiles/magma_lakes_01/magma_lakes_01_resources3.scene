@@ -1,4 +1,4 @@
-entity_count "383"
+entity_count "379"
 //editor "index(1)"
 EntityTemplate
 {
@@ -150,7 +150,7 @@ EntityTemplate
 //editor "index(4)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_liquid"
+	base_blueprint "resources/volume_resource_magma"
 	components
 	{
 		BlueprintDesc
@@ -164,16 +164,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-0.500"
-					y "-0.500"
-					z "-0.500"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "0.500"
-					y "0.500"
-					z "0.500"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -2400,7 +2400,7 @@ EntityTemplate
 //editor "index(48)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_liquid"
+	base_blueprint "resources/volume_resource_magma"
 	components
 	{
 		BlueprintDesc
@@ -2414,16 +2414,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-0.500"
-					y "-0.500"
-					z "-0.500"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "0.500"
-					y "0.500"
-					z "0.500"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -6326,7 +6326,7 @@ EntityTemplate
 //editor "index(124)"
 EntityTemplate
 {
-	base_blueprint "resources/volume_random_resources_liquid"
+	base_blueprint "resources/volume_resource_magma"
 	components
 	{
 		BlueprintDesc
@@ -6340,16 +6340,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-0.500"
-					y "-0.500"
-					z "-0.500"
+					x "-0.510"
+					y "-0.510"
+					z "-0.510"
 				}
 
 				max
 				{
-					x "0.500"
-					y "0.500"
-					z "0.500"
+					x "0.510"
+					y "0.510"
+					z "0.510"
 				}
 
 			}
@@ -12594,9 +12594,6 @@ EntityTemplate
 
 }
 
-
-
-
 //editor "index(243)"
 EntityTemplate
 {
@@ -12738,7 +12735,6 @@ EntityTemplate
 
 }
 
-
 //editor "index(246)"
 EntityTemplate
 {
@@ -12756,16 +12752,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -12809,16 +12805,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -12868,16 +12864,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -12926,16 +12922,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -12985,16 +12981,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -13044,16 +13040,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -13103,16 +13099,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -13162,16 +13158,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -13204,8 +13200,6 @@ EntityTemplate
 
 }
 
-
-
 //editor "index(254)"
 EntityTemplate
 {
@@ -13223,16 +13217,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -13282,16 +13276,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -13341,16 +13335,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -13968,16 +13962,16 @@ EntityTemplate
 			{
 				min
 				{
-					x "-3.000"
-					y "-3.000"
-					z "-3.000"
+					x "-1.804"
+					y "-1.804"
+					z "-1.804"
 				}
 
 				max
 				{
-					x "3.000"
-					y "3.000"
-					z "3.000"
+					x "1.804"
+					y "1.804"
+					z "1.804"
 				}
 
 			}
@@ -18458,7 +18452,6 @@ EntityTemplate
 
 }
 
-
 //editor "index(359)"
 EntityTemplate
 {
@@ -18493,20 +18486,9 @@ EntityTemplate
 		}
 
 		TransformComponent
-		{
-			position
-			{
-				x "0.000"
-				z "0.000"
-			}
-
-		}
-
 	}
 
 }
-
-///
 
 //editor "index(360)"
 EntityTemplate
@@ -18545,15 +18527,14 @@ EntityTemplate
 		{
 			position
 			{
-				x "26"
-				z "0"
+				x "26.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -18561,6 +18542,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(361)"
 EntityTemplate
 {
@@ -18598,15 +18580,14 @@ EntityTemplate
 		{
 			position
 			{
-				x "-26"
-				z "0"
+				x "-26.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -18614,59 +18595,7 @@ EntityTemplate
 	}
 
 }
-//editor "index(362)"
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
 
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
-			position
-			{
-				x "0"
-				z "26"
-			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
 //editor "index(363)"
 EntityTemplate
 {
@@ -18704,15 +18633,14 @@ EntityTemplate
 		{
 			position
 			{
-				x "0"
-				z "-26"
+				z "-26.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -18720,112 +18648,7 @@ EntityTemplate
 	}
 
 }
-//editor "index(364)"
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
 
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
-			position
-			{
-				x "26"
-				z "26"
-			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
-//editor "index(365)"
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
-
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
-			position
-			{
-				x "-26"
-				z "-26"
-			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
 //editor "index(366)"
 EntityTemplate
 {
@@ -18863,15 +18686,15 @@ EntityTemplate
 		{
 			position
 			{
-				x "26"
-				z "-26"
+				x "26.000"
+				z "-26.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -18879,59 +18702,7 @@ EntityTemplate
 	}
 
 }
-//editor "index(367)"
-EntityTemplate
-{
-	base_blueprint "resources/volume_random_resources"
-	components
-	{
-		BlueprintDesc
-		{
-			blueprint "resources/volume_random_resources"
-		}
 
-		LocalAabbDesc
-		{
-			local_aabb
-			{
-				min
-				{
-					x "-0.510"
-					y "-0.510"
-					z "-0.510"
-				}
-
-				max
-				{
-					x "0.510"
-					y "0.510"
-					z "0.510"
-				}
-
-			}
-
-		}
-
-		TransformComponent
-		{
-			position
-			{
-				x "-26"
-				z "26"
-			}
-
-			scale
-			{
-				x "22.00"
-				y "3.000"
-				z "22.00"
-			}
-
-		}
-
-	}
-
-}
 //editor "index(368)"
 EntityTemplate
 {
@@ -18969,15 +18740,14 @@ EntityTemplate
 		{
 			position
 			{
-				x "52"
-				z "0"
+				x "52.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -18985,6 +18755,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(369)"
 EntityTemplate
 {
@@ -19022,15 +18793,14 @@ EntityTemplate
 		{
 			position
 			{
-				x "-52"
-				z "0"
+				x "-52.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -19038,6 +18808,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(370)"
 EntityTemplate
 {
@@ -19075,15 +18846,14 @@ EntityTemplate
 		{
 			position
 			{
-				x "0"
-				z "52"
+				z "52.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -19091,6 +18861,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(371)"
 EntityTemplate
 {
@@ -19128,15 +18899,14 @@ EntityTemplate
 		{
 			position
 			{
-				x "0"
-				z "-52"
+				z "-52.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -19144,6 +18914,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(372)"
 EntityTemplate
 {
@@ -19181,15 +18952,15 @@ EntityTemplate
 		{
 			position
 			{
-				x "52"
-				z "26"
+				x "52.000"
+				z "26.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -19197,6 +18968,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(373)"
 EntityTemplate
 {
@@ -19234,15 +19006,15 @@ EntityTemplate
 		{
 			position
 			{
-				x "-52"
-				z "-26"
+				x "-52.000"
+				z "-26.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -19250,6 +19022,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(374)"
 EntityTemplate
 {
@@ -19287,15 +19060,15 @@ EntityTemplate
 		{
 			position
 			{
-				x "-52"
-				z "26"
+				x "-52.000"
+				z "26.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -19303,6 +19076,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(375)"
 EntityTemplate
 {
@@ -19340,15 +19114,15 @@ EntityTemplate
 		{
 			position
 			{
-				x "52"
-				z "-26"
+				x "52.000"
+				z "-26.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -19356,6 +19130,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(376)"
 EntityTemplate
 {
@@ -19393,15 +19168,15 @@ EntityTemplate
 		{
 			position
 			{
-				x "26"
-				z "52"
+				x "26.000"
+				z "52.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -19409,6 +19184,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(377)"
 EntityTemplate
 {
@@ -19446,15 +19222,15 @@ EntityTemplate
 		{
 			position
 			{
-				x "-26"
-				z "-52"
+				x "-26.000"
+				z "-52.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -19462,6 +19238,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(378)"
 EntityTemplate
 {
@@ -19499,15 +19276,15 @@ EntityTemplate
 		{
 			position
 			{
-				x "-26"
-				z "52"
+				x "-26.000"
+				z "52.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -19515,6 +19292,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(379)"
 EntityTemplate
 {
@@ -19552,15 +19330,15 @@ EntityTemplate
 		{
 			position
 			{
-				x "26"
-				z "-52"
+				x "26.000"
+				z "-52.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -19568,6 +19346,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(380)"
 EntityTemplate
 {
@@ -19605,15 +19384,15 @@ EntityTemplate
 		{
 			position
 			{
-				x "52"
-				z "52"
+				x "52.000"
+				z "52.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -19621,6 +19400,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(381)"
 EntityTemplate
 {
@@ -19658,15 +19438,15 @@ EntityTemplate
 		{
 			position
 			{
-				x "-52"
-				z "-52"
+				x "-52.000"
+				z "-52.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -19674,6 +19454,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(382)"
 EntityTemplate
 {
@@ -19711,15 +19492,15 @@ EntityTemplate
 		{
 			position
 			{
-				x "-52"
-				z "52"
+				x "-52.000"
+				z "52.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -19727,6 +19508,7 @@ EntityTemplate
 	}
 
 }
+
 //editor "index(383)"
 EntityTemplate
 {
@@ -19764,15 +19546,15 @@ EntityTemplate
 		{
 			position
 			{
-				x "52"
-				z "-52"
+				x "52.000"
+				z "-52.000"
 			}
 
 			scale
 			{
-				x "22.00"
+				x "22.000"
 				y "3.000"
-				z "22.00"
+				z "22.000"
 			}
 
 		}
@@ -19780,3 +19562,4 @@ EntityTemplate
 	}
 
 }
+
