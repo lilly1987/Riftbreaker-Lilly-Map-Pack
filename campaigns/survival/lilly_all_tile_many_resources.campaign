@@ -11,7 +11,7 @@ CampaignDef
 	achievements_group			 "survival"
 	//achievements_group			 "campaign"
 	
-	order                        "-4"
+	order                        "-5"
     
 	//script						 "logic/campaigns/story/default.logic"
 

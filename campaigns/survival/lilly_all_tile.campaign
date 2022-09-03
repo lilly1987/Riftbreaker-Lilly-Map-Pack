@@ -10,5 +10,5 @@ CampaignDef
 	rich_presence				 "rich_presence_3"
 	achievements_group			 "survival"
 	
-	order                        "-4"
+	order                        "-5"
 }

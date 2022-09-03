@@ -1,7 +1,7 @@
 MissionDef
 {
 	script		  "lua/missions/survival/survival_lilly.lua"
-	localization_id	"campaigns/survival/lilly_all_tile_double_resources.campaign"
+	localization_id	"campaigns/survival/lilly_tile_starting_double_resources.campaign"
 	description		"lilly_all"
 	script_database
 	{	 
