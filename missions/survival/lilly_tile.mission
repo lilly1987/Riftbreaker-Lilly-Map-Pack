@@ -1,7 +1,7 @@
 MissionDef
 {
 	script		  "lua/missions/survival/survival_lilly.lua"
-	localization_id	"campaigns/survival/lilly_all_tile.campaign"
+	localization_id	"campaigns/survival/lilly_tile.campaign"
 	description		"lilly_all"
 	//script_database
 	//{	 
@@ -10,7 +10,7 @@ MissionDef
 	//	objective_max_distance float:"64.0"
 	//}
 	
-	map_size		"5"
+	map_size	"5"
 
 	biomes		  	"lilly"
 	
@@ -109,6 +109,7 @@ biomes/lilly/tiles/liquid/liquid_cross4.tile
 biomes/lilly/tiles/liquid/liquid_cross4_2.tile
 biomes/lilly/tiles/liquid/liquid_cross4_3.tile
 biomes/lilly/tiles/liquid/liquid_cross4_4.tile
+biomes/lilly/tiles/rock0/rock0.tile
 biomes/lilly/tiles/Square/Square.tile
 biomes/lilly/tiles/Square/Square0.tile
 biomes/lilly/tiles/Square/Square1.tile
@@ -812,13 +813,13 @@ biomes/lilly/tiles/starting0/starting0.tile
 			{
 				player_spawn_point  20.0
 				//loot_containers  	45.0
-				loot_containers	20.0
+				loot_containers	15.0
 				magnetic_rocks		10.0
 			}
 
 			// range of spawned blueprints by this pool <min,max>, max can be 0 for unbounded upper limit
 			spawn_instances_minmax	0,0
-			spawn_density	0.25
+			spawn_density	0.5
 
 			spawn_blueprints
 			{
@@ -886,7 +887,7 @@ biomes/lilly/tiles/starting0/starting0.tile
 
 			// range of spawned blueprints by this pool <min,max>, max can be 0 for unbounded upper limit
 			spawn_instances_minmax	0,0
-			spawn_density	0.175
+			spawn_density	0.25
 
 			spawn_blueprints
 			{

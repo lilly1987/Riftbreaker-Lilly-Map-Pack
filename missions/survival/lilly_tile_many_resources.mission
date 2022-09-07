@@ -1,7 +1,7 @@
 MissionDef
 {
 	script		  "lua/missions/survival/survival_lilly.lua"
-	localization_id	"campaigns/survival/lilly_all_tile_many_resources.campaign"
+	localization_id	"campaigns/survival/lilly_tile_many_resources.campaign"
 	description		"lilly_all"
 	//script_database
 	//{	 
@@ -10,7 +10,7 @@ MissionDef
 	//	objective_max_distance float:"64.0"
 	//}
 	
-	map_size		"8,3"
+	map_size	"5"
 
 	biomes		  	"lilly"
 	
@@ -109,6 +109,7 @@ biomes/lilly/tiles/liquid/liquid_cross4.tile
 biomes/lilly/tiles/liquid/liquid_cross4_2.tile
 biomes/lilly/tiles/liquid/liquid_cross4_3.tile
 biomes/lilly/tiles/liquid/liquid_cross4_4.tile
+biomes/lilly/tiles/rock0/rock0.tile
 biomes/lilly/tiles/Square/Square.tile
 biomes/lilly/tiles/Square/Square0.tile
 biomes/lilly/tiles/Square/Square1.tile
@@ -814,7 +815,7 @@ biomes/lilly/tiles/starting0/starting0.tile
 			{
 				player_spawn_point  20.0
 				//loot_containers  	45.0
-				loot_containers	20.0
+				loot_containers	15.0
 				magnetic_rocks		10.0
 			}
 

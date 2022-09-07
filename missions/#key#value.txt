@@ -1,2 +1,8 @@
-//#cryo_plants	loot_containers	20.0
+//#cryo_plants	loot_containers	15.0
+//#cryo_spawn_density	spawn_density	0.5
 //#magnetic_rocks	loot_containers	20.0
+//#magnetic_spawn_density	spawn_density	0.25
+//#objective_tile	objective_tile string:"biomes/lilly/tiles/starting0/starting0.tile"
+//#objective_max_distance	objective_max_distance float:"100.0"
+///#spawn_near_position	spawn_near_position string:"0,0,0"
+//#map_size	map_size	"5"

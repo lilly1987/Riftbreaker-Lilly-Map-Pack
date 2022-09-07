@@ -1,7 +1,7 @@
 MissionDef
 {
 	script		  "lua/missions/survival/survival_lilly.lua"
-	localization_id	"campaigns/survival/lilly_all_tile_many_resources.campaign"
+	localization_id	"campaigns/survival/lilly_tile_many_resources.campaign"
 	description		"lilly_all"
 	//script_database
 	//{	 
@@ -10,7 +10,7 @@ MissionDef
 	//	objective_max_distance float:"64.0"
 	//}
 	
-	map_size		"8,3"
+	//#map_size
 
 	biomes		  	"lilly"
 	
@@ -724,7 +724,7 @@ source_tiles
 
 			// range of spawned blueprints by this pool <min,max>, max can be 0 for unbounded upper limit
 			spawn_instances_minmax	0,0
-			spawn_density	0.5
+			//#cryo_spawn_density
 
 			spawn_blueprints
 			{
@@ -792,7 +792,7 @@ source_tiles
 
 			// range of spawned blueprints by this pool <min,max>, max can be 0 for unbounded upper limit
 			spawn_instances_minmax	0,0
-			spawn_density	0.25
+			//#magnetic_spawn_density
 
 			spawn_blueprints
 			{

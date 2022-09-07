@@ -10,7 +10,7 @@ MissionDef
 	//	objective_max_distance float:"1.0"
 	//}
 	
-	map_size		"5"
+	//#map_size
 
 	biomes		  	"lilly"
 	
@@ -770,7 +770,7 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 
 			// range of spawned blueprints by this pool <min,max>, max can be 0 for unbounded upper limit
 			spawn_instances_minmax	0,0
-			spawn_density	0.25
+			//#cryo_spawn_density
 
 			spawn_blueprints
 			{
@@ -838,7 +838,7 @@ biomes/metallic/tiles/metallic_plains_05/metallic_plains_05.tile
 
 			// range of spawned blueprints by this pool <min,max>, max can be 0 for unbounded upper limit
 			spawn_instances_minmax	0,0
-			spawn_density	0.175
+			//#magnetic_spawn_density
 
 			spawn_blueprints
 			{
